@@ -12,12 +12,7 @@
 
 * [DCMS OPENMRS](openmrs/dcms-openmrs/README.md)
   * [HSU Journey and Workflows](openmrs/dcms-openmrs/hsu-journey-and-workflows.md)
-  * [Roles and Privileges](openmrs/dcms-openmrs/roles-and-privileges/README.md)
-    * [Page](openmrs/dcms-openmrs/roles-and-privileges/page.md)
-    * [Receptionist](openmrs/dcms-openmrs/roles-and-privileges/receptionist.md)
-    * [Interdisciplinary team](openmrs/dcms-openmrs/roles-and-privileges/interdisciplinary-team.md)
-    * [Social Worker](openmrs/dcms-openmrs/roles-and-privileges/social-worker.md)
-    * [Clinicians](openmrs/dcms-openmrs/roles-and-privileges/clinicians.md)
+  * [Roles and Privileges](openmrs/dcms-openmrs/roles-and-privileges.md)
 * [HSU registration and search](openmrs/hsu-registration-and-search.md)
 * [Page](openmrs/page.md)
 
