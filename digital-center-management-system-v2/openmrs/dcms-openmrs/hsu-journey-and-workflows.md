@@ -10,9 +10,11 @@ description: >-
 
 
 
-{% include "../../.gitbook/includes/openmrs-workflow-only-hsu-journey-with-intermediate-assessment.md" %}
+<img src="../../.gitbook/assets/file.excalidraw.svg" alt="Workflow New service " class="gitbook-drawing">
 
 
+
+<img src="../../.gitbook/assets/file.excalidraw.svg" alt="Workflow New service " class="gitbook-drawing">
 
 Register the HSU or find the HSU file coming to the PRC
 
@@ -66,10 +68,6 @@ Financial capacity assessment (Socioeconomic already recorded) and Financing dec
 
 {% step %}
 Service&#x20;
-
-
-
-
 {% endstep %}
 
 {% step %}

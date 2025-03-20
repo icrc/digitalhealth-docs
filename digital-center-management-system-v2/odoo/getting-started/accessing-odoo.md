@@ -38,3 +38,4 @@ Then click on "Sign in"
 
 ## Accessing Odoo from OpenMRS
 
+<img src="../../.gitbook/assets/file.excalidraw.svg" alt="Workflow New service " class="gitbook-drawing">
