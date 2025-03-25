@@ -29,4 +29,4 @@ MRP Process Flow
 * Go to the service user form.
 * Check for an open delivery and complete the delivery process.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

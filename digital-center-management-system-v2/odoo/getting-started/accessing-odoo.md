@@ -2,7 +2,7 @@
 
 ## Accessing odoo from the portal
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -20,7 +20,7 @@ Once you have clicked on the link to access the system, you will be taken to the
 {% step %}
 ### Click on DCMS Log in
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="261"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="261"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -30,7 +30,7 @@ Once you have clicked on the link to access the system, you will be taken to the
 
 Then click on "Sign in"
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
