@@ -4,16 +4,12 @@ description: Configuration and providing appointment
 
 # MODULE APPOINTMENT
 
+Th<kbd>e Physical Rehabilitation Centres offer multiple services to Health Service Users (HSU). These services may have defined days and times when they are offered. For e.g Casting runs every Monday 10.00 AM - 12.00 PM. Further, we have providers in the hospital who provide these specific services to HSU. Appointments are the means by which providers tend to manage their resources and time to offer services to a HSU.</kbd>
 
-
-The Physical Rehabilitation Centres offer multiple services to Health Service Users (HSU). These services may have defined days and times when they are offered. For e.g Casting runs every Monday 10.00 AM - 12.00 PM. Further, we have providers in the hospital who provide these specific services to HSU. Appointments are the means by which providers tend to manage their resources and time to offer services to a HSU.
-
-Appointment scheduling feature is intended to provide the users the ability to schedule and manage appointments for HSU in a typical ICRC Program set up. With the help of this feature one will be able to:
+<kbd>Appointment scheduling feature is intende</kbd>d to provide the users the ability to schedule and manage appointments for HSU in a typical ICRC Program set up. With the help of this feature one will be able to:
 
 1. Set up services for a program
 2. Create and manage appointments for an HSU
-
-### Used By
 
 Appointment feature can be used by any users within the Physical Rehabilitation Program and the level of access is defined based on the below set of privileges:
 
@@ -23,19 +19,19 @@ Appointment feature can be used by any users within the Physical Rehabilitation 
 
 3: Manage Appointment Services: Create, Edit and Delete Services (This is to add new service types or make changes to service types in appointments)
 
-Ex:
-
+{% hint style="info" %}
 Receptionist has Manage Everyone Appointments - So receptionist should be able to schedule, modify appointments with all providers
+{% endhint %}
 
-&#x20;Hospital Project Manager Program has all of the above privileges - so hospital project manager can create or modify any appointments and has the ability to create new services or modify the existing services
+{% hint style="info" %}
+Hospital Project Manager Program has all of the above privileges - so hospital project manager can create or modify any appointments and has the ability to create new services or modify the existing serviceT
+{% endhint %}
 
-### How is it used?
+### The management appointment
 
-The Appointment scheduling App is available on the Home page
+The Appointment scheduling Application is available on the Home page
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-
 
 ## Services and Service Type
 
@@ -49,69 +45,90 @@ Typically creating/updating services and specialties are Admin activities. Users
 
 ### How is it used?
 
-Click on the Appointment Scheduling App on the Home page. Under the Admin tab of the app, the user will be able to define and edit services.
+Click on the Appointment Scheduling App on the Home page. Under the Admin tab of the app, the user will be able to define and edit services. Only some roles will have access to the ADMIN button.
 
-&#x20;**Adding a new Service**
+<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption><p>Landing page when selecting appointment</p></figcaption></figure>
 
-1\. Click on the "Add new Service" button on the screen to access the Services Screen
+### &#x20;**Adding a new Service**
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+* [ ] Click on the "Add new Service" button on the screen to access the Services Screen
 
-
+<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption><p>Landing page after clicking on Admin button</p></figcaption></figure>
 
 The User would be required to provide the following details to create a new service:
 
-* Name: Unique name for the service. Mandatory field
-* Initial Appointment Status:&#x20;
+* [ ] **Service Name**: Unique name for the service. Mandatory field
+* [ ] **Initial Appointment Status**:&#x20;
 
-To have options **Scheduled , Requested;**
+With two options **Scheduled , Requested;**
 
-1. In case of Scheduled: Appointment with this initial status by default moves to scheduled state
-2. In case of Requested: Appointment with this initial status by default goes to request state and users have the option to accept or propose a new time. Once after the new time proposed, appointment by default goes to scheduled state
+* In case of Scheduled: Appointment with this initial status by default moves to scheduled state
+* In case of Requested: Appointment with this initial status by default goes to request state and users have the option to accept or propose a new time. Once after the new time proposed, appointment by default goes to scheduled state
 
+- [ ] **Description:** Describe the service
 
+* Duration of service: Consultation time required to offer the service to a patient.
+* Start Time & end time: The working hours for a service or availability of a service
 
-* Description: Describe the service
+{% hint style="info" %}
+Example: If casting occurs between 9:00 AM and 11:00 AM, the start time is 9:00 AM and the end time is 11:
+{% endhint %}
 
-1. Duration of service: Consultation time required to offer the service to a patient.
-2. Start Time & end time: The working hours for a service or availability of a service
+* [ ] **Max Load**: The maximum number of appointments that can be booked for the service within the specified availability (start and end times
 
+{% hint style="info" %}
+For example, the casting session can take a maximum of 10 HSU between 9.00 AM - 11.00 AM&#x20;
+{% endhint %}
 
+* [ ] **Location:** A default location where a service is expected to be offered to the HSUs.
 
-1. For example, if the casting happens from 9.00 AM to 11.00 AM, then start time would be 9.00 AM and end time would be 11.00 AM
-2. Max Load: This is the indicative maximum no. of appointments that can be booked for a service, for a given availability (start and end time mentioned above)
-3.
-   1. For example, the casting session can take a maximum of 10 HSU between 9.00 AM - 11.00 AM&#x20;
-4. Location: A default location where a service is expected to be offered to the HSUs.
+{% hint style="info" %}
+All locations marked as "appointment locations" in OPENMRS will be available in the drop-down to choose from.
+{% endhint %}
+
+* [ ] **Label Color:** The services can be assigned colors. On the calendar view, all the appointments booked for this service, will be displayed in this chosen color.
+
+<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+calendar view will have the color displayed (shown below are appointment with service types marked with Color)
+{% endhint %}
+
+For a service with label color, when appointment is scheduled for this service and viewed from calendar view will have the color displayed (shown below are appointment with service types marked with Color)
+
+&#x20;![](<../.gitbook/assets/image (88).png>)
+
+### Service Appointment Type:
+
+Service appointment types are the further granular categories under a service. One service may have different type of appointment types under a service
+
+{% hint style="info" %}
+For example, Initial assessment, Follow-Up Consultation under Casting service
+{% endhint %}
+
+* **Duration**: Each of these types are associated with a particular duration. This will override the service duration
+* S**ervice Appointment types** can also be deleted, by clicking on the cross button beside the Service appointment type. Service Availability&#x20;
+
+1. One can either mention a global availability for a service as mentioned in point d above or could specify a more granular availability.
+2. In case of no availability defined, by default service is available on all days of the week at all times. Multiple availability can be tied to one service.
+3. Example of service availability:\
+   Physiotherapy session is happening on Monday and Friday from 10 AM to 12 PM and Wednesday 2 PM to 4 PM. Then the user will have 2 availabilities defined:\
+   For Monday & Friday; with a start and end time of 10 AM to 12 PM\
+   For Wednesday; with a start and end time of 2 PM to 4 PM
+4. Max load for that availability (day)\
+   \
+
 5.
-   1. All locations marked as "appointment locations" in openMRS will be available in the dropdown to choose from
-6. Label Color: The services can be assigned colors. On the calendar view, all the appointments booked for this service, will be displayed in this chosen color.
-7.
-   1. For a service with label color, when appointment is scheduled for this service and viewed from calendar view will have the color displayed (shown below are appointment with service types marked with Color)
+   1. The max number of HSUs that can be scheduled for a service for a defined duration in the day i.e. limit to the no.of appointments that can be booked.
+   2. This value will be displayed to the user when they are booking an appointment for the service.
+
+The screenshot below shows the Service availability and the Service Appointment Types defined:
 
 &#x20;
 
-Initial Appointment Status: To have options Scheduled , Requested.
-
-*
-
-
-
-1. In case of Scheduled: Appointment with this initial status by default moves to scheduled state
-2. In case of Requested: Appointment with this initial status by default goes to request state and users have the option to accept or propose a new time. Once after the new time proposed, appointment by default goes to scheduled state
-3. Description: Describe the service
-4. Duration of service: Consultation time required to offer the service to a patient.
-5. Start Time & end time: The working hours for a service or availability of a service
-6.
-   1. For example, if the casting happens from 9.00 AM to 11.00 AM, then start time would be 9.00 AM and end time would be 11.00 AM
-7. Max Load: This is the indicative maximum no. of appointments that can be booked for a service, for a given availability (start and end time mentioned above)
-8.
-   1. For example, the casting session can take a maximum of 10 HSU between 9.00 AM - 11.00 AM&#x20;
-9. Location: A default location where a service is expected to be offered to the HSUs.
-10.
-    1. All locations marked as "appointment locations" in openMRS will be available in the dropdown to choose from
-11. Label Color: The services can be assigned colors. On the calendar view, all the appointments booked for this service, will be displayed in this chosen color.
-12.
-    1. For a service with label color, when appointment is scheduled for this service and viewed from calendar view will have the color displayed (shown below are appointment with service types marked with Color)
+![](file:///C:/Users/A571885/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
 
 &#x20;
+
+1.
+   1. S
