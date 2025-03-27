@@ -14,7 +14,7 @@ Each step has a “Start”/ ”Block” button.
 
 ·       This will help to track the time for each step.
 
-{% hint style="warning" %}
+{% hint style="info" %}
 Currently only 1 person can start the step even if there is multiple person working on it.
 {% endhint %}
 
