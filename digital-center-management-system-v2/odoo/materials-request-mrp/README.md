@@ -58,40 +58,31 @@ Finalize the manufacturing process once all work orders are completed.
 ## Flow chart
 
 ```mermaid
-journey
-    title Service User Device Manufacturing & Delivery Journey
-
-    section Identifying the Service User
-      User logs into the system: 1
-      User navigates to 'Service User Management': 2
-      User searches and selects service user: 3
-
-    section Configuring the Bill of Materials (BoM)
-      User initiates BoM configuration: 2
-      User defines product attributes (side, size, color): 3
-      User proceeds to validation: 2
-
-    section Validating the Bill of Materials (BoM)
-      User confirms BoM configuration: 2
-      Superior validation (if required): 1
-
-    section Stock Allocation
-      User transfers stock to workshop: 3
-
-    section Manufacturing Process
-      User initiates manufacturing order: 2
-      User processes each work order step-by-step: 3
-      Additional validation (if required): 1
-
-    section Completing the Manufacturing Order
-      User finalizes manufacturing process: 3
-
-    section Delivering the Device to the Service User
-      User navigates to service user form: 2
-      User checks for open delivery: 2
-      User completes delivery process: 3
+graph TB;
+    A[Identify the Service User] --> B[Locate SU in 'Service User Management' Menu];
+    B --> C[Configure the Bill of Materials];
+    C --> D[Create BoM Configuration: Define Product Attributes];
+    D --> E[Validate the Bill of Materials ];
+    E -->|If Required| F[Superior Validation];
+    E -->|Else| G[Proceed to Stock Allocation];
+    F --> G;
+    G[Stock Allocation: Move Components to Workshop] --> H[Start Manufacturing Process];
+    H --> I[Process Work Orders Step-by-Step];
+    I -->|If Required| J[Additional Validation by Another Person];
+    I -->|Else| K[Complete Manufacturing Order];
+    J --> K;
+    K[Finalize Manufacturing Process] --> L[Deliver the Device to SU];
+    L --> M[Go to Service User Form];
+    M --> N[Check for Open Delivery];
+    N --> O[Complete the Delivery Process];
 
 ```
+
+
+
+
+
+<img src="../../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
 
 
 
