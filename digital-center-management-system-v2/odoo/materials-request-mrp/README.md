@@ -58,24 +58,35 @@ Finalize the manufacturing process once all work orders are completed.
 ## Flow chart
 
 ```mermaid
-graph TB;
-    A[Identify the Service User] --> B[Locate SU in 'Service User Management' Menu];
-    B --> C[Configure the Bill of Materials];
-    C --> D[Create BoM Configuration: Define Product Attributes];
-    D --> E[Validate the Bill of Materials ];
-    E -->|If Required| F[Superior Validation];
-    E -->|Else| G[Proceed to Stock Allocation];
+---
+config:
+  theme: mc
+look: neo
+---
+graph TD;
+    subgraph user1 ["P&O"]
+    A["P&O: Identify the Service User"] --> B["P&O: Locate SU in 'Service User Management' Menu"];
+    B --> C["Configure the Bill of Materials (BoM)"];
+    C --> D["Create BoM Configuration (Side, Size, Color)"];
+    end 
+    subgraph user2 ["Head of P&O"]
+    E["P&O: Validate the Bill of Materials (BoM)"];
+    E -->|If Required| F["P&O: Need of Superior Validation"];
+    end
+    user1 --> user2
+    
+    E -->|Else| G["Stock picking created"];
     F --> G;
-    G[Stock Allocation: Move Components to Workshop] --> H[Start Manufacturing Process];
-    H --> I[Process Work Orders Step-by-Step];
-    I -->|If Required| J[Additional Validation by Another Person];
-    I -->|Else| K[Complete Manufacturing Order];
+    G --> G2["Retrieve the Components from the stock"]
+    G2 --> H["Benchworker: Start Manufacturing Process"];
+    H --> I["Benchworker: Process Work Orders Step-by-Step"];
+    I -->|If Required| J["Benchworker: Additional Validation by Another Person"];
+    I -->|Else| K["Benchworker: Complete Manufacturing Order"];
     J --> K;
-    K[Finalize Manufacturing Process] --> L[Deliver the Device to SU];
-    L --> M[Go to Service User Form];
-    M --> N[Check for Open Delivery];
-    N --> O[Complete the Delivery Process];
-
+    K["Benchworker: Finalize Manufacturing Process"] --> L["Benchworker: Deliver the Device to SU"];
+    L --> M["Benchworker: Go to Service User Form"];
+    M --> N["Benchworker: Check for Open Delivery"];
+    N --> O["Benchworker: Complete the Delivery Process"];
 ```
 
 
