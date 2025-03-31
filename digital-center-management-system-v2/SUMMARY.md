@@ -11,7 +11,8 @@
 ## OpenMRS&#x20;
 
 * [DCMS OPENMRS](openmrs/dcms-openmrs/README.md)
-  * [HSU Journey and Workflows](openmrs/dcms-openmrs/hsu-journey-and-workflows.md)
+  * [HSU Journey and Workflows](openmrs/dcms-openmrs/hsu-journey-and-workflows/README.md)
+    * [Workflow for Club Foot treatment](openmrs/dcms-openmrs/hsu-journey-and-workflows/workflow-for-club-foot-treatment.md)
   * [Roles and Privileges](openmrs/dcms-openmrs/roles-and-privileges/README.md)
 * [MODULE APPOINTMENT](openmrs/module-appointment.md)
 * [PROFESSIONAL DASHBOARD](openmrs/professional-dashboard.md)
