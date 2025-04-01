@@ -20,35 +20,39 @@ For a new HSU who will need a Foot Abduction Brace;
 
 <mark style="color:orange;">Select New Service</mark>
 
-1. **Initial Assessment**
-2. **Condition Selection:**
+4. **Initial Assessment**
+5. **Condition Selection:**
    * _Congenital malformation and deformations of the musculoskeletal system (Q65–Q79)_
    * → **Talipe Equinovarus**
-3. **Initial Outcome and Goal Setting**
+6. **Initial Outcome and Goal Setting**
 
 <mark style="color:orange;">Plan Service: HSU Eligible</mark>
 
-1. **Basic Service Plan**
-2. **Select Service Category:**
+7. **Basic Service Plan**
+8. **Select Service Category:**
    * _Orthosis & Foot Abduction Brace_
-3. **Financial Capacity Assessment (+socioeconomic assessment and financing decision)**
+9. **Financial Capacity Assessment (+socioeconomic assessment and financing decision)**
 
 <mark style="color:orange;">Approve service</mark>
 
-1. **Services**
-   * Complete the relevant form (in our scenario we select the first one in bold).
-     * **Club foot treatment record, assessment & cast follow up** _You can complete multiple forms to enable the monitoring of the Pirani score ._
-     * Club foot treatment record tenotomy decision&#x20;
-     * Club foot treatment record post tenotomy follow up
-     * Club foot post tenotomy functional outcomes
-2. **Material Request Process:**
-   * Select Material Request in ODOO
-   * Use PRP Dashboard → Add Foot Abduction Brace
-3. **Final Assessment Outcome & Goal Setting**
+10. **Services**
+
+* Complete the relevant form (in our scenario we select the first one in bold).
+  * **Club foot treatment record, assessment & cast follow up** _You can complete multiple forms to enable the monitoring of the Pirani score ._
+  * Club foot treatment record tenotomy decision&#x20;
+  * Club foot treatment record post tenotomy follow up
+  * Club foot post tenotomy functional outcomes
+
+11. **Material Request Process:**
+
+* Select Material Request in ODOO
+* Use PRP Dashboard → Add Foot Abduction Brace
+
+12. **Final Assessment Outcome & Goal Setting**
 
 <mark style="color:orange;">Close Episode of Service</mark>
 
-1. **Appointment for Follow-Up Service**
+13. **Appointment for Follow-Up Service**
 
 ```mermaid fullWidth="true"
 flowchart TD
