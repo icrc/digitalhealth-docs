@@ -78,9 +78,9 @@ Appointment for follow up visit
 {% endstep %}
 {% endstepper %}
 
-### Workflow Follow up/Repair
+### 2. Workflow Follow up/Repair
 
-<img src="../../../.gitbook/assets/file.excalidraw (2).svg" alt="" class="gitbook-drawing">
+<img src="../../../.gitbook/assets/file.excalidraw (2) (1).svg" alt="" class="gitbook-drawing">
 
 
 

@@ -31,7 +31,7 @@ Hospital Project Manager Program has all of the above privileges - so hospital p
 
 The Appointment scheduling Application is available on the Home page
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Services and Service Type
 
