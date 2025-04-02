@@ -97,6 +97,12 @@ graph TD;
 
 
 
+This page provides a detailed workflow diagram, designed using Mermaid, to illustrate the process of handling a Bill of Materials (BoM) within a service user management framework. Through distinct roles, including P\&O and Benchworker, the diagram outlines each step from identifying the service user to completing the manufacturing and delivery processes, ensuring clarity and streamlined operations.
+
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
+
+
+
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 [^1]: Service User
