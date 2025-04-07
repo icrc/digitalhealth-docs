@@ -79,11 +79,9 @@ flowchart TD
     style S stroke:#FFD600
 ```
 
-workload.&#x20;
-
 The HSU comes back for the follow up visit, and will have different options through this workflow "follow up": See below the options.
 
-We can have a Foot Abduction Brace renewal as an exception within this workflow to ease the clinician&#x20;
+**For this specific clinical scenario, we can streamline the process by allowing a Foot Abduction Brace renewal exception in the workflow to facilitate the clinician**
 
 {% hint style="warning" %}
 A: For monitoring, shoe changes, adjustment, repair, or renewing a foot abduction brace within 1-2 weeks, the Episode of service can close at month's end to include follow-up visits.
