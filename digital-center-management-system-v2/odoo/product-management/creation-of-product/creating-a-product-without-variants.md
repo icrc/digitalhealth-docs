@@ -5,7 +5,7 @@ Example of such products are : Lady stockings, Plaster of paris - powder, etc...
 For such products, we need to define only a few things:\
 
 
-<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
 1. Selecting checkboxes to buy or sell will impact this product's visibility across various sections of the Odoo system.
 2. Product Type: This categorization helps in understanding how a product is used or consumed:
