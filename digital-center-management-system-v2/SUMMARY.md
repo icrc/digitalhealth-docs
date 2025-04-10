@@ -1,7 +1,6 @@
 # Table of contents
 
-* [DCMS v2](README.md)
-* [INTRODUCTION](introduction/README.md)
+* [INTRODUCTION](README.md)
   * [Table of content](introduction/table-of-content.md)
   * [Acronym](introduction/acronym.md)
   * [What is the DCMS?](introduction/what-is-the-dcms.md)
@@ -28,7 +27,7 @@
 * [Getting started](odoo/getting-started/README.md)
   * [Accessing Odoo](odoo/getting-started/accessing-odoo.md)
   * [Landing Page Widget](odoo/getting-started/landing-page-widget.md)
-  * [Explanation of the interface (WIP)](odoo/getting-started/explanation-of-the-interface-wip.md)
+  * [Explanation of the interface](odoo/getting-started/explanation-of-the-interface.md)
 * [Service User Management](odoo/service-user-management.md)
 * [Materials request (MRP)](odoo/materials-request-mrp/README.md)
   * [Configuration](odoo/materials-request-mrp/configuration/README.md)
@@ -43,6 +42,8 @@
     * [Processing the materials request stock move](odoo/materials-request-mrp/send-asked-product-to-the-correct-stock/processing-the-materials-request-stock-move.md)
     * [Request new componener for recasting (optional step)](odoo/materials-request-mrp/send-asked-product-to-the-correct-stock/request-new-componener-for-recasting-optional-step.md)
   * [Work order](odoo/materials-request-mrp/work-order.md)
+  * [Validating the Manufacturing Order](odoo/materials-request-mrp/validating-the-manufacturing-order.md)
+  * [Send the product to the SU](odoo/materials-request-mrp/send-the-product-to-the-su.md)
 * [Repair Process](odoo/repair-process/README.md)
   * [Get the product to repair](odoo/repair-process/get-the-product-to-repair.md)
   * [Create the Repair order](odoo/repair-process/create-the-repair-order.md)

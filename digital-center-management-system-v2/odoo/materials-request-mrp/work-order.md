@@ -1,5 +1,31 @@
 # Work order
 
+
+
+```mermaid
+graph LR
+ subgraph PW_PO["P&O / Head of P&O"]
+        PW_PO_01["Validation"]
+  end
+    PW_01["Starting the Step"]
+    PW_02["Doing the work"]
+    PW_03["Is validation step"]
+    PW_04["Is Last step"]
+    PW_05["Finalize Manufacturing Process"]
+    PW_06["Restart Process"]
+    PW_07["Close the step"]
+    PW_01 --> PW_02
+    PW_02 --> PW_03
+    PW_03 -- Yes --> PW_PO 
+    PW_03 -- No --> PW_07
+    PW_04 --> PW_05 & PW_06
+    PW_07 --> PW_04
+    PW_PO --> PW_07
+PW_06
+    PW_04@{ shape: diam}
+    PW_03@{ shape: diam}
+```
+
 Inside the **Manufacturing Order**, you will find a tab called **"Work Orders"**.
 
 <figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>

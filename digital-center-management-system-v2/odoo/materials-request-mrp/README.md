@@ -48,7 +48,7 @@ Finalize the manufacturing process once all work orders are completed.
 {% endstep %}
 
 {% step %}
-### Deliver the Device to the SU[^1]
+### Deliver the Device to the SU
 
 * Go to the service user form.
 * Check for an open delivery and complete the delivery process.
@@ -61,48 +61,45 @@ Finalize the manufacturing process once all work orders are completed.
 ---
 config:
   theme: mc
-look: neo
 ---
-graph TD;
-    subgraph user1 ["P&O"]
-    A["P&O: Identify the Service User"] --> B["P&O: Locate SU in 'Service User Management' Menu"];
-    B --> C["Configure the Bill of Materials (BoM)"];
-    C --> D["Create BoM Configuration (Side, Size, Color)"];
-    end 
-    subgraph user2 ["Head of P&O"]
-    E["P&O: Validate the Bill of Materials (BoM)"];
-    E -->|If Required| F["P&O: Need of Superior Validation"];
-    end
-    user1 --> user2
-    
-    E -->|Else| G["Stock picking created"];
-    F --> G;
-    G --> G2["Retrieve the Components from the stock"]
-    G2 --> H["Benchworker: Start Manufacturing Process"];
-    H --> I["Benchworker: Process Work Orders Step-by-Step"];
-    I -->|If Required| J["Benchworker: Additional Validation by Another Person"];
-    I -->|Else| K["Benchworker: Complete Manufacturing Order"];
-    J --> K;
-    K["Benchworker: Finalize Manufacturing Process"] --> L["Benchworker: Deliver the Device to SU"];
-    L --> M["Benchworker: Go to Service User Form"];
-    M --> N["Benchworker: Check for Open Delivery"];
-    N --> O["Benchworker: Complete the Delivery Process"];
+flowchart TD
+ subgraph user1["P&O"]
+        B@{ label: "Locate SU in 'Service User Management' Menu" }
+        A["Identify the Service User"]
+        C["Configure the Bill of Materials (BoM)"]
+        D["Create BoM Configuration (Side, Size, Color)"]
+        E["Validate the Bill of Materials (BoM)"]
+  end
+ subgraph user2["Head of P&O"]
+        F["Validate the Manufacturing order"]
+  end
+ subgraph user3["P&O"]
+        n2["Validate the Manufacturing order"]
+  end
+ subgraph Bencworker["Benchworker"]
+        G2["Retrieve the Components from the stock"]
+        H["Start Manufacturing Process"]
+        I["Process Work Orders Step-by-Step"]
+        K["Finalize Manufacturing Process"]
+  end
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    user1 --> n1(["Need a Superior Validation"])
+    n1 -- Yes --> user2
+    n1 -- No --> user3
+    F --> G["Stock picking created"]
+    G --> G2
+    G2 --> H
+    H --> I
+    K --> L["Deliver the Device to SU"]
+    L --> M["Go to Service User Form"]
+    M --> N["Check for Open Delivery"]
+    N --> O["Complete the Delivery Process"]
+    user3 --> G
+    I --> K
+    B@{ shape: rect}
+
 ```
 
-
-
-
-
-<img src="../../.gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
-
-
-
-This page provides a detailed workflow diagram, designed using Mermaid, to illustrate the process of handling a Bill of Materials (BoM) within a service user management framework. Through distinct roles, including P\&O and Benchworker, the diagram outlines each step from identifying the service user to completing the manufacturing and delivery processes, ensuring clarity and streamlined operations.
-
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
-
-
-
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-[^1]: Service User
