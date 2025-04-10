@@ -1,12 +1,8 @@
----
-description: Definition
----
-
 # What is the DCMS?
 
 ## The Digital Centre Management System
 
-<div align="left"><figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption><p>DCMS logo</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption><p>DCMS logo</p></figcaption></figure></div>
 
 The Digital Centre Management System (DCMS) is a unique solution, developed for the Physical Rehabilitation Program within the Program Humanitarian Impact Investment (PHII), transversely with Pearl, to Support Rehabilitation Centres to function in a more efficient and autonomous way. &#x20;
 
@@ -24,11 +20,11 @@ The Enterprise Resource Planning (ERP) system manages various operational aspect
 
 
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption><p>The DCMS has for purpose to improve the efficiency measures at the Physical Rehabilitation Center</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption><p>The DCMS has for purpose to improve the efficiency measures at the Physical Rehabilitation Center</p></figcaption></figure>
 
 ### EMR- Electronic Medical Record: supported by OpenMRS
 
-<div align="left"><figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption><p>OpenMRS logo</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption><p>OpenMRS logo</p></figcaption></figure></div>
 
 * Centralize medical record and enhance data protection.&#x20;
 * Support interdisciplinary work Book a digital appointment&#x20;
@@ -38,13 +34,13 @@ The Enterprise Resource Planning (ERP) system manages various operational aspect
 
 
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption><p>Transversal application</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption><p>Transversal application</p></figcaption></figure>
 
 
 
 ### ERP – Entreprise Resource Planning: supported by Odoo
 
-<div align="left"><figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption><p>Odoo Logo</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption><p>Odoo Logo</p></figcaption></figure></div>
 
 * Stock management: better followup on the inventory and limit the risk of fraud&#x20;
 * Supply Chain: enhance supply chain procedure and reduce the risks on material loss or waste.&#x20;
@@ -55,8 +51,8 @@ The Enterprise Resource Planning (ERP) system manages various operational aspect
 
 ### SUPERSET
 
-![](<../.gitbook/assets/image (28).png>)
+![](<../../.gitbook/assets/image (28).png>)
 
 Superset made by Apache is an open-source solution that allows to visualize and explore data. It’s a powerful yet easy to use solution to connect with many different datasets and combine them into one visualization tool, so or a dashboard. It comes with plenty of visualizations that are already pre-installed.
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>

@@ -1,4 +1,4 @@
-# Getting Started&#x20;
+# Getting Started (with the system)
 
 ### Prerequisites for accessing the system
 
@@ -53,7 +53,7 @@ Once you have successfully logged in, you will be directed your **Dashboard** wh
 
 <figure><img src="../.gitbook/assets/login 2.png" alt=""><figcaption><p>login with your credential</p></figcaption></figure>
 
-e.&#x20;
+
 
 <figure><img src="../.gitbook/assets/landing page (1).png" alt=""><figcaption><p>Landing page with widgets (in blue frame are the widgets for the receptionist).</p></figcaption></figure>
 
@@ -64,7 +64,7 @@ e.&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
-You role will determine your priviliges and access in both applications (OpenMRS and Odoo)!
+You role will determine your privileges and access in both applications (OpenMRS and Odoo)!
 
 You will find the access for the privileges by role in the next chapter.
 {% endhint %}

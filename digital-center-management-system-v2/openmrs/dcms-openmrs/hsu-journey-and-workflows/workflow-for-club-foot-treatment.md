@@ -128,8 +128,8 @@ If issues persist, consider returning for recasting.
 
 <mark style="color:orange;">Do we have devices to be repaired during this visit?</mark>
 
-* If No → Save and validate
-* If Yes:
+* If No (if option 2) → Save and validate
+* If Yes (if option 1):
   * Select the device and repair type
   * Orthosis / LL bilateral
   * Adjustment or Repair

@@ -31,7 +31,7 @@ Hospital Project Manager Program has all of the above privileges - so hospital p
 
 The Appointment scheduling Application is available on the Home page
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Services and Service Type
 
@@ -47,13 +47,13 @@ Typically creating/updating services and specialties are Admin activities. Users
 
 Click on the Appointment Scheduling App on the Home page. Under the Admin tab of the app, the user will be able to define and edit services. Only some roles will have access to the ADMIN button.
 
-<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption><p>Landing page when selecting appointment</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (86).png" alt=""><figcaption><p>Landing page when selecting appointment</p></figcaption></figure>
 
 ### &#x20;**Adding a new Service**
 
 * [ ] Click on the "Add new Service" button on the screen to access the Services Screen
 
-<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption><p>Landing page after clicking on Admin button</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (85).png" alt=""><figcaption><p>Landing page after clicking on Admin button</p></figcaption></figure>
 
 The User would be required to provide the following details to create a new service:
 
@@ -88,7 +88,7 @@ All locations marked as "appointment locations" in OPENMRS will be available in 
 
 * [ ] **Label Color:** The services can be assigned colors. On the calendar view, all the appointments booked for this service, will be displayed in this chosen color.
 
-<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 calendar view will have the color displayed (shown below are appointment with service types marked with Color)
@@ -96,7 +96,7 @@ calendar view will have the color displayed (shown below are appointment with se
 
 For a service with label color, when appointment is scheduled for this service and viewed from calendar view will have the color displayed (shown below are appointment with service types marked with Color)
 
-&#x20;![](<../.gitbook/assets/image (88).png>)
+&#x20;![](<.gitbook/assets/image (88).png>)
 
 ### Service Appointment Type:
 

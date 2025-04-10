@@ -2,25 +2,28 @@
 
 * [INTRODUCTION](README.md)
   * [Table of content](introduction/table-of-content.md)
-  * [Acronym](introduction/acronym.md)
-  * [What is the DCMS?](introduction/what-is-the-dcms.md)
-  * [Getting Started ](introduction/getting-started.md)
-  * [Acronym](introduction/acronym-1.md)
+  * [Acronym](introduction/acronym/README.md)
+    * [Acronym](introduction/acronym/acronym.md)
+  * [What is the DCMS?](introduction/what-is-the-dcms/README.md)
+    * [How the DCMS is deployed](introduction/what-is-the-dcms/how-the-dcms-is-deployed.md)
+  * [Getting Started (with the system)](introduction/getting-started-with-the-system.md)
 
 ## OpenMRS&#x20;
 
 * [DCMS OPENMRS](openmrs/dcms-openmrs/README.md)
+  * [Accessing EMR](openmrs/dcms-openmrs/accessing-emr/README.md)
+    * [Roles and Privileges](openmrs/dcms-openmrs/accessing-emr/roles-and-privileges.md)
   * [HSU Journey and Workflows](openmrs/dcms-openmrs/hsu-journey-and-workflows/README.md)
+    * [Workflow User Journey Case study](openmrs/dcms-openmrs/hsu-journey-and-workflows/workflow-user-journey-case-study.md)
     * [Workflow for Club Foot treatment](openmrs/dcms-openmrs/hsu-journey-and-workflows/workflow-for-club-foot-treatment.md)
-  * [Roles and Privileges](openmrs/dcms-openmrs/roles-and-privileges/README.md)
-* [MODULE APPOINTMENT](openmrs/module-appointment.md)
-* [PROFESSIONAL DASHBOARD](openmrs/professional-dashboard.md)
+  * [DASHBOARDS](openmrs/dcms-openmrs/dashboards.md)
 * [HSU registration and search](openmrs/hsu-registration-and-search.md)
-* [DASHBOARDS](openmrs/dashboards.md)
 
 ***
 
-* [Page](page.md)
+* [MODULE APPOINTMENT](module-appointment.md)
+* [Page](page/README.md)
+  * [PROFESSIONAL DASHBOARD](page/professional-dashboard.md)
 
 ## 🙆‍♂️ Odoo&#x20;
 
