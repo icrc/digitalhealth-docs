@@ -13,50 +13,9 @@ We have 2 main workflows&#x20;
 1. New Service
 2. Follow up/repair&#x20;
 
-### 1. The workflow New service (Including intermediate assessment)
-
-
-
-<img src="../../../.gitbook/assets/file.excalidraw (1).svg" alt="Workflow New service " class="gitbook-drawing">
-
-Register the HSU or find the HSU file coming to the PRC
+###
 
 {% stepper %}
-{% step %}
-### Start the visit
-
-<mark style="color:green;">Initial decision after registration</mark> and decision to send for new service (save and validate)
-{% endstep %}
-
-{% step %}
-### Initial Assessment (interdisciplinary team)
-
-* <mark style="color:green;">Initial outcome and goal setting</mark>
-* <mark style="color:green;">Basic service plan + clinical consent</mark>
-{% endstep %}
-
-{% step %}
-### Financial capacity assessment
-
-<mark style="color:green;">Socioeconomic assessment+ Financing decision</mark>
-{% endstep %}
-
-{% step %}
-### Services&#x20;
-
-Technical cards
-
-Physiotherapy assessment
-
-Wheelchair assessment
-
-Walking Aids
-
-Club foot
-
-Cerebral palsy
-{% endstep %}
-
 {% step %}
 ### (if necessary) Intermediate Assessment Outcome and Goal setting
 
@@ -76,9 +35,53 @@ Financial capacity assessment (+Socioeconomic already recorded) and Financing de
 
 Appointment for follow up visit
 {% endstep %}
+
+{% step %}
+
+
+
+{% endstep %}
+
+{% step %}
+
+{% endstep %}
 {% endstepper %}
 
-### 2. Workflow Follow up/Repair
+```mermaid
+graph 
+
+    A["Register the HSU or find the HSU file coming to the PRC"] --> B["Start the visit"]
+    B --> C["Initial decision after registration and decision to send for new service (save and validate)"]
+    C --> D["Initial Assessment (interdisciplinary team)"]
+    D --> E["Initial outcome and goal setting + Basic service plan + clinical consent"]
+    E --> F["Financial capacity assessment + Socioeconomic assessment + Financing decision"]
+    F --> G["Any Services"]
+    
+    G --> G1["Technical cards"]
+    G --> G2["Physiotherapy assessment"]
+    G --> G3["Wheelchair assessment"]
+    G --> G4["Walking Aids"]
+    G --> G5["Club foot"]
+    G --> G6["Cerebral palsy"]
+    
+    G6 --> H{"Intermediate Assessment and <br>Goal Setting (if needed)"}
+    G5 --> H
+    G4 --> H
+    G3 --> H
+    G2 --> H
+    G1 --> H
+    G --> H
+
+    H -- Yes --> I["Adjust service if required + Basic service plan + Financial capacity assessment + Financing decision"]
+    I --> J["Additional Services"]
+    J --> K["Final assessment Outcome and goal setting + Automatic closure of service"]
+
+    H -- No --> K
+    K --> L["Appointment for follow-up visit"]
+
+```
+
+### &#x20;Workflow Follow up/Repair
 
 <img src="../../../.gitbook/assets/file.excalidraw (2) (1).svg" alt="" class="gitbook-drawing">
 

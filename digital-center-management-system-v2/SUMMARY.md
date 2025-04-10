@@ -14,7 +14,7 @@
   * [Accessing EMR](openmrs/dcms-openmrs/accessing-emr/README.md)
     * [Roles and Privileges](openmrs/dcms-openmrs/accessing-emr/roles-and-privileges.md)
   * [HSU Journey and Workflows](openmrs/dcms-openmrs/hsu-journey-and-workflows/README.md)
-    * [Workflow User Journey Case study](openmrs/dcms-openmrs/hsu-journey-and-workflows/workflow-user-journey-case-study.md)
+    * [Workflow User Journey](openmrs/dcms-openmrs/hsu-journey-and-workflows/workflow-user-journey.md)
     * [Workflow for Club Foot treatment](openmrs/dcms-openmrs/hsu-journey-and-workflows/workflow-for-club-foot-treatment.md)
   * [DASHBOARDS](openmrs/dcms-openmrs/dashboards.md)
 * [HSU registration and search](openmrs/hsu-registration-and-search.md)
