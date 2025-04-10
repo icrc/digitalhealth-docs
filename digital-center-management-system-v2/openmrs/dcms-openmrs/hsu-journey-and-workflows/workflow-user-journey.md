@@ -141,51 +141,7 @@ Appointment for follow up visit
 {% endstepper %}
 
 ```mermaid
-flowchart TB
-    %% Main workflow
-    A["Register the HSU or find the HSU file coming to the PRC"] --> 
-    B["Start the visit"] --> 
-    C["Initial decision after registration and decision to send for new service (save and validate)"] --> 
-    D["Initial Assessment (interdisciplinary team)"]
-
-    %% Optional assessment
-    D -.-> D2["Optional Assessment"]
-
-    D --> E["Initial outcome and goal setting + Basic service plan + clinical consent"]
-    E --> E1["Plan Service"]
-    E1 --> F["Financial capacity assessment + socio-economic assessment (completed with financing decision if financial capacity is not approved)"]
-    F --> G["Any Services"]
-
-    %% Subgraph for services
-    subgraph "" direction LR
-        G --> G1["Technical cards"]
-        G --> G2["Physiotherapy assessment"]
-        G --> G3["Wheelchair assessment"]
-        G --> G4["Walking Aids"]
-        G --> G5["Club foot"]
-        G --> G6["Cerebral palsy"]
-    end
-
-    %% Intermediate Assessment after subgraph
-    G1 --> H["Intermediate Assessment & Goal Setting?"]
-    G2 --> H
-    G3 --> H
-    G4 --> H
-    G5 --> H
-    G6 --> H
-
-    %% Decision paths
-    H -- Yes --> I["Adjust service + new plan + financial review"]
-    H -- No --> K["Final assessment Outcome and goal setting + Automatic closure of service"]
-
-    I --> J["Additional Services"]
-    J --> K
-    K --> L["Appointment for follow-up visit"]
-
-    %% Styling
-    classDef default fill:#f0f0f0,stroke:#333,stroke-width:1.5px;
-    classDef optional stroke-dasharray: 5 5,stroke:#888,fill:#ffffff;
-    class D2 optional;
+fl
 
 ```
 
@@ -224,14 +180,54 @@ If not approved complete the socioeconomic already recorded&#x20;
 ### Service Follow up Plan (Automatic closure of Episode of service)
 
 If AT repair is yes, select the pertinent service category options with the Adjustment or/and Repair as service.
-
-
-
-
 {% endstep %}
 {% endstepper %}
 
+```mermaid
+flowchart TB
+    %% Main workflow
+    A["Register the HSU or find the HSU file coming to the PRC"] --> 
+    B["Start the visit"] --> 
+    C["Initial decision after registration and decision to send for new service (save and validate)"] --> 
+    D["Initial Assessment (interdisciplinary team)"]
 
+    %% Optional assessment
+    D -.-> D2["Optional Assessment"]
+
+    D --> E["Initial outcome and goal setting + Basic service plan + clinical consent"]
+    E --> E1["Plan Service"]
+    E1 --> F["Financial capacity assessment + socio-economic assessment (completed with financing decision if financial capacity is not approved)"]
+    F --> G["Any Services"]
+
+    %% Subgraph for services
+    subgraph "" direction LR
+        G --> G1["Technical cards"]
+        G --> G2["Physiotherapy assessment"]
+        G --> G3["Wheelchair assessment"]
+        G --> G4["Walking Aids"]
+        G --> G5["Club foot"]
+        G --> G6["Cerebral palsy"]
+        %% Intermediate Assessment after subgraph
+    G1 --> H["Intermediate Assessment and Goal Setting "]
+    G2 --> H
+    G3 --> H
+    G4 --> H
+    G5 --> H
+    G6 --> H
+
+    %% Decision paths
+    H -- Yes --> I["Adjust service + new plan + financial review"]
+    H -- No --> K["Final assessment Outcome and goal setting + Automatic closure of service"]
+
+    I --> J["Additional Services"]
+    J --> K
+    K --> L["Appointment for follow-up visit"]
+
+    %% Styling
+    classDef default fill:#f0f0f0,stroke:#333,stroke-width:1.5px;
+    classDef optional stroke-dasharray: 5 5,stroke:#888,fill:#ffffff;
+    class D2 optional;
+```
 
 
 
