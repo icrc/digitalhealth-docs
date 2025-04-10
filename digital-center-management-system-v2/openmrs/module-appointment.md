@@ -4,9 +4,9 @@ description: Configuration and providing appointment
 
 # MODULE APPOINTMENT
 
-Th<kbd>e Physical Rehabilitation Centres offer multiple services to Health Service Users (HSU). These services may have defined days and times when they are offered. For e.g Casting runs every Monday 10.00 AM - 12.00 PM. Further, we have providers in the hospital who provide these specific services to HSU. Appointments are the means by which providers tend to manage their resources and time to offer services to a HSU.</kbd>
+The Physical Rehabilitation Centres offer multiple services to Health Service User (HSU). These services may have defined days and times when they are offered. For example Casting run every Monday 10.00 AM- 12.00PM . Appointments are the means by which providers tend to manage their resources and time to offer services to a HSU.&#x20;
 
-<kbd>Appointment scheduling feature is intende</kbd>d to provide the users the ability to schedule and manage appointments for HSU in a typical ICRC Program set up. With the help of this feature one will be able to:
+Appointment scheduling feature is intended to provide the users the ability to schedule and manage appointments for HSU in a typical ICRC Program set up. With the help of this feature one will be able to:
 
 1. Set up services for a program
 2. Create and manage appointments for an HSU
@@ -24,14 +24,16 @@ Receptionist has Manage Everyone Appointments - So receptionist should be able t
 {% endhint %}
 
 {% hint style="info" %}
-Hospital Project Manager Program has all of the above privileges - so hospital project manager can create or modify any appointments and has the ability to create new services or modify the existing serviceT
+Hospital Project Manager Program has all of the above privileges - so hospital project manager can create or modify any appointments and has the ability to create new services or modify the existing service.
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/image (174).png" alt=""><figcaption><p>User journey and appointment </p></figcaption></figure>
 
 ### The management appointment
 
 The Appointment scheduling Application is available on the Home page
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Services and Service Type
 
@@ -47,13 +49,13 @@ Typically creating/updating services and specialties are Admin activities. Users
 
 Click on the Appointment Scheduling App on the Home page. Under the Admin tab of the app, the user will be able to define and edit services. Only some roles will have access to the ADMIN button.
 
-<figure><img src=".gitbook/assets/image (86).png" alt=""><figcaption><p>Landing page when selecting appointment</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption><p>Landing page when selecting appointment</p></figcaption></figure>
 
 ### &#x20;**Adding a new Service**
 
 * [ ] Click on the "Add new Service" button on the screen to access the Services Screen
 
-<figure><img src=".gitbook/assets/image (85).png" alt=""><figcaption><p>Landing page after clicking on Admin button</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption><p>Landing page after clicking on Admin button</p></figcaption></figure>
 
 The User would be required to provide the following details to create a new service:
 
@@ -88,7 +90,7 @@ All locations marked as "appointment locations" in OPENMRS will be available in 
 
 * [ ] **Label Color:** The services can be assigned colors. On the calendar view, all the appointments booked for this service, will be displayed in this chosen color.
 
-<figure><img src=".gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 calendar view will have the color displayed (shown below are appointment with service types marked with Color)
@@ -96,7 +98,7 @@ calendar view will have the color displayed (shown below are appointment with se
 
 For a service with label color, when appointment is scheduled for this service and viewed from calendar view will have the color displayed (shown below are appointment with service types marked with Color)
 
-&#x20;![](<.gitbook/assets/image (88).png>)
+&#x20;![](<../.gitbook/assets/image (88).png>)
 
 ### Service Appointment Type:
 

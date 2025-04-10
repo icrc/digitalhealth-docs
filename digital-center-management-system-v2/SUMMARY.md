@@ -21,7 +21,7 @@
 
 ***
 
-* [MODULE APPOINTMENT](module-appointment.md)
+* [MODULE APPOINTMENT](openmrs/module-appointment.md)
 * [Page](page/README.md)
   * [PROFESSIONAL DASHBOARD](page/professional-dashboard.md)
 
