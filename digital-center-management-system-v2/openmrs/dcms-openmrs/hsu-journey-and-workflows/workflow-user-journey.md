@@ -1,8 +1,10 @@
+---
+description: New service and follow up/repair
+---
+
 # Workflow User Journey
 
 Register the HSU or find the HSU file coming to the PRC
-
-
 
 ### a. Workflow new service&#x20;
 
@@ -115,7 +117,7 @@ Decision: Adjust service if required&#x20;
 {% step %}
 ### Basic Service Plan
 
-
+Add the service (s)
 {% endstep %}
 
 {% step %}
@@ -123,8 +125,8 @@ Decision: Adjust service if required&#x20;
 
 if not approved:
 
-* Select make **socio-economic** and complete **FInancing Decision**
-* Select **Socio-economic** already recorded, if you select this option you can already go to F**inancing Decisio**n
+* Select make **socioeconomic** and complete **Financing Decision**
+* Select **Socioeconomic** already recorded, if you select this option you can already go to **Financing Decisio**n.
 {% endstep %}
 
 {% step %}
@@ -137,3 +139,125 @@ if not approved:
 Appointment for follow up visit
 {% endstep %}
 {% endstepper %}
+
+```mermaid
+flowchart TB
+    %% Main workflow
+    A["Register the HSU or find the HSU file coming to the PRC"] --> 
+    B["Start the visit"] --> 
+    C["Initial decision after registration and decision to send for new service (save and validate)"] --> 
+    D["Initial Assessment (interdisciplinary team)"]
+
+    %% Optional assessment
+    D -.-> D2["Optional Assessment"]
+
+    D --> E["Initial outcome and goal setting + Basic service plan + clinical consent"]
+    E --> E1["Plan Service"]
+    E1 --> F["Financial capacity assessment + socio-economic assessment (completed with financing decision if financial capacity is not approved)"]
+    F --> G["Any Services"]
+
+    %% Subgraph for services
+    subgraph "" direction LR
+        G --> G1["Technical cards"]
+        G --> G2["Physiotherapy assessment"]
+        G --> G3["Wheelchair assessment"]
+        G --> G4["Walking Aids"]
+        G --> G5["Club foot"]
+        G --> G6["Cerebral palsy"]
+    end
+
+    %% Intermediate Assessment after subgraph
+    G1 --> H["Intermediate Assessment & Goal Setting?"]
+    G2 --> H
+    G3 --> H
+    G4 --> H
+    G5 --> H
+    G6 --> H
+
+    %% Decision paths
+    H -- Yes --> I["Adjust service + new plan + financial review"]
+    H -- No --> K["Final assessment Outcome and goal setting + Automatic closure of service"]
+
+    I --> J["Additional Services"]
+    J --> K
+    K --> L["Appointment for follow-up visit"]
+
+    %% Styling
+    classDef default fill:#f0f0f0,stroke:#333,stroke-width:1.5px;
+    classDef optional stroke-dasharray: 5 5,stroke:#888,fill:#ffffff;
+    class D2 optional;
+
+```
+
+
+
+### Workflow repair or follow up
+
+{% stepper %}
+{% step %}
+### Register the HSU or find the HSU file coming to the PRC&#x20;
+
+
+{% endstep %}
+
+{% step %}
+### Start the visit (Open the Episode of service)
+
+Initial decision after registration and decision to send for follow up (save and validated)
+{% endstep %}
+
+{% step %}
+### Service Follow up Assessment&#x20;
+
+Decision: Follow up/repair or New Interdisciplinary assessment or end the follow up
+{% endstep %}
+
+{% step %}
+### Financial capacity assessment
+
+If not approved complete the socioeconomic already recorded&#x20;
+
+* decision&#x20;
+{% endstep %}
+
+{% step %}
+### Service Follow up Plan (Automatic closure of Episode of service)
+
+If AT repair is yes, select the pertinent service category options with the Adjustment or/and Repair as service.
+
+
+
+
+{% endstep %}
+{% endstepper %}
+
+
+
+
+
+
+
+
+
+```mermaid
+flowchart TB
+    %% Main flow
+    A["Register the HSU or find the HSU file coming to the PRC"] --> 
+    B["Start the visit (Open the Episode of service)"] --> 
+    C["Initial decision after registration and decision to send for follow-up (save and validated)"] --> 
+    D["Service Follow-up Assessment"] --> 
+    E["Decision: Follow-up/Repair OR New Interdisciplinary Assessment OR End the follow-up"]
+
+    %% Follow-up path
+    E --> F["Financial capacity assessment"]
+    F --> G["If not approved: complete the socioeconomic already recorded"]
+    G --> H["Financing Decision"]
+
+    H --> I["Service Follow-up Plan<br><br>If AT repair = yes → select relevant service category with Adjustment or/and Repair as service<br><br>(Automatic closure of Episode of service)"]
+
+    I --> J["Appointment for follow-up or new service"]
+
+    %% Styling
+    classDef default fill:#f0f0f0,stroke:#333,stroke-width:1.5px;
+
+```
