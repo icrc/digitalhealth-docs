@@ -21,9 +21,8 @@
 
 ***
 
-* [MODULE APPOINTMENT](openmrs/module-appointment.md)
-* [Page](page/README.md)
-  * [PROFESSIONAL DASHBOARD](page/professional-dashboard.md)
+* [MODULE APPOINTMENT](module-appointment/README.md)
+  * [PROFESSIONAL DASHBOARD](module-appointment/professional-dashboard.md)
 
 ## 🙆‍♂️ Odoo&#x20;
 

@@ -1,4 +1,14 @@
+---
+description: Description in details of the DCMS application, functionality and purpose.
+---
+
 # INTRODUCTION
+
+Objectives of this chapter for the reader are:&#x20;
+
+1. To understand what is the DCMS and components&#x20;
+2. To understand the process of deployment and decommissioning PMS
+3. To be able to log in in the application&#x20;
 
 ## Overview
 
