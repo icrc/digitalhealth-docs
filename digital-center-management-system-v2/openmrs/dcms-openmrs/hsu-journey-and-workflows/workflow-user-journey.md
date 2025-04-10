@@ -141,49 +141,6 @@ Appointment for follow up visit
 {% endstepper %}
 
 ```mermaid
-fl
-
-```
-
-
-
-### Workflow repair or follow up
-
-{% stepper %}
-{% step %}
-### Register the HSU or find the HSU file coming to the PRC&#x20;
-
-
-{% endstep %}
-
-{% step %}
-### Start the visit (Open the Episode of service)
-
-Initial decision after registration and decision to send for follow up (save and validated)
-{% endstep %}
-
-{% step %}
-### Service Follow up Assessment&#x20;
-
-Decision: Follow up/repair or New Interdisciplinary assessment or end the follow up
-{% endstep %}
-
-{% step %}
-### Financial capacity assessment
-
-If not approved complete the socioeconomic already recorded&#x20;
-
-* decision&#x20;
-{% endstep %}
-
-{% step %}
-### Service Follow up Plan (Automatic closure of Episode of service)
-
-If AT repair is yes, select the pertinent service category options with the Adjustment or/and Repair as service.
-{% endstep %}
-{% endstepper %}
-
-```mermaid
 flowchart TB
     %% Main workflow
     A["Register the HSU or find the HSU file coming to the PRC"] --> 
@@ -227,7 +184,46 @@ flowchart TB
     classDef default fill:#f0f0f0,stroke:#333,stroke-width:1.5px;
     classDef optional stroke-dasharray: 5 5,stroke:#888,fill:#ffffff;
     class D2 optional;
+
 ```
+
+
+
+### C. Workflow Repair or Follow up
+
+{% stepper %}
+{% step %}
+### Register the HSU or find the HSU file coming to the PRC&#x20;
+
+
+{% endstep %}
+
+{% step %}
+### Start the visit (Open the Episode of service)
+
+Initial decision after registration and decision to send for follow up (save and validated)
+{% endstep %}
+
+{% step %}
+### Service Follow up Assessment&#x20;
+
+Decision: Follow up/repair or New Interdisciplinary assessment or end the follow up
+{% endstep %}
+
+{% step %}
+### Financial capacity assessment
+
+If not approved complete the socioeconomic already recorded&#x20;
+
+* decision&#x20;
+{% endstep %}
+
+{% step %}
+### Service Follow up Plan (Automatic closure of Episode of service)
+
+If AT repair is yes, select the pertinent service category options with the Adjustment or/and Repair as service.
+{% endstep %}
+{% endstepper %}
 
 
 
@@ -257,3 +253,7 @@ flowchart TB
     classDef default fill:#f0f0f0,stroke:#333,stroke-width:1.5px;
 
 ```
+
+
+
+### D. Workflow Follow up/ repair to New Service&#x20;
