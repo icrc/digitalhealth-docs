@@ -1,10 +1,11 @@
 ---
 description: >-
   Example of scenario for a user coming for a foot abduction brace that need
-  follow up (Adjustment or Renewal).
+  follow up (Adjustment or Renewal). This phase is for PRC delivering FAB
+  without the Ponseti method.
 ---
 
-# Workflow for Club Foot treatment
+# Workflow for Club Foot treatment (1)
 
 {% hint style="warning" %}
 In this scenario; the HSU will only receive the Foot Abduction Brace, as the serial casting (or Ponseti) will be performed in a medical setting (with sometimes a tenotomy).
@@ -81,7 +82,7 @@ flowchart TD
 
 The HSU comes back for the follow up visit, and will have different options through this workflow "follow up": See below the options.
 
-**For this specific clinical scenario, we can streamline the process by allowing a Foot Abduction Brace renewal exception in the workflow to facilitate the clinician**
+**For this specific clinical scenario, we can streamline the process by allowing a Foot Abduction Brace renewal exception in the workflow to facilitate the work of the clinician.**&#x20;
 
 {% hint style="warning" %}
 A: For monitoring, shoe changes, adjustment, repair, or renewing a foot abduction brace within 1-2 weeks, the Episode of service can close at month's end to include follow-up visits.
