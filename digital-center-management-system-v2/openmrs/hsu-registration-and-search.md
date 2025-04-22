@@ -41,6 +41,12 @@ Next, you will arrive at the demographic page, a universal registration form for
 
 For the HUS whose information is not anonymized complete sections in the figure below, as this information is required. To finish, click _‘Confirm’_ in the left-hand side bar.
 
+#### Anonymous HSU
+
+If the HSU needs to be registered anonymously or if the information cannot be verified, tick the _‘Unidentified Patient’_ box. If user request to stay anonymous the value _‘Unknown’_ for gender can be selected.
+
+<figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
+
 #### Demographic information
 
 * Given (mandatory)
@@ -90,21 +96,31 @@ The “identification Number” can be a national ID, social insurance number or
 
 <div align="left"><figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption><p>Legacy Id</p></figcaption></figure></div>
 
-
-
 #### PMS ID and PMS migration
 
-The centre using the PMS prior to the DCMS deployment will see their essential PMS data migrated (Demographic, past services, etc…) in order to keep the memory of the previous digitalised data.
+The centre using the PMS prior to the DCMS deployment will see their essential PMS data migrated (Demographic, past services, etc…) in order to keep the memory of the previous digitalized data.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption><p>PMS id migration</p></figcaption></figure></div>
 
+The PMS ID will be as well saved in the system in order for the receptionist to be able to retrieve the paper file. It can be used to search for an existing HSU later.
 
+**Address**
 
+This is an optional field. For the time being it is a free text field. Work is underway to populate these fields with coded values per country:
 
+&#x20;![](<../.gitbook/assets/image (184).png>)
 
+·         Country: Admin level 0: = Today a free text and will become a drop-down list of all countries
 
+·         State/Province: Admin level 1: = Today a free text and will become a drop-down list of all the states/provinces in the country selected
 
+·        City/Village: Admin level 2/3/4: = Today a free text and will become a drop-down list of all the cities/villages/districts in the state/province selected
 
+### &#x20;Searching for an existing HSU
 
+<figure><img src="../.gitbook/assets/image (186).png" alt=""><figcaption><p>Search for an existing HSU</p></figcaption></figure>
 
+Click on the icon _‘Find HSU Record’_ to search for an existing health service user and access their record.
+
+You will be taken to the screen shown below:
 

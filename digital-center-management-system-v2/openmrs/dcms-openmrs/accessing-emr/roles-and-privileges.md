@@ -16,11 +16,11 @@ The receptionist plays a crucial role as the first point of contact for the HSU.
 
 The interdisciplinary team, comprising heads of orthotics-prosthetics, physiotherapy departments, and physicians, meets to evaluate HSU needs, oversee service delivery, and quality.
 
-* Professional&#x20;
+* <mark style="color:blue;">Professional</mark>&#x20;
 
 The team consists of various professionals, including physiotherapists, orthotics-prosthetics and prosthetics specialists, and other roles such as psychologists.&#x20;
 
-* Social Worker&#x20;
+* <mark style="color:blue;">Social Worker</mark>&#x20;
 
 The Social worker is playing an essential role in the team, the HSU will meet with the social worker once the devices are prescribed or the repairs are being recommended by the clinical team. A financial capacity assessment and a socioeconomic assessment of the HSU status will be conducted by the social worker.&#x20;
 

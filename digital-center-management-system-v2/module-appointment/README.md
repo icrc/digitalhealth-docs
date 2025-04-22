@@ -1,8 +1,13 @@
 ---
-description: Configuration and providing appointment
+description: >-
+  This chapter is about the appointment module and how to provide allocated
+  times for the Health Service User. It reflects the user journey within the
+  rehabilitation cyce.
 ---
 
 # MODULE APPOINTMENT
+
+Configuration and providing appointment
 
 The Physical Rehabilitation Centres offer multiple services to Health Service User (HSU). These services may have defined days and times when they are offered. For example Casting run every Monday 10.00 AM- 12.00PM . Appointments are the means by which providers tend to manage their resources and time to offer services to a HSU.&#x20;
 
@@ -21,10 +26,6 @@ Appointment feature can be used by any users within the Physical Rehabilitation 
 
 {% hint style="info" %}
 Receptionist has Manage Everyone Appointments - So receptionist should be able to schedule, modify appointments with all providers
-{% endhint %}
-
-{% hint style="info" %}
-Hospital Project Manager Program has all of the above privileges - so hospital project manager can create or modify any appointments and has the ability to create new services or modify the existing service.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (174).png" alt=""><figcaption><p>User journey and appointment </p></figcaption></figure>
@@ -114,23 +115,78 @@ For example, Initial assessment, Follow-Up Consultation under Casting service
 1. One can either mention a global availability for a service as mentioned in point d above or could specify a more granular availability.
 2. In case of no availability defined, by default service is available on all days of the week at all times. Multiple availability can be tied to one service.
 3. Example of service availability:\
-   Physiotherapy session is happening on Monday and Friday from 10 AM to 12 PM and Wednesday 2 PM to 4 PM. Then the user will have 2 availabilities defined:\
+   Physiotherapy session is happening on Monday and Friday from 10 AM to 12 PM and Wednesday 2 PM to 4 PM. Then the user will have 2 availability defined:\
    For Monday & Friday; with a start and end time of 10 AM to 12 PM\
    For Wednesday; with a start and end time of 2 PM to 4 PM
 4. Max load for that availability (day)\
-   \
+   a. The max number of HSUs that can be scheduled for a service for a defined duration in the day i.e. limit to the no.of appointments that can be booked.
 
-5.
-   1. The max number of HSUs that can be scheduled for a service for a defined duration in the day i.e. limit to the no.of appointments that can be booked.
-   2. This value will be displayed to the user when they are booking an appointment for the service.
+&#x20;     b. This value will be displayed to the user when they are booking an appointment for the service.
 
-The screenshot below shows the Service availability and the Service Appointment Types defined:
+The screenshot below shows the Service availabilities and the Service Appointment Types defined:
+
+\
+![](<../.gitbook/assets/image (176).png>)
+
+### &#x20;Creating and Managing Appointments
+
+#### How is it Used?![](file:///C:/Users/A571885/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+
+&#x20;Click on the Appointment Scheduling App on the Home page. Under the "Manage Appointments" tab of the app, click on Appointments List tab.
+
+#### Create Appointments
+
+1. Click on the "Add new Appointment" on the Appointments list Tab
+
+<figure><img src="../.gitbook/assets/image (179).png" alt=""><figcaption><p>Add new appointment </p></figcaption></figure>
+
+
+
+2. The user will have to fill the details of the appointment in the Add new Appointment slider
+
+<figure><img src="../.gitbook/assets/image (178).png" alt=""><figcaption><p>Appointment page </p></figcaption></figure>
+
+
+
+The following details are required to create an appointment:
+
+{% hint style="info" %}
+Selecting a HSU, Service/service type and Date is mandatory to create an appointment.
+{% endhint %}
+
+* HSU: The HSU can be searched for using HSU name or ID
+* Service: The service is selected from the drop down. This will further filter the appointment types under it.
+* Service Appointment Type: The service appointment type will be selected from a drop down.
+* Walk-in Appointment: Users can mark an appointment as a walk-in. By default, appointments are marked as Scheduled.
+* Date of Appointment: This will be chosen from a date picker. Only current and future dates are allowed.&#x20;
+* Time slot: Select the time slot for an appointment.
+
+The drop down will suggest possible slot times based on service availability.
+
+End time will auto populate based on the duration of the service/ service appointment type. Default of 30 mins if no duration are mentioned.
+
+
+
+Users can override the suggested times.
+
+<figure><img src="../.gitbook/assets/image (180).png" alt=""><figcaption><p>Information showing the times for the appointment is not available</p></figcaption></figure>
+
+Providers: Select the provider for the appointment from the drop down. Only those providers with provider attribute Available for appointments set to true will be shown. This setting is available in OpenMRS>Administration>Providers>Manage Providers
+
+<figure><img src="../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
+
+·         Location:  By default the location will be Service location. User can change the location as applicable.
+
+**Warnings to the user**
+
+·         If service availability is defined, if the user chooses a day or timings outside the availability, there will be a warning to the user.
+
+·         Booking a patient simultaneously in overlapping times will warn the user of the conflict.
+
+·         In both cases mentioned above, the user can still go ahead and book an appointment by ignoring the warning
 
 &#x20;
 
-![](file:///C:/Users/A571885/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+&#x20;![](<../.gitbook/assets/image (182).png>)
 
-&#x20;
-
-1.
-   1. S
+Screenshot below showcasing the warning message when scheduling an appointment outside of the slot availability time
