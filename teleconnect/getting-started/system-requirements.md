@@ -1,6 +1,6 @@
 # Connectivity requirements
 
-TeleConnect works best on Chrome (version 80+), but Chrome based browser (Edge / Chrome) Firefox can be used
+TeleConnect works best on Chrome (version 80+), but Chrome based browser (Edge / Chrome) or Firefox can be used
 
 Requires a internet speed:
 
