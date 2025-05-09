@@ -14,3 +14,4 @@
 * Multiple languages&#x20;
 * Screen re-size to phone (partially done)&#x20;
 * 40KB/s for audio and 200KB/s for video
+* SMS and/or email notification when you miss activity on an open TeleConnect session
