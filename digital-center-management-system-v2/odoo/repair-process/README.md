@@ -1,6 +1,6 @@
 # Repair Process
 
-<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+Here is the process of the repair process that you will follow in this chapter
 
 ```mermaid
 flowchart TD

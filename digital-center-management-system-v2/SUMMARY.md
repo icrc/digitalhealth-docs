@@ -26,13 +26,11 @@
 
 ## 🙆‍♂️ Odoo&#x20;
 
-* [Getting started](odoo/getting-started/README.md)
-  * [Accessing Odoo](odoo/getting-started/accessing-odoo.md)
-  * [Landing Page Widget](odoo/getting-started/landing-page-widget.md)
-  * [Explanation of the interface](odoo/getting-started/explanation-of-the-interface-wip.md)
-* [Service User Management (TODO)](odoo/service-user-management-todo/README.md)
-  * [Find the Service User](odoo/service-user-management-todo/find-the-service-user.md)
-  * [SU Form](odoo/service-user-management-todo/su-form.md)
+* [Odoo Entry Point](odoo/odoo-entry-point/README.md)
+  * [Accessing Odoo](odoo/odoo-entry-point/accessing-odoo.md)
+  * [Landing Page Widget](odoo/odoo-entry-point/landing-page-widget.md)
+  * [Explanation of the interface](odoo/odoo-entry-point/explanation-of-the-interface.md)
+* [Service User Management](odoo/service-user-management.md)
 * [Materials request (MRP)](odoo/materials-request-mrp/README.md)
   * [Configuration](odoo/materials-request-mrp/configuration/README.md)
     * [How to create a new BoM Configuration Template](odoo/materials-request-mrp/configuration/how-to-create-a-new-bom-configuration-template.md)
