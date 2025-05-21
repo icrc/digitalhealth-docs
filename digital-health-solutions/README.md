@@ -1,4 +1,4 @@
-# ICRC Open Source Projects
+# ICRC Health Open Source Projects
 
 The International Committee of the Red Cross (ICRC) actively contributes to and maintains several open-source projects that strengthen digital health systems in humanitarian settings. Our work focuses on interoperability, mobile development, and open standards.
 
