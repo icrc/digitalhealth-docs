@@ -2,9 +2,9 @@
 
 <details>
 
-<summary>Change the chatter position n Odoo</summary>
+<summary>Change the chatter position in Odoo</summary>
 
-If your screen is too small you can change the position of the chatter in odoo :&#x20;
+If your screen is too small you can change the position of the chatter in Odoo :&#x20;
 
 To do that click on your name in the top corner in the right then select My profile![](<../.gitbook/assets/image (1) (1) (2).png>)
 

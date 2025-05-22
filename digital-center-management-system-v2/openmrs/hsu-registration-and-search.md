@@ -1,5 +1,6 @@
 ---
 description: DCMS - Receptionist
+hidden: true
 ---
 
 # HSU registration and search
