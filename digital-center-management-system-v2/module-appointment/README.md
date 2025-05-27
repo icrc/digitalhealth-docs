@@ -190,4 +190,49 @@ Providers: Select the provider for the appointment from the drop down. Only thos
 
 &#x20;![](<../.gitbook/assets/image (182).png>)
 
-Screenshot below showcasing the warning message when scheduling an appointment outside of the slot availability time
+Screenshot below showcasing the warning message when scheduling an appointment outside of the slot availability time.
+
+
+
+### Manage Appointments
+
+#### Edit Appointments
+
+1. Click on the appointment that you want to edit.
+2. Click on the edit button on the Button below
+
+&#x20;
+
+<figure><img src="../.gitbook/assets/image (188).png" alt=""><figcaption><p>Calendar view</p></figcaption></figure>
+
+3. In case of scheduled appointment when user selects Edit, then appointment opens as shown below, where user have the option to edit Location, Provider and the Date/time of the appointment.
+
+<figure><img src="../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
+
+4. In case of past appointments or appointments that have been marked as Missed/Canceled/Completed, only Notes field can be edited.
+
+### Accept Appointments
+
+In case of appointment status as Requested - User will be able to accpet the appointment and doing so will change the appointment status to accepted.
+
+Or user can Edit the appointment and propose the new time and once done an appointment by default will have the status accepted.
+
+&#x20;
+
+<figure><img src="../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
+
+### Status of Appointment
+
+**Appointments can be marked as Checked-in, Cancelled, Missed or Complete.**
+
+* Check -in - Will mark the appointment status as Checked -In
+* Complete - Will mark the appointment status as completed
+* Cancel - Will mark the appointment as cancelled. Once marked as cancelled appointment gets removed from the calendar
+* Missed - Will mark the appointment as Missed as shown below
+
+<figure><img src="../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
