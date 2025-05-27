@@ -30,7 +30,7 @@ In the next section, you will discover the HSU journey and steps in the differen
 
 To change the languagey you click on your name and wait for the "my account" button to appear.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Landing page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption><p>Landing page</p></figcaption></figure>
 
 Then you click on and select the language you need.&#x20;
 

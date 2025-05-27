@@ -26,9 +26,43 @@ The program enrolment dashboard displays in the section “Programs” all the h
 
 
 
+#### View existing programmes
+
+To access the programs dashboard, click on ‘_Programs Dashboard’_ in the ‘_General Actions’_ toolbox.
+
+<figure><img src="../../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
+
 ## Registration Summary <a href="#ywvjhum2bcjsgckqxdo2r" id="ywvjhum2bcjsgckqxdo2r"></a>
 
+To access the registration summary, click on ‘_Registration Summary’_ in the ‘_General Actions’_ toolbox.
 
+<figure><img src="../../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
+
+#### Edit sections – Registration Summary
+
+Click on the icon at the top of the widget
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+1\.      Make the necessary modifications to the form.
+
+2. &#x20;Click _‘Save Form’_.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+_Remark: You can access the same function through the HSU header_
+{% endhint %}
+
+#### Edit sections – HSU header
+
+1\. Click on “Edit” on the HSU header
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+
+
+##
 
 ## Clinical Dashboard
 

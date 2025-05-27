@@ -20,7 +20,7 @@ Once you have clicked on the link to access the system, you will be taken to the
 {% step %}
 ### Click on DCMS Log in
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="261"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="261"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

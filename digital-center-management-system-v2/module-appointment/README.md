@@ -35,7 +35,7 @@ Receptionist has Manage Everyone Appointments - So receptionist should be able t
 
 The Appointment scheduling Application is available on the Home page
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Services and Service Type
 
