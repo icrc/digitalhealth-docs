@@ -19,7 +19,7 @@ To discharge a patient or a caregiver, follow these steps:
 1. **Discharge on Today's Date**
    * If the discharge needs to happen today, simply click the "Discharge" button to proceed with the discharge.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Discharge on a Past Date:**
 

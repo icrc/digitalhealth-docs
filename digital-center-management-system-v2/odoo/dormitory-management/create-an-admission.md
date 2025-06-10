@@ -2,26 +2,26 @@
 
 To create an admission for a Service User (SU), you can either start from the SU form or from the Admission list. Here's how the process works:
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Create an Admission:**
    * From the SU form or Admission list, initiate the admission process.
    * Based on the patient's gender, the system will automatically select an appropriate ward (e.g., for a female patient, the Women’s Area will be selected).
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. **Adding a Caregiver:**
    * If the SU has a caregiver, go to the second tab, labeled "SU Companion." Here, you can add caregivers.
    * Only caregivers previously created for this specific SU will be visible in this tab.
    * Each caregiver entry must be admitted separately, as the dates for each caregiver might differ.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Multiple Caregiver Entries:**
 
 > It is possible to add the same caregiver multiple times with different dates (e.g., the caregiver may be present on different days).
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. **Plan the Admission:**
    * When the users data are populated, we need to set the start and end plan dates, and check availability of resources.\
@@ -46,13 +46,13 @@ To create an admission for a Service User (SU), you can either start from the SU
    * Click on bed name (right rows names) will show you state and occupancy for selected bed
 7. To visualise and plan admissions, click on Manage overlaping button to open timeline plan view
 
-<div align="center" data-full-width="false"><figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure></div>
+<div align="center" data-full-width="false"><figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 8. Activating the Admission:
    * Once the admission is planned, click the "Activate" button at the top of the main admission record.
    * Also, select the small checkbox on the corresponding SU Companion Line for each caregiver.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Plan Start and End dates can be entered as current, past or future.\
   Depending on those dates different behaviour of button will be:

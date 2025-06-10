@@ -2,7 +2,7 @@
 
 To configure a BoM configuration, start by selecting a Service User (SU). To do that you need to click on the menu “Service User management”, you will be able to see a list of all SU find the correct SU and click on it to open the corresponding form.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 Within the form, locate and click on the "Mrp Configuration" button. In this button there is a count of all MRP configuration already created for the Service User. When clicking the button it will display all existing configurations already created for this patient.
 

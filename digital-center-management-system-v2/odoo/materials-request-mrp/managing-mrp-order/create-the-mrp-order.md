@@ -9,12 +9,12 @@ description: >-
 
 Once you have verified the components to be consumed and defined the operations in the BoM configuration, you can proceed to create a Manufacturing Order by clicking the "Create MRP Order" button located on the top ribbon.
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 This action initiates the creation of a Work Order that includes all the necessary components for consumption and will open in on a pop-up. The Work Order starts in a draft status.
 
 Notes : If you close the pop-up you will be able to found the manufacturing order in the form.
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;

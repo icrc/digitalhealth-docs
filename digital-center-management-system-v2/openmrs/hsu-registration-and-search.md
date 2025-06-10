@@ -125,3 +125,147 @@ Click on the icon _‘Find HSU Record’_ to search for an existing health servi
 
 You will be taken to the screen shown below:
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Search bar for finding an existing HSU</p></figcaption></figure>
+
+#### By ID Number
+
+Type the HSU ID number, the HSU legacy ID or the Public ID number in the search bar to find an existing HSU.
+
+#### By HSU Name
+
+Type the HSU name in the search bar to find an existing HSU.
+
+{% hint style="info" %}
+_If the HSU’s information is not found, a ‘No matching records found’ message is displayed in the table._
+{% endhint %}
+
+## Dashboards
+
+### Programme enrollment
+
+After registering a new HSU, the user (receptionist) will be taken to the ‘Enrollment’ dashboard. The receptionist will start a visit (see section “Starting a visit”) and document the first form to initiate the PRP workflow. To validate and save the form will automatically enroll the HSU into the PRP program.
+
+The program enrollment dashboard displays in the section “Programs” all the health programs in which the HSU is registered.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Programs dashboard (for enrollment)</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Programs dashboard – this HSU is only enrolled in PRP program</p></figcaption></figure>
+
+#### View existing programmes
+
+To access the programs dashboard, click on ‘_Programs Dashboard’_ in the ‘_General Actions_
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>General Actions toolbox – Programs dashboard</p></figcaption></figure>
+
+Registration summary
+
+To access the registration summary, click on ‘_Registration Summary’_ in the ‘_General Actions_
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>: General Actions toolbox – Registration Summary</p></figcaption></figure>
+
+#### Edit sections – Registration Summary
+
+Click on the icon at the top of the widget.
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Registration Summary</p></figcaption></figure>
+
+Make the necessary modifications to the form.
+
+Click _‘Save Form’_
+
+\
+
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>: Editing the registration form via the Registration Summary</p></figcaption></figure>
+
+#### Edit sections – HSU header
+
+Click on “Edit” on the HSU header
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Editing the registration form via the HSU header</p></figcaption></figure>
+
+Make the necessary changes using the left side list and click on “save form
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Selecting the section to be updated and click Save Form</p></figcaption></figure>
+
+### PRP dashboard navigation &#x20;
+
+To access the PRP dashboard, click on ‘_PRP Dashboard’_ in the ‘_General Actions’_ toolbox.
+
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>General Actions – PRP Dashboard</p></figcaption></figure>
+
+The ‘_PRP Dashboard’_ displays the information collected during the current Episode of Service and also information from past services/past visits. The information displayed in the ‘_PRP Dashboard’_ is available only to PRP staff having access to clinical information.
+
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>PRP Dashboard</p></figcaption></figure>
+
+## Visits
+
+### New visit
+
+#### Starting a visit
+
+1\.       To start a visit and to start accessing a form to be able to enter data at the point of care, click on _‘Start Visit’_ on the right-hand side.
+
+2\.       Click ‘_Confirm’_.
+
+3\.       You will be taken to the _‘Visit Summary’_ page, where you can select the form to complete.
+
+In the PRP workflow, the first form to be documented is  the one called: “Initial decision after registration”.
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Starting a new visit on the same day on which it took place</p></figcaption></figure>
+
+#### Ending a visit
+
+After you have completed all the forms related to this visit and the Episode of Service is considered to be closed, click on ‘_End visit’_ on the right-hand side of the clinical dashboard / PRP dashboard.
+
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Ending an active visit</p></figcaption></figure>
+
+### Adding a past visit
+
+1\.       To enter data retrospectively, click on ‘_Add Past Visit’_.
+
+2\.       Select a date.
+
+3\.       Click ‘_Confirm’_.
+
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Adding a past visit</p></figcaption></figure>
+
+You will be taken to the _‘Visit Summary’_ page, where you can fill in the relevant forms. To be sure you are recording past visit information make sure you click on the past visit on the left side and notice the sentence on the top of the screen below the date: “Attention! These are for a past visit”
+
+Remark: Do not use the PRP forms dashboard for past visit. It is only for the active visit.
+
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Accessing forms for the past visit</p></figcaption></figure>
+
+### HSU visit summary
+
+### Viewing the HSU’s visit summary
+
+In the ‘_PRP Dashboard’_, in the ‘_Recent Visits’_ widget, click on the date of the visit you wish to access.
+
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>PRP Dashboard – Recent Visits widget</p></figcaption></figure>
+
+You will be taken to the ‘_Visit Summary’_ page for this date.
+
+·         If you select an active visit, i.e. today’s date, the visit summary will be automatically displayed
+
+·         If you want to see / select a past visit, you will need to select the relevant visit date from the menu on the left-hand side.
+
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Visit summary – selecting a past visit</p></figcaption></figure>
+
+Then the visit summary page then appears, displaying the following information:
+
+List of visits
+
+List of forms accessible (for past and active visit).
+
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Visit summary - List of accessible forms</p></figcaption></figure>
+
+List of forms completed during the selected visit.
+
+Tools for viewing, editing, deleting a form.
+
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p><em>Visit summary - Viewing, editing and deleting a form</em></p></figcaption></figure>
+
+Click on the _‘Show details’_ option to display a summary of the information entered on the form.
+
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Visit summary – details of the encounter</p></figcaption></figure>
