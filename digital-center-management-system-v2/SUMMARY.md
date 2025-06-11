@@ -17,7 +17,7 @@
     * [Workflow User Journey](openmrs/dcms-openmrs/hsu-journey-and-workflows/workflow-user-journey.md)
     * [Workflow for Club Foot treatment (1)](openmrs/dcms-openmrs/hsu-journey-and-workflows/workflow-for-club-foot-treatment-1.md)
   * [DASHBOARDS](openmrs/dcms-openmrs/dashboards.md)
-* [HSU registration and search](openmrs/hsu-registration-and-search.md)
+* [GUIDELINE](openmrs/guideline.md)
 
 ***
 

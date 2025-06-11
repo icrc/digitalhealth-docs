@@ -3,7 +3,7 @@ description: DCMS - Receptionist
 hidden: true
 ---
 
-# HSU registration and search
+# GUIDELINE
 
 <div align="left"><figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption><p>Receptionist </p></figcaption></figure></div>
 
@@ -268,4 +268,86 @@ Tools for viewing, editing, deleting a form.
 
 Click on the _‘Show details’_ option to display a summary of the information entered on the form.
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Visit summary – details of the encounter</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (230).png" alt=""><figcaption><p>Visit summary – details of the encounter</p></figcaption></figure>
+
+### Editing the HSU visit summary
+
+#### Editing an encounter (one form)
+
+The possibility to edit a form depend if it was validated or not before saving it: If the form is saved without checking the box “Validated by”, it is still editable but does not impact the workflow process. It is in draft
+
+Click on the  icon next to the form you wish to edit.
+
+<figure><img src="../.gitbook/assets/image (231).png" alt=""><figcaption><p>Editing an encounter (form)</p></figcaption></figure>
+
+#### Editing a visit
+
+1\.     Click ‘_Edit date’_.
+
+2. Select the relevant date and click ‘_Confirm’._
+
+<figure><img src="../.gitbook/assets/image (232).png" alt=""><figcaption><p>Editing a visit date</p></figcaption></figure>
+
+Two different scenarios are possible:
+
+·         Scenario 1 – no past visit and only one active visit:
+
+o   you will be able to edit the date;
+
+o   in the example below, the 25<sup>th</sup> October visit date needs to be changed to 18<sup>th</sup> October;
+
+<figure><img src="../.gitbook/assets/image (233).png" alt=""><figcaption><p>Editing a visit – scenario in which there is no past visit and one active visit</p></figcaption></figure>
+
+o 18 October is now displayed;
+
+<figure><img src="../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
+
+·         Scenario 2 – past visit plus an active visit:
+
+o   you cannot edit the date of either visit;
+
+o   you have to:
+
+§  either merge the two visits
+
+§  or add another past visit and then merge it with the new visit you just created;
+
+o   in the example below, a second past visit, for 4 March, is added and then saved;
+
+o   this visit now needs to be merged with the visit for which the date needs to be changed (i.e. 2 March);
+
+o  once the two visits have been merged it will be possible to click on _‘Edit date’_ to change the date of either visit. (Please note that start and end dates of the visit must be same.)
+
+<figure><img src="../.gitbook/assets/image (235).png" alt=""><figcaption><p>Editing a visit – scenario with both a past and an active visit</p></figcaption></figure>
+
+### Printing a HSU visit summary
+
+1\.       Click on the  icon next to the form you wish to print.
+
+2\.       Click _‘Print’_ at the top of the form.
+
+<figure><img src="../.gitbook/assets/image (236).png" alt=""><figcaption><p>view mode</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (237).png" alt=""><figcaption><p>Print </p></figcaption></figure>
+
+### Deleting a HSU visit summary
+
+#### Deleting an encounter (one form)
+
+1\.       Click the X icon next to the form you wish to delete.
+
+2\.       Click ‘_Yes’_.
+
+<figure><img src="../.gitbook/assets/image (238).png" alt=""><figcaption><p>Delete option</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (239).png" alt=""><figcaption><p>from visit dashboard.</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (240).png" alt=""><figcaption><p>Deletion</p></figcaption></figure>
+
+## PRP programme forms       &#x20;
+
+To access the PRP form you need to go to the “PRP form dashboard”
+
+\- Form recent visit dashboard
+
+<figure><img src="../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>

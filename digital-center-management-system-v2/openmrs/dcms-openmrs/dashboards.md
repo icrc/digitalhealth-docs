@@ -62,8 +62,6 @@ _Remark: You can access the same function through the HSU header_
 
 
 
-##
-
 ## Clinical Dashboard
 
 ## PRP Dashboard&#x20;
