@@ -48,7 +48,7 @@ Click on the icon at the top of the widget
 
 2. &#x20;Click _‘Save Form’_.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _Remark: You can access the same function through the HSU header_
@@ -58,15 +58,9 @@ _Remark: You can access the same function through the HSU header_
 
 1\. Click on “Edit” on the HSU header
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
-
-## Clinical Dashboard
-
-## PRP Dashboard&#x20;
-
-## PRP form Dashboard&#x20;
 
 ## &#x20;Visit Dashboard&#x20;
 

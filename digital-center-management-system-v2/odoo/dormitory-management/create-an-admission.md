@@ -8,20 +8,20 @@ To create an admission for a Service User (SU), you can either start from the SU
    * From the SU form or Admission list, initiate the admission process.
    * Based on the patient's gender, the system will automatically select an appropriate ward (e.g., for a female patient, the Women’s Area will be selected).
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. **Adding a Caregiver:**
    * If the SU has a caregiver, go to the second tab, labeled "SU Companion." Here, you can add caregivers.
    * Only caregivers previously created for this specific SU will be visible in this tab.
    * Each caregiver entry must be admitted separately, as the dates for each caregiver might differ.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Multiple Caregiver Entries:**
 
 > It is possible to add the same caregiver multiple times with different dates (e.g., the caregiver may be present on different days).
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. **Plan the Admission:**
    * When the users data are populated, we need to set the start and end plan dates, and check availability of resources.\

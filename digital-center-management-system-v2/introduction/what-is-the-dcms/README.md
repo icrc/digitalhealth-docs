@@ -4,6 +4,10 @@
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption><p>DCMS logo</p></figcaption></figure></div>
 
+<figure><img src="../../.gitbook/assets/https___files.gitbook.com_v0_b_gitbook-x-prod.appspot.com_o_spaces_2FnTWGcVv7ikvz7HIC0Dby_2Fuploads_2FPI5nmOdSfHjU0yT5QNgQ_2Fimage.avif" alt=""><figcaption></figcaption></figure>
+
+
+
 The Digital Centre Management System (DCMS) is a unique solution, developed for the Physical Rehabilitation Program within the Program Humanitarian Impact Investment (PHII), transversely with Pearl, to Support Rehabilitation Centres to function in a more efficient and autonomous way. &#x20;
 
 It consists of two digital tools: an Electronic Medical Record (EMR – “OpenMrs”) and an Enterprise Resource Planning (ERP – “Odoo”) that will improve quality of services and the global Physical Rehabilitation Centre’s management by providing the partners with a sustainable tool they can use independently and will enable them with the technology needed for that purpose. Through the EMR application, you will have an appointment module that enables you to give an appointment to the Health Service users and the clinicians. An additional application has been added recently called the “SuperSet” to optimize the data collection. &#x20;

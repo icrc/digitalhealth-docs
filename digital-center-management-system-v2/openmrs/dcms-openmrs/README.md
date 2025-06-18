@@ -3,7 +3,6 @@ description: >-
   In this chapter you will learn about the first steps in OpenMRS and how to
   login with your user account.
 hidden: true
-icon: face-grin-stars
 ---
 
 # DCMS OPENMRS

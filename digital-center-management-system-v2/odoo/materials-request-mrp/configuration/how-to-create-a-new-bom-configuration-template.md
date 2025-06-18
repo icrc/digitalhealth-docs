@@ -6,11 +6,11 @@ description: 'Recommended role : P&O and DCMS Admin'
 
 To configure a Bill of Materials (BoM) in the Odoo Manufacturing module, start by navigating to "Settings" > "BoM Config Template". Click on "Create" to begin the process.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Select the product that will be manufactured or create a new product if necessary. Ensure that the product has the "Manufactured" checkbox selected to make it available for selection here. If you need guidance on configuring a new product, you can find instructions \[here].
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 When you select a product, the Reference and Name fields will automatically update based on the selected product. However, you can still modify the name and reference if needed.
 
@@ -18,7 +18,7 @@ Notes : If your Odoo instance supports multiple languages, you can update the tr
 
 Next, click on "Configure Attributes" . Select the attributes you want for your product. By default, the attributes will match those of the product, but you can select different attributes if needed.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 These will be displayed with the "main product" column unchecked. You can use the three-dot menu to show more columns, such as "Allowed Value".
 
