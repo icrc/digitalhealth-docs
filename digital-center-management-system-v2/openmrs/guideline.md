@@ -125,7 +125,7 @@ Click on the icon _‘Find HSU Record’_ to search for an existing health servi
 
 You will be taken to the screen shown below:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Search bar for finding an existing HSU</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Search bar for finding an existing HSU</p></figcaption></figure>
 
 #### By ID Number
 
@@ -147,27 +147,27 @@ After registering a new HSU, the user (receptionist) will be taken to the ‘Enr
 
 The program enrollment dashboard displays in the section “Programs” all the health programs in which the HSU is registered.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Programs dashboard (for enrollment)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Programs dashboard (for enrollment)</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Programs dashboard – this HSU is only enrolled in PRP program</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Programs dashboard – this HSU is only enrolled in PRP program</p></figcaption></figure>
 
 #### View existing programmes
 
 To access the programs dashboard, click on ‘_Programs Dashboard’_ in the ‘_General Actions_
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>General Actions toolbox – Programs dashboard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>General Actions toolbox – Programs dashboard</p></figcaption></figure>
 
 Registration summary
 
 To access the registration summary, click on ‘_Registration Summary’_ in the ‘_General Actions_
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>: General Actions toolbox – Registration Summary</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>: General Actions toolbox – Registration Summary</p></figcaption></figure>
 
 #### Edit sections – Registration Summary
 
 Click on the icon at the top of the widget.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Registration Summary</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Registration Summary</p></figcaption></figure>
 
 Make the necessary modifications to the form.
 
@@ -176,23 +176,23 @@ Click _‘Save Form’_
 \
 
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>: Editing the registration form via the Registration Summary</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>: Editing the registration form via the Registration Summary</p></figcaption></figure>
 
 #### Edit sections – HSU header
 
 Click on “Edit” on the HSU header
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Editing the registration form via the HSU header</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Editing the registration form via the HSU header</p></figcaption></figure>
 
 Make the necessary changes using the left side list and click on “save form
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Selecting the section to be updated and click Save Form</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Selecting the section to be updated and click Save Form</p></figcaption></figure>
 
 ### PRP dashboard navigation &#x20;
 
 To access the PRP dashboard, click on ‘_PRP Dashboard’_ in the ‘_General Actions’_ toolbox.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>General Actions – PRP Dashboard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>General Actions – PRP Dashboard</p></figcaption></figure>
 
 The ‘_PRP Dashboard’_ displays the information collected during the current Episode of Service and also information from past services/past visits. The information displayed in the ‘_PRP Dashboard’_ is available only to PRP staff having access to clinical information.
 

@@ -32,9 +32,13 @@
   * [Landing Page Widget](odoo/odoo-entry-point/landing-page-widget.md)
   * [Explanation of the interface](odoo/odoo-entry-point/explanation-of-the-interface.md)
 * [Service User Management](odoo/service-user-management.md)
+* [Product Management](odoo/product-management/README.md)
+  * [Product category](odoo/product-management/product-category.md)
+  * [What's a product attribute](odoo/product-management/whats-a-product-attribute.md)
+  * [Creation of Product](odoo/product-management/creation-of-product/README.md)
+    * [Creating a product without variants](odoo/product-management/creation-of-product/creating-a-product-without-variants.md)
+    * [Creating a product with variants](odoo/product-management/creation-of-product/creating-a-product-with-variants.md)
 * [Materials request (MRP)](odoo/materials-request-mrp/README.md)
-  * [Configuration](odoo/materials-request-mrp/configuration/README.md)
-    * [How to create a new BoM Configuration Template](odoo/materials-request-mrp/configuration/how-to-create-a-new-bom-configuration-template.md)
   * [Creating the BoM Configuration](odoo/materials-request-mrp/creating-the-bom-configuration.md)
   * [Managing MRP Order](odoo/materials-request-mrp/managing-mrp-order/README.md)
     * [Create the MRP Order](odoo/materials-request-mrp/managing-mrp-order/create-the-mrp-order.md)
@@ -47,6 +51,8 @@
   * [Work order](odoo/materials-request-mrp/work-order.md)
   * [Validating the Manufacturing Order](odoo/materials-request-mrp/validating-the-manufacturing-order.md)
   * [Send the product to the SU](odoo/materials-request-mrp/send-the-product-to-the-su.md)
+  * [Configuration](odoo/materials-request-mrp/configuration/README.md)
+    * [How to create a new BoM Configuration Template](odoo/materials-request-mrp/configuration/how-to-create-a-new-bom-configuration-template.md)
 * [Repair Process](odoo/repair-process/README.md)
   * [Get the product to repair](odoo/repair-process/get-the-product-to-repair.md)
   * [Create the Repair order](odoo/repair-process/create-the-repair-order.md)
@@ -77,12 +83,6 @@
   * [Generate an Expense](odoo/dormitory-management/generate-an-expense.md)
 * [Invoicing](odoo/invoicing/README.md)
   * [Managing Open invoice (WIP)](odoo/invoicing/managing-open-invoice-wip.md)
-* [Product Management](odoo/product-management/README.md)
-  * [Product category](odoo/product-management/product-category.md)
-  * [What's a product attribute](odoo/product-management/whats-a-product-attribute.md)
-  * [Creation of Product](odoo/product-management/creation-of-product/README.md)
-    * [Creating a product without variants](odoo/product-management/creation-of-product/creating-a-product-without-variants.md)
-    * [Creating a product with variants](odoo/product-management/creation-of-product/creating-a-product-with-variants.md)
 
 ## 📢 TIPS AND BEST PRACTICE
 
@@ -100,3 +100,7 @@
 ## 📖 Appendices
 
 * [Official Odoo Documentation](https://www.odoo.com/documentation/14.0/applications.html)
+
+## Production Release
+
+* [Odoo](production-release/odoo.md)
