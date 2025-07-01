@@ -5,7 +5,7 @@
   * [Acronym](introduction/acronym/README.md)
     * [Acronym](introduction/acronym/acronym.md)
   * [What is the DCMS?](introduction/what-is-the-dcms/README.md)
-    * [How the DCMS is deployed](introduction/what-is-the-dcms/how-the-dcms-is-deployed.md)
+    * [The functionalities](introduction/what-is-the-dcms/the-functionalities.md)
   * [Getting Started (with the system)](introduction/getting-started-with-the-system.md)
 
 ## OpenMRS&#x20;
@@ -15,7 +15,8 @@
     * [Roles and Privileges](openmrs/dcms-openmrs/accessing-emr/roles-and-privileges.md)
   * [HSU Journey and Workflows](openmrs/dcms-openmrs/hsu-journey-and-workflows/README.md)
     * [Workflow User Journey](openmrs/dcms-openmrs/hsu-journey-and-workflows/workflow-user-journey.md)
-    * [Workflow for Club Foot treatment (1)](openmrs/dcms-openmrs/hsu-journey-and-workflows/workflow-for-club-foot-treatment-1.md)
+    * [Workflow for Club Foot treatment](openmrs/dcms-openmrs/hsu-journey-and-workflows/workflow-for-club-foot-treatment.md)
+    * [Forms (including updates and connection to ODOO)](openmrs/dcms-openmrs/hsu-journey-and-workflows/forms-including-updates-and-connection-to-odoo.md)
   * [DASHBOARDS](openmrs/dcms-openmrs/dashboards.md)
 * [GUIDELINE](openmrs/guideline.md)
 

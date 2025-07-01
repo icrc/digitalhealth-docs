@@ -30,4 +30,12 @@ Since 2021, the Physical Rehabilitation Program has been using the Digital Clini
 
 Target audience
 
+It is for staff working in Physical Rehabilitation Centres that include clinicians, managers, and administrators.&#x20;
+
+They will be trained on the applications usage after the decommission of the PMS and data migration.&#x20;
+
+
+
+
+
 ## Key Features
