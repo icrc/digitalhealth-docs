@@ -5,7 +5,7 @@ description: >-
   without the Ponseti method.
 ---
 
-# Workflow for Club Foot treatment (1)
+# Workflow for Club Foot treatment
 
 {% hint style="warning" %}
 In this scenario; the HSU will only receive the Foot Abduction Brace, as the serial casting (or Ponseti) will be performed in a medical setting (with sometimes a tenotomy).
