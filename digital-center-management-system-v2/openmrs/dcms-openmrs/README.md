@@ -2,7 +2,6 @@
 description: >-
   In this chapter you will learn about the first steps in OpenMRS and how to
   login with your user account.
-hidden: true
 ---
 
 # DCMS OPENMRS
@@ -35,8 +34,3 @@ Then you click on and select the language you need.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>My account</p></figcaption></figure>
 
-
-
-{% hint style="info" %}
-
-{% endhint %}

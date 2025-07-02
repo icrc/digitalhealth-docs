@@ -1,4 +1,4 @@
-# Work order
+# Processing Work order
 
 {% hint style="info" %}
 ## Roles recommended :  P\&o, Benchworker
@@ -6,7 +6,7 @@
 
 ## **🧭** Context&#x20;
 
-This step takes place **after the manufacturing order has been created** and **all required components have been received at the Workshop location**. At this point, the work order is ready to be processed, and the system may require validation before execution can begin—depending on your installation’s configuration.
+This step takes place **after the manufacturing order has been created** and **required components have been received at the Workshop location**. At this point, the work order is ready to be processed, and the system may require validation before execution can begin—depending on your installation’s configuration.
 
 ## 🔄 Step-by-Step Flow&#x20;
 
@@ -24,7 +24,7 @@ You can view a list of all SU[^1]s here. Use the search bar at the top to find a
 
 Inside the SU form, you will find two buttons: "[**MRP**](#user-content-fn-2)[^2] **Production**" and "[**MRP**](#user-content-fn-2)[^2] **Workorder**". The first opens the full production order, while the second opens only the specific workorder to be processed.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 {% endtab %}

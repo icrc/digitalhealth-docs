@@ -14,7 +14,7 @@ Before deploying the system, each role and its privileges will be thoroughly dis
 
 As you could see in the previous page with the different pictures, you can access different dashboard based on your profile.
 
-* [Receptionist](../../../odoo/materials-request-mrp/send-asked-product-to-the-correct-stock/request-new-componener-for-recasting-optional-step.md)
+* [Receptionist](../../../odoo/materials-request-mrp/request-new-componener-for-recasting-optional-step.md)
 
 The receptionist plays a crucial role as the first point of contact for the HSU. Their responsibilities include registering the HSU, locating the HSU file, initiating the visit, ensuring the clinical consent form is signed, and scheduling an appointment.&#x20;
 

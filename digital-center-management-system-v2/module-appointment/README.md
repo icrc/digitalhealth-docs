@@ -3,7 +3,6 @@ description: >-
   This chapter is about the appointment module and how to provide allocated
   times for the Health Service User. It reflects the user journey within the
   rehabilitation cyce.
-hidden: true
 ---
 
 # MODULE APPOINTMENT

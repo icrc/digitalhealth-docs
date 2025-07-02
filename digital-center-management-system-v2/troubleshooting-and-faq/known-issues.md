@@ -4,7 +4,7 @@ This page provides a list of all currently identified bugs, limitations, and ong
 
 <details>
 
-<summary>Issue with cancelling </summary>
+<summary>Issue with cancelling (Fixed )</summary>
 
 
 

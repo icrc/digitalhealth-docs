@@ -44,6 +44,8 @@ Once the quantities are correctly populated, click on "Validate". After validati
 
 This step is mostly the same for Every stock move, only the Stock location / Destination change.
 
+### 🗺️ Visual Overview&#x20;
+
 ```mermaid
 flowchart TD
     A[Start - Stock Move Initiated] --> B[Create a Stock Picking]

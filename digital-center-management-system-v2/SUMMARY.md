@@ -38,19 +38,15 @@
   * [Creation of Product](odoo/product-management/creation-of-product/README.md)
     * [Creating a product without variants](odoo/product-management/creation-of-product/creating-a-product-without-variants.md)
     * [Creating a product with variants](odoo/product-management/creation-of-product/creating-a-product-with-variants.md)
+  * [Archiving Product](odoo/product-management/archiving-product.md)
 * [Materials request (MRP)](odoo/materials-request-mrp/README.md)
   * [Creating the BoM Configuration](odoo/materials-request-mrp/creating-the-bom-configuration.md)
-  * [Managing MRP Order](odoo/materials-request-mrp/managing-mrp-order/README.md)
-    * [Create the MRP Order](odoo/materials-request-mrp/managing-mrp-order/create-the-mrp-order.md)
-    * [How to confirm an MRP order](odoo/materials-request-mrp/managing-mrp-order/how-to-confirm-an-mrp-order.md)
-  * [Send Asked product to the correct stock](odoo/materials-request-mrp/send-asked-product-to-the-correct-stock/README.md)
-    * [How to access the Materials request](odoo/materials-request-mrp/send-asked-product-to-the-correct-stock/how-to-access-the-materials-request.md)
-    * [Material request form explanation](odoo/materials-request-mrp/send-asked-product-to-the-correct-stock/material-request-form-explanation.md)
-    * [Processing the materials request stock move](odoo/materials-request-mrp/send-asked-product-to-the-correct-stock/processing-the-materials-request-stock-move.md)
-    * [Request new componener for recasting (optional step)](odoo/materials-request-mrp/send-asked-product-to-the-correct-stock/request-new-componener-for-recasting-optional-step.md)
-  * [Work order](odoo/materials-request-mrp/work-order.md)
+  * [Managing MRP Order](odoo/materials-request-mrp/managing-mrp-order.md)
+  * [Send Asked product to the correct stock](odoo/materials-request-mrp/send-asked-product-to-the-correct-stock.md)
+  * [Request new componener for recasting (optional step)](odoo/materials-request-mrp/request-new-componener-for-recasting-optional-step.md)
+  * [Processing Work order](odoo/materials-request-mrp/processing-work-order.md)
   * [Validating the Manufacturing Order](odoo/materials-request-mrp/validating-the-manufacturing-order.md)
-  * [Send the product to the SU](odoo/materials-request-mrp/send-the-product-to-the-su.md)
+  * [Delivering product to the SU](odoo/materials-request-mrp/delivering-product-to-the-su.md)
   * [Configuration](odoo/materials-request-mrp/configuration/README.md)
     * [How to create a new BoM Configuration Template](odoo/materials-request-mrp/configuration/how-to-create-a-new-bom-configuration-template.md)
 * [Repair Process](odoo/repair-process/README.md)
@@ -65,6 +61,7 @@
   * [Stock locations](odoo/stock-management/stock-locations.md)
   * [Stock on hand vs Forecasted](odoo/stock-management/stock-on-hand-vs-forecasted.md)
   * [Inventory adjustments](odoo/stock-management/inventory-adjustments.md)
+  * [Stock reporting](odoo/stock-management/stock-reporting.md)
 * [HR](odoo/hr/README.md)
   * [Setting up the HR](odoo/hr/setting-up-the-hr.md)
   * [Manage employee](odoo/hr/manage-employee.md)
@@ -83,6 +80,10 @@
   * [Generate an Expense](odoo/dormitory-management/generate-an-expense.md)
 * [Invoicing](odoo/invoicing/README.md)
   * [Managing Open invoice (WIP)](odoo/invoicing/managing-open-invoice-wip.md)
+
+***
+
+* [Purchase](purchase.md)
 
 ## 📢 TIPS AND BEST PRACTICE
 
