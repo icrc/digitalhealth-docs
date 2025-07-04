@@ -61,6 +61,7 @@
   * [Stock locations](odoo/stock-management/stock-locations.md)
   * [Stock on hand vs Forecasted](odoo/stock-management/stock-on-hand-vs-forecasted.md)
   * [Inventory adjustments](odoo/stock-management/inventory-adjustments.md)
+  * [How to create Automatic replenishment](odoo/stock-management/how-to-create-automatic-replenishment.md)
   * [Stock reporting](odoo/stock-management/stock-reporting.md)
 * [HR](odoo/hr/README.md)
   * [Setting up the HR](odoo/hr/setting-up-the-hr.md)
@@ -83,7 +84,11 @@
 
 ***
 
-* [Purchase](purchase.md)
+* [Purchase](purchase/README.md)
+  * [Request for Quotation (RFQ)](purchase/request-for-quotation-rfq.md)
+  * [Confirming a Purchase Order](purchase/confirming-a-purchase-order.md)
+  * [Receiving Purchased Products](purchase/receiving-purchased-products.md)
+* [Glossary](glossary.md)
 
 ## 📢 TIPS AND BEST PRACTICE
 
