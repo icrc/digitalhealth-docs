@@ -1,7 +1,7 @@
 ---
 description: >-
-  In this chapter you will learn about the first steps in OpenMRS and how to
-  login with your user account.
+  In this chapter you will learn about the first steps in OpenMRS and how to log
+  in with your user account.
 ---
 
 # DCMS OPENMRS
@@ -26,11 +26,11 @@ In the next section, you will discover the HSU journey and steps in the differen
 
 ### Setting the language of your account
 
-To change the languagey you click on your name and wait for the "my account" button to appear.&#x20;
+To change the language, click on your name and wait for the "my account" button to appear.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption><p>Landing page</p></figcaption></figure>
 
-Then you click on and select the language you need.&#x20;
+Then click on the button and select the language you need.
 
 <figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>My account</p></figcaption></figure>
 

@@ -20,7 +20,7 @@ Some of the actions described in this guide can only be performed by users with 
 
 Once you have clicked on the link to access the system, you will be taken to the login screen shown below:
 
-1. Enter your username. e.g sban@komprc.dcmsaccess.org
+1. Enter your username. e.g. sban@komprc.dcmsaccess.org
 2. Enter your password.
 3. Click _‘Log In’_.
 
@@ -31,7 +31,7 @@ Once you have clicked on the link to access the system, you will be taken to the
 
 ### &#x20;Select login location
 
-You will be taken to a first page where you need to select the location (name of the centre where you are working) then click on “Done”
+You will be taken to a first page where you need to select the location (name of the center where you are working) then click on “Done”
 
 \
 

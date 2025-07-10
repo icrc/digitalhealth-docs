@@ -5,7 +5,7 @@
   * [Acronym](introduction/acronym/README.md)
     * [Acronym](introduction/acronym/acronym.md)
   * [What is the DCMS?](introduction/what-is-the-dcms/README.md)
-    * [The functionalities](introduction/what-is-the-dcms/how-the-dcms-is-deployed.md)
+    * [The functionalities](introduction/what-is-the-dcms/the-functionalities.md)
   * [Getting Started (with the system)](introduction/getting-started-with-the-system.md)
 
 ## OpenMRS&#x20;
