@@ -42,3 +42,13 @@ For smaller screen select Normal
     If you frequently use the same combination of filters or groupings, you can save them as a favorite search. After setting up your view (with filters and optional Group By), click the star icon next to the search bar and select _Add to my favorites_. You can also check _Use by default_ to automatically apply it each time you open the view. This is a great way to streamline daily operations and ensure consistency across team members.
 
 </details>
+
+<details>
+
+<summary>Odoo - Access Multiple Odoo Accounts Simultaneously</summary>
+
+Odoo does not support logging into two different accounts in the same browser session.\
+To work around this, you can use a different browser or open a new Incognito/Private window to access the second account.
+
+</details>
+
