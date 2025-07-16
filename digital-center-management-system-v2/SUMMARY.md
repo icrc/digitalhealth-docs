@@ -2,13 +2,17 @@
 
 * [INTRODUCTION](README.md)
   * [Table of content](introduction/table-of-content.md)
-  * [Acronym](introduction/acronym/README.md)
-    * [Acronym](introduction/acronym/acronym.md)
   * [What is the DCMS?](introduction/what-is-the-dcms/README.md)
     * [The functionalities](introduction/what-is-the-dcms/the-functionalities.md)
   * [Getting Started (with the system)](introduction/getting-started-with-the-system.md)
+* [How to use GITBOOK](how-to-use-gitbook.md)
 
-## OpenMRS&#x20;
+## 📑 Glossary
+
+* [Acronym](glossary/acronym.md)
+* [Glossary](glossary/glossary.md)
+
+## 🧑‍⚕️ OpenMRS&#x20;
 
 * [DCMS OPENMRS](openmrs/dcms-openmrs/README.md)
   * [Accessing EMR](openmrs/dcms-openmrs/accessing-emr/README.md)
@@ -19,11 +23,8 @@
     * [Forms (including updates and connection to ODOO)](openmrs/dcms-openmrs/hsu-journey-and-workflows/forms-including-updates-and-connection-to-odoo.md)
   * [DASHBOARDS](openmrs/dcms-openmrs/dashboards.md)
 * [GUIDELINE](openmrs/guideline.md)
-
-***
-
-* [MODULE APPOINTMENT](module-appointment/README.md)
-  * [PROFESSIONAL DASHBOARD](module-appointment/professional-dashboard.md)
+* [MODULE APPOINTMENT](openmrs/module-appointment/README.md)
+  * [PROFESSIONAL DASHBOARD](openmrs/module-appointment/professional-dashboard.md)
 
 ## 🙆‍♂️ Odoo&#x20;
 
@@ -32,27 +33,22 @@
   * [Landing Page Widget](odoo/odoo-entry-point/landing-page-widget.md)
   * [Explanation of the interface](odoo/odoo-entry-point/explanation-of-the-interface.md)
 * [Service User Management](odoo/service-user-management.md)
-* [Product Management](odoo/product-management/README.md)
-  * [Product category](odoo/product-management/product-category.md)
-  * [What's a product attribute](odoo/product-management/whats-a-product-attribute.md)
-  * [Creation of Product](odoo/product-management/creation-of-product/README.md)
-    * [Creating a product without variants](odoo/product-management/creation-of-product/creating-a-product-without-variants.md)
-    * [Creating a product with variants](odoo/product-management/creation-of-product/creating-a-product-with-variants.md)
-  * [Archiving Product](odoo/product-management/archiving-product.md)
-* [Materials request (MRP)](odoo/materials-request-mrp/README.md)
-  * [Creating the BoM Configuration](odoo/materials-request-mrp/creating-the-bom-configuration.md)
-  * [Managing MRP Order](odoo/materials-request-mrp/managing-mrp-order.md)
-  * [Send Asked product to the correct stock](odoo/materials-request-mrp/send-asked-product-to-the-correct-stock.md)
-  * [Request new componener for recasting (optional step)](odoo/materials-request-mrp/request-new-componener-for-recasting-optional-step.md)
-  * [Processing Work order](odoo/materials-request-mrp/processing-work-order.md)
-  * [Validating the Manufacturing Order](odoo/materials-request-mrp/validating-the-manufacturing-order.md)
-  * [Delivering product to the SU](odoo/materials-request-mrp/delivering-product-to-the-su.md)
-  * [Configuration](odoo/materials-request-mrp/configuration/README.md)
-    * [How to create a new BoM Configuration Template](odoo/materials-request-mrp/configuration/how-to-create-a-new-bom-configuration-template.md)
+* [Materials request](odoo/materials-request/README.md)
+  * [Materials request for Manufactured product](odoo/materials-request/materials-request-for-manufactured-product/README.md)
+    * [Creating the BoM Configuration](odoo/materials-request/materials-request-for-manufactured-product/creating-the-bom-configuration.md)
+    * [Managing MRP Order](odoo/materials-request/materials-request-for-manufactured-product/managing-mrp-order.md)
+    * [Stock allocation](odoo/materials-request/materials-request-for-manufactured-product/stock-allocation.md)
+    * [Request new component for recasting (optional step)](odoo/materials-request/materials-request-for-manufactured-product/request-new-component-for-recasting-optional-step.md)
+    * [Processing Work order](odoo/materials-request/materials-request-for-manufactured-product/processing-work-order.md)
+    * [Validating the Manufacturing Order](odoo/materials-request/materials-request-for-manufactured-product/validating-the-manufacturing-order.md)
+    * [Configuration](odoo/materials-request/materials-request-for-manufactured-product/configuration/README.md)
+      * [How to create a new BoM Configuration Template](odoo/materials-request/materials-request-for-manufactured-product/configuration/how-to-create-a-new-bom-configuration-template.md)
+  * [Materials Request for other product](odoo/materials-request/materials-request-for-other-product.md)
+  * [Delivering product to the SU](odoo/materials-request/delivering-product-to-the-su.md)
 * [Repair Process](odoo/repair-process/README.md)
   * [Get the product to repair](odoo/repair-process/get-the-product-to-repair.md)
-  * [Create the Repair order](odoo/repair-process/create-the-repair-order.md)
-  * [Repair process](odoo/repair-process/repair-process.md)
+  * [Create the repair request](odoo/repair-process/create-the-repair-request.md)
+  * [Start the Repair process](odoo/repair-process/start-the-repair-process.md)
   * [Quality control (Optional step)](odoo/repair-process/quality-control-optional-step.md)
   * [Deliver the repaired Item](odoo/repair-process/deliver-the-repaired-item.md)
 * [Stock Management](odoo/stock-management/README.md)
@@ -63,6 +59,13 @@
   * [Inventory adjustments](odoo/stock-management/inventory-adjustments.md)
   * [How to create Automatic replenishment](odoo/stock-management/how-to-create-automatic-replenishment.md)
   * [Stock reporting](odoo/stock-management/stock-reporting.md)
+* [Product Management](odoo/product-management/README.md)
+  * [Product category](odoo/product-management/product-category.md)
+  * [What's a product attribute](odoo/product-management/whats-a-product-attribute.md)
+  * [Creation of Product](odoo/product-management/creation-of-product/README.md)
+    * [Creating a product without variants](odoo/product-management/creation-of-product/creating-a-product-without-variants.md)
+    * [Creating a product with variants](odoo/product-management/creation-of-product/creating-a-product-with-variants.md)
+  * [Archiving Product](odoo/product-management/archiving-product.md)
 * [HR](odoo/hr/README.md)
   * [Setting up the HR](odoo/hr/setting-up-the-hr.md)
   * [Manage employee](odoo/hr/manage-employee.md)
@@ -88,7 +91,11 @@
   * [Request for Quotation (RFQ)](purchase/request-for-quotation-rfq.md)
   * [Confirming a Purchase Order](purchase/confirming-a-purchase-order.md)
   * [Receiving Purchased Products](purchase/receiving-purchased-products.md)
-* [Glossary](glossary.md)
+
+## 📈 Superset
+
+* [Overview of the dashboards](superset/overview-of-the-dashboards.md)
+* [HOW TO CHANGE THE LANGUAGE](superset/how-to-change-the-language.md)
 
 ## 📢 TIPS AND BEST PRACTICE
 
@@ -107,6 +114,6 @@
 
 * [Official Odoo Documentation](https://www.odoo.com/documentation/14.0/applications.html)
 
-## Production Release
+## 📌 UPDATES AND VERSION HISTORY
 
-* [Odoo](production-release/odoo.md)
+* [Odoo](updates-and-version-history/odoo.md)

@@ -28,13 +28,13 @@ Appointment feature can be used by any users within the Physical Rehabilitation 
 Receptionist has Manage Everyone Appointments - So receptionist should be able to schedule, modify appointments with all providers
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (174).png" alt=""><figcaption><p>User journey and appointment </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (174).png" alt=""><figcaption><p>User journey and appointment </p></figcaption></figure>
 
 ### The management appointment
 
 The Appointment scheduling Application is available on the Home page
 
-<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Services and Service Type
 
@@ -50,13 +50,13 @@ Typically creating/updating services and specialties are Admin activities. Users
 
 Click on the Appointment Scheduling App on the Home page. Under the Admin tab of the app, the user will be able to define and edit services. Only some roles will have access to the ADMIN button.
 
-<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption><p>Landing page when selecting appointment</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption><p>Landing page when selecting appointment</p></figcaption></figure>
 
 ### &#x20;**Adding a new Service**
 
 * [ ] Click on the "Add new Service" button on the screen to access the Services Screen
 
-<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption><p>Landing page after clicking on Admin button</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption><p>Landing page after clicking on Admin button</p></figcaption></figure>
 
 The User would be required to provide the following details to create a new service:
 
@@ -91,7 +91,7 @@ All locations marked as "appointment locations" in OPENMRS will be available in 
 
 * [ ] **Label Color:** The services can be assigned colors. On the calendar view, all the appointments booked for this service, will be displayed in this chosen color.
 
-<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 calendar view will have the color displayed (shown below are appointment with service types marked with Color)
@@ -99,7 +99,7 @@ calendar view will have the color displayed (shown below are appointment with se
 
 For a service with label color, when appointment is scheduled for this service and viewed from calendar view will have the color displayed (shown below are appointment with service types marked with Color)
 
-&#x20;![](<../.gitbook/assets/image (88).png>)
+&#x20;![](<../../.gitbook/assets/image (88).png>)
 
 ### Service Appointment Type:
 
@@ -126,7 +126,7 @@ For example, Initial assessment, Follow-Up Consultation under Casting service
 The screenshot below shows the Service availabilities and the Service Appointment Types defined:
 
 \
-![](<../.gitbook/assets/image (176).png>)
+![](<../../.gitbook/assets/image (176).png>)
 
 ### &#x20;Creating and Managing Appointments
 
@@ -138,13 +138,13 @@ The screenshot below shows the Service availabilities and the Service Appointmen
 
 1. Click on the "Add new Appointment" on the Appointments list Tab
 
-<figure><img src="../.gitbook/assets/image (179).png" alt=""><figcaption><p>Add new appointment </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (179).png" alt=""><figcaption><p>Add new appointment </p></figcaption></figure>
 
 
 
 2. The user will have to fill the details of the appointment in the Add new Appointment slider
 
-<figure><img src="../.gitbook/assets/image (178).png" alt=""><figcaption><p>Appointment page </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (178).png" alt=""><figcaption><p>Appointment page </p></figcaption></figure>
 
 
 
@@ -169,11 +169,11 @@ End time will auto populate based on the duration of the service/ service appoin
 
 Users can override the suggested times.
 
-<figure><img src="../.gitbook/assets/image (180).png" alt=""><figcaption><p>Information showing the times for the appointment is not available</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (180).png" alt=""><figcaption><p>Information showing the times for the appointment is not available</p></figcaption></figure>
 
 Providers: Select the provider for the appointment from the drop down. Only those providers with provider attribute Available for appointments set to true will be shown. This setting is available in OpenMRS>Administration>Providers>Manage Providers
 
-<figure><img src="../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
 
 ·         Location:  By default the location will be Service location. User can change the location as applicable.
 
@@ -187,7 +187,7 @@ Providers: Select the provider for the appointment from the drop down. Only thos
 
 &#x20;
 
-&#x20;![](<../.gitbook/assets/image (182).png>)
+&#x20;![](<../../.gitbook/assets/image (182).png>)
 
 Screenshot below showcasing the warning message when scheduling an appointment outside of the slot availability time.
 
@@ -202,11 +202,11 @@ Screenshot below showcasing the warning message when scheduling an appointment o
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (188).png" alt=""><figcaption><p>Calendar view</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (188).png" alt=""><figcaption><p>Calendar view</p></figcaption></figure>
 
 3. In case of scheduled appointment when user selects Edit, then appointment opens as shown below, where user have the option to edit Location, Provider and the Date/time of the appointment.
 
-<figure><img src="../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
 
 4. In case of past appointments or appointments that have been marked as Missed/Canceled/Completed, only Notes field can be edited.
 
@@ -218,7 +218,7 @@ Or user can Edit the appointment and propose the new time and once done an appoi
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 
 ### Status of Appointment
 
@@ -229,7 +229,7 @@ Or user can Edit the appointment and propose the new time and once done an appoi
 * Cancel - Will mark the appointment as cancelled. Once marked as cancelled appointment gets removed from the calendar
 * Missed - Will mark the appointment as Missed as shown below
 
-<figure><img src="../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
 
 

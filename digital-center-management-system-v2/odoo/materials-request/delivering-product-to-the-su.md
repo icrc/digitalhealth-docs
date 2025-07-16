@@ -1,12 +1,12 @@
 # Delivering product to the SU
 
 {% hint style="info" %}
-## Roles recommended :  P\&O, Benchworker
+## Roles recommended :  P\&O
 {% endhint %}
 
 ## **🧭** Context&#x20;
 
-This flow should be followed **after the Manufacturing Order has been validated** or **when a delivery has been manually created for a Service User (SU)**. At this stage, the prosthesis is ready for dispatch, and the delivery process must be completed to ensure the product reaches the SU and the stock is accurately updated.
+This flow should be followed **after the Manufacturing Order has been validated** or **when a delivery has been manually created for a Service User (SU)**. At this stage, the product is ready for dispatch, and the delivery process must be completed to ensure the product reaches the SU and the stock is accurately updated.
 
 ## 🔄 Step-by-Step Flow&#x20;
 
@@ -72,6 +72,6 @@ graph LR
 
 ## What's next?&#x20;
 
-By validating this order, you **confirm that the produ**ct has been successfully delivered to the Service User and is no longer in stock. The inventory is automatically updated to reflect this change. With this final step completed, the process is now finished. No further action is required.
+By validating this order, you **confirm that the product** has been successfully delivered to the Service User and is no longer in stock. The inventory is automatically updated to reflect this change. With this final step completed, the process is now finished. No further action is required.
 
 [^1]: Service provider

@@ -8,7 +8,7 @@ Receptionist Dashboard shows the different information required for Receptionist
 2. My To Do’s
 3. Reports
 
-<figure><img src="../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
 
 ### Today’s Appointments
 
@@ -32,13 +32,13 @@ Receptionist can check in this appointment by clicking on this Check In button.
 
 Once an appointment is checked in the Receptionist will see a success notification.
 
-<figure><img src="../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
 
 5. View All
 
 Receptionists can click on the View All button to see all appointments of the current day.
 
-<figure><img src="../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -68,7 +68,7 @@ Show the service for which the service was created
 
 Receptionist can click on this button to view & print the related document.
 
-<figure><img src="../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -86,7 +86,7 @@ This report shows the line chart for the number of HSUs registered per month. Th
 
 This report shows the line chart for the number of appointments missed per month. This report will show the missed appointments for the last 12 months.
 
-<figure><img src="../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
 
 ## PO Professional Dashboard
 
@@ -96,7 +96,7 @@ PO Professional Dashboard shows the different information required for PO profes
 2. To Do: Appointments to be confirmed
 3. Reports
 
-<figure><img src="../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
 
 ### Today’s Appointments
 
@@ -124,7 +124,7 @@ Once an appointment is marked as done by a PO professional will see a success no
 
 PO professionals can click on the View All button to see all appointments.
 
-<figure><img src="../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
 
 ### To Do: Appointments to be confirmed
 
@@ -154,7 +154,7 @@ PO professionals accept the appointment request by clicking on this Accept butto
 
 PO professionals can click on the View All button to view all appointments in the appointment calendar.
 
-<figure><img src="../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
 
 ### Reports
 
@@ -170,7 +170,7 @@ This report shows the line chart for the number of prosthesis & orthosis deliver
 
 
 
-<figure><img src="../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
 ## PO Head Dashboard
 
@@ -181,7 +181,7 @@ PO Head Dashboard shows the different information required for PO Head. PO Head 
 3. Report Links
 4. Reports
 
-<figure><img src="../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
 
 ### Today’s Appointments
 
@@ -209,7 +209,7 @@ Once an appointment is marked as done by the PO Head will see a success notifica
 
 PO Head can click on the View All button to see all appointments.
 
-<figure><img src="../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
 
 ### To Do: Appointments to be confirmed
 
@@ -241,7 +241,7 @@ PO Head can click on the View All button to view all appointments requests waiti
 
 
 
-<figure><img src="../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
 
 ### Report Links
 
@@ -256,11 +256,11 @@ List of reports shown for PO Head are,
 5. Number of Conformity for Finishing Validated / Refused per Month
 6. Number of Referral per Month (To Specialist / MHPSS / Social Inclusion)
 
-<figure><img src="../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
 
 PO Head should click on any one of the report names to view the report. The report will be shown as a chart/ table.
 
-<figure><img src="../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
 
 ### Reports
 
@@ -274,7 +274,7 @@ This report shows the line chart for the number of HSUs registered per month. Th
 
 This report shows the line chart for the number of prosthesis & orthosis delivered per month. This report will show the prosthesis & orthosis delivered for the last 12 months.
 
-<figure><img src="../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
 
 ## PT Professional Dashboard
 
@@ -285,7 +285,7 @@ PT Professional Dashboard shows the different information required for PT Profes
 
 3\.       Reports
 
-<figure><img src="../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
 
 ### Today’s Appointments
 
@@ -321,7 +321,7 @@ Once appointment is marked as done by PT professional will see a success notific
 
 PT professionals can click on the View All button to see all appointments.
 
-<figure><img src="../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 
 ### To Do: Appointments to be confirmed
 
@@ -361,7 +361,7 @@ PT professionals accept the appointment request by clicking on this Accept butto
 
 PT professionals can click on the View All button to view all appointments requests waiting for confirmation.
 
-<figure><img src="../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
 
 ### Reports
 
@@ -377,7 +377,7 @@ This report shows the line chart for the number of HSUs registered per month. Th
 
 This report shows the line chart for the number of Session Individual/ Group per month. This report will show the Session Individual/ Group for the last 12 months.
 
-<figure><img src="../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
 
 ## PT Head Dashboard
 
@@ -389,7 +389,7 @@ PT Head Dashboard shows the different information required for PT Head. PT Head 
 
 4\.       Reports
 
-<figure><img src="../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
 
 ### Today’s Appointments
 
@@ -425,7 +425,7 @@ Once appointment is marked as done by PT Head will see a success notification.
 
 PT Head can click on the View All button to see all appointments.
 
-<figure><img src="../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
 
 ### To Do: Appointments to be confirmed
 
@@ -465,7 +465,7 @@ PT Head accepts the appointment request by clicking on this Accept button. Once 
 
 PT Head can click on the View All button to view all appointments requests waiting for confirmation.
 
-<figure><img src="../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
 
 ### Report Links
 
@@ -482,11 +482,11 @@ List of reports shown for PT Head are,
 7. Number of Follow up per Month
 8. Number of New Club Foot Registered per Month
 
-<figure><img src="../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
 
 PT Head should click on any one of the report names to view the report. The report will be shown as a chart/ table.
 
-<figure><img src="../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
 
 ### Reports
 
@@ -496,7 +496,7 @@ This section shows reports relevant to the PT Head.
 
 This report shows the line chart for the number of HSUs registered per month. This report will show the HSU registrations for the last 12 months.
 
-<figure><img src="../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
 
 ## Social Worker
 
@@ -507,7 +507,7 @@ Social Worker Dashboard shows the different information required for Social Work
 
 3\.       Reports
 
-<figure><img src="../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
 
 ### Today’s Appointments
 
@@ -543,7 +543,7 @@ Once an appointment is marked as done by Social Worker will see a success notifi
 
 Social Worker can click on the View All button to see all appointments.
 
-<figure><img src="../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
 
 ### To Do: Appointments to be confirmed
 
@@ -583,7 +583,7 @@ Social Worker accepts the appointment request by clicking on this Accept button.
 
 Social Worker can click on the View All button to view all appointments requests waiting for confirmation.
 
-<figure><img src="../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
 
 ### Reports
 
@@ -603,4 +603,4 @@ This report shows the line chart for the number of MHPSS & Social Inclusion refe
 
 &#x20;
 
-&#x20;![](<../.gitbook/assets/image (227).png>)
+&#x20;![](<../../.gitbook/assets/image (227).png>)
