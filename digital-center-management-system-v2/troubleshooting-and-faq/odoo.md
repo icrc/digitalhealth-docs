@@ -6,22 +6,26 @@ description: >-
 
 # Odoo
 
-## Service user Management:&#x20;
+#### 🧭 Context
+
+This page lists the most frequent issues encountered by users while working with Odoo in a manufacturing and service user environment. It serves as a quick reference guide to help identify problems and apply practical solutions without needing technical support. Whether you're configuring a BoM, managing stock, or processing a work order, this page will help you troubleshoot efficiently.
+
+## Service user Management&#x20;
 
 * User doesn't have correct name
 * User doesn't have
 
-## Stock management :&#x20;
+## Stock management&#x20;
 
 <details>
 
 <summary>No rules found to replenish a product</summary>
 
-Error : ![](<../../.gitbook/assets/image (13) (1).png>)
+Error : ![](<../.gitbook/assets/image (13) (1).png>)
 
 Check on the product if there is the “Replenish On Order(MTO)”
 
-![](<../../.gitbook/assets/image (14) (1).png>)
+![](<../.gitbook/assets/image (14) (1).png>)
 
 </details>
 
@@ -39,7 +43,7 @@ System will prevent to have negative value.
 
 </details>
 
-## Repair :&#x20;
+## Repair&#x20;
 
 <details>
 
@@ -53,7 +57,7 @@ If when checking the repair location you see such prothesis that means that some
 
 <summary>Insufficient Quantity on repair</summary>
 
-![](<../../.gitbook/assets/image (15) (1).png>)
+![](<../.gitbook/assets/image (15) (1).png>)
 
 Multiple reason possible :
 
@@ -64,7 +68,7 @@ Multiple reason possible :
 
 </details>
 
-## MRP :&#x20;
+## MRP &#x20;
 
 <details>
 
@@ -72,13 +76,13 @@ Multiple reason possible :
 
 To solve this problem, first close the message and click on "ReConfigure". In a scenario where, for instance, the Foot Sach 2.0 in "Beige" is not available
 
-<img src="../../.gitbook/assets/image (12) (1).png" alt="Attributes for the foot SACH 2.0" data-size="original">
+<img src="../.gitbook/assets/image (12) (1).png" alt="Attributes for the foot SACH 2.0" data-size="original">
 
 You have two options: either change the BoM's color selection to an available option or update the product variant to include the "Beige" color if it's applicable.
 
 </details>
 
-## Admin issues :&#x20;
+## Admin issues&#x20;
 
 <details>
 

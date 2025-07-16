@@ -1,6 +1,8 @@
 # Quality control (Optional step)
 
-When the repair had been ended and if the QC (quality control) is enabled. It will create a quality check to this reparation. By default the step that need to be check is hardcoded to be :
+When the repair had been ended and if the QC (quality control) is enabled. It will create a quality check to this reparation.&#x20;
+
+By default the step that need to be check is hardcoded to be :
 
 &#x20;Alignment is correct in all three planes (frontal, sagittal and transversal)
 

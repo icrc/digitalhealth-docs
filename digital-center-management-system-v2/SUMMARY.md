@@ -103,9 +103,8 @@
 
 ## 🎯 Troubleshooting and FAQ&#x20;
 
-* [Common Issues](troubleshooting-and-faq/common-issues/README.md)
-  * [Odoo](troubleshooting-and-faq/common-issues/odoo.md)
-  * [OpenMRS](troubleshooting-and-faq/common-issues/openmrs.md)
+* [Odoo](troubleshooting-and-faq/odoo.md)
+* [OpenMRS](troubleshooting-and-faq/openmrs.md)
 * [Known Issues](troubleshooting-and-faq/known-issues.md)
 * [FAQ](troubleshooting-and-faq/faq.md)
 * [Backlog of error and resolution](troubleshooting-and-faq/backlog-of-error-and-resolution.md)
