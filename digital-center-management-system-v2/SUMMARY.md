@@ -32,6 +32,7 @@
   * [Accessing Odoo](odoo/odoo-entry-point/accessing-odoo.md)
   * [Landing Page Widget](odoo/odoo-entry-point/landing-page-widget.md)
   * [Explanation of the interface](odoo/odoo-entry-point/explanation-of-the-interface.md)
+  * [Roles and privilege](odoo/odoo-entry-point/roles-and-privilege.md)
 * [Service User Management](odoo/service-user-management.md)
 * [Materials request](odoo/materials-request/README.md)
   * [Materials request for Manufactured product](odoo/materials-request/materials-request-for-manufactured-product/README.md)

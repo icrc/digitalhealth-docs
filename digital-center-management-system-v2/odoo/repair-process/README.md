@@ -1,6 +1,27 @@
 # Repair Process
 
-Here is the process of the repair process that you will follow in this chapter
+
+
+🔄 Repair Workflow Overview
+
+This flow describes the **complete repair process**, starting from the reception of the item from the Service User (SU) to the final delivery of the repaired product. It includes the interaction between the technician and the **Stock Keeper**, who plays a crucial role in managing stock availability and product preparation.
+
+1. **Reception & Repair Initiation**\
+   The process begins when the Service User returns the item for repair. The technician selects the correct product and associated Lot Number, then validates the picking to confirm receipt. A **Repair Order** is then created.
+2. **Repair Order Configuration**\
+   In the repair form, the technician selects the product that needs to be repaired and validates the repair setup.
+3. **Stock Check & Preparation**\
+   The system checks if the required parts or materials for the repair are available in stock:
+   * **If not available**, a stock picking is created and sent to the **Stock Keeper**, who prepares the necessary items.
+   * The Stock Keeper retrieves the correct product from stock, prepares it, and delivers it to the **benchworker**.
+4. **Repair Execution**\
+   Once the needed items are available, the technician starts and performs the repair.
+5. **Delivery of Repaired Product**\
+   After the repair is completed, a delivery is created to return the repaired item to the Service User. Once validated, the delivery is closed, and the product is officially returned to the SU.
+
+This flow ensures **traceability of parts**, **accurate inventory movement**, and clear **role separation** between stock management and repair execution.
+
+### 🗺️ Visual Overview  <a href="#visual-overview" id="visual-overview"></a>
 
 ```mermaid
 flowchart TD
