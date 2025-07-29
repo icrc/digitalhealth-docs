@@ -1,4 +1,10 @@
-# Creation of Product
+# How to create new product
+
+## **🧭** Context&#x20;
+
+
+
+## Difference between Product and Product Variant&#x20;
 
 ```mermaid
 flowchart TD
