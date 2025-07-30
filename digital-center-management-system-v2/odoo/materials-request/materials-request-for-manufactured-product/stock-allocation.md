@@ -24,7 +24,7 @@ You can view a list of all SU[^1]s here. Use the search bar at the top to find a
 
 Inside the SU[^2] form, you will find a tab called "Stock Pickings", where all stock movements created for this [SU ](#user-content-fn-2)[^2]are listed. In this case, we will open the one with the "Waiting" status.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Via the Inventory application" %}
@@ -34,7 +34,7 @@ On the home page, go to the icon "Inventory".
 
 You can view a list of all operation types from this page. Locate the operation type usually called **"Picking Components"**. Within this section, you'll find several useful links: a button that takes you to deliveries ready to be processed, a number indicating how many pickings are currently waiting on another transfer, and another number showing the count of late pickings.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Use the search bar at the top to find the correct picking by their reference, by their patient name, SU[^1] ID ... Please ensure to select the correct option.
 {% endtab %}

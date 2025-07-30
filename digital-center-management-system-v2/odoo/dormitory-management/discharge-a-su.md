@@ -1,4 +1,14 @@
-# Discharge a Patient
+# Discharge a SU
+
+## **🧭** Context: <a href="#context" id="context"></a>
+
+This step take place after the admittion of a SU or an Caregiver, both of them need to discharged.
+
+## 🔄 Step-by-Step Flow
+
+### Access the SU Form
+
+To create a caregiver, you must first access the
 
 To discharge a patient or a caregiver, follow these steps:
 

@@ -1,6 +1,10 @@
 # Service User Management
 
-## Find the correct SU
+## **🧭** Context&#x20;
+
+The **Service User Management** application in Odoo provides a central list of all patients who have been created in OpenMRS and for whom the _Initial Decision Form_ has been completed. This application acts as a reference point for managing patients within Odoo. Only essential information is synchronized from OpenMRS — such as the patient's name, age, gender, and address. No clinical or additional data is transferred, ensuring that only the basic identification details are maintained in Odoo.
+
+## How to find a specific Service User (SU)&#x20;
 
 On the home page, go to the icon "Service User Management".
 

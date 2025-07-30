@@ -32,7 +32,7 @@ Inside the SU form, you'll find a tab labeled "**Stock items**". Clicking it wil
 {% tab title="Via the Inventory application" %}
 On the home page, go to the icon "Inventory".
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 You can view a list of all operation types from this page. Locate the operation type called **"Delivery Orders"**. Within this section, you'll find several useful links: a button that takes you to deliveries ready to be processed, a number indicating how many deliveries are currently waiting on another transfer, and another number showing the count of late deliveries.
 
