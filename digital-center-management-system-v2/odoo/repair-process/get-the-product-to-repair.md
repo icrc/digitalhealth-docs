@@ -61,7 +61,7 @@ A new button labeled **"Mark as To Do"** will appear. Click this button to progr
 
 A new tab named **"Detailed Operations"** will now be visible.
 
-Open this tab and select the correct **Lot Number** that corresponds to the prosthesis linked to the SU.
+Open this tab, Then click on the button "Edit" and then select the correct **Lot Number** that corresponds to the prosthesis linked to the SU.
 
 {% hint style="info" %}
 If the prosthesis was not previously recorded in the system, you can create a **new serial number** at this step.

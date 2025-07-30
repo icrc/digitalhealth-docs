@@ -36,6 +36,10 @@ You can view the list of existing repair orders from the **Repair Orders** menu.
 
 <figure><img src="../../.gitbook/assets/image (277).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
+
+{% tab title="Via the previous step" %}
+
+{% endtab %}
 {% endtabs %}
 
 If you have selected a Service User where the product to repair was not been received correctly, a pop-up will appear warning that no items belong to this SU. In this case, return to the previous step, “[Get the product to repair.](get-the-product-to-repair.md)”
@@ -50,6 +54,10 @@ The form contains two essential tabs.\
 The first is the **"Parts"** tab. This section lists all the products that will be either used or removed from a specific manufactured product during the repair process.\
 Here, you can add new entries by clicking on **"Add a line"**. When adding a line, you’ll have the option to specify whether a product is being **added** (used in the repair) or **removed** (taken out of the original item).
 
+{% hint style="danger" %}
+Only include items that will be used during the repair (such as bandages or replacement feet). Do not select the item that is being repaired.
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
 
 If "Removed" is selected, you can modify the destination location to either return the product to stock or move it to the scrap location.
@@ -57,6 +65,10 @@ If "Removed" is selected, you can modify the destination location to either retu
 <figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
 The second tab is "Operations". This section includes all service products required during the repair. It is mainly used for invoicing specific services, such as labor or materials, to the patient.
+
+{% hint style="info" %}
+This tab is only relevant if the center is using the **Invoicing** module.
+{% endhint %}
 
 Once everything is set up, the next step is to confirm the repair by clicking on "Confirm Repair".
 

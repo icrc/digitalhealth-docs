@@ -95,8 +95,13 @@
 
 ## 📈 Superset
 
+* [Introduction](superset/introduction.md)
 * [Overview of the dashboards](superset/overview-of-the-dashboards.md)
-* [HOW TO CHANGE THE LANGUAGE](superset/how-to-change-the-language.md)
+* [How to change the language](superset/how-to-change-the-language.md)
+* [How to select a specific dashboard](superset/how-to-select-a-specific-dashboard.md)
+* [Learn to use filter](superset/learn-to-use-filter.md)
+* [MHPSS Dashboard overview](superset/mhpss-dashboard-overview.md)
+* [PRP Dashboard overview](superset/prp-dashboard-overview.md)
 
 ## 📢 TIPS AND BEST PRACTICE
 

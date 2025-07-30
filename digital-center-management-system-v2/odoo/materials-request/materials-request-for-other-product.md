@@ -8,7 +8,9 @@
 
 This flow should be followed to create a material request for any product that is not manufactured internally, such as bandages, medication, or other consumables.&#x20;
 
-It serves as a simplified process to record and track which non-manufactured items have been provided to the Service User. By following this flow, you ensure that these distributions are properly registered in the system, supporting both inventory accuracy and traceability of care-related materials.
+It serves as a simplified process to record and track which non-manufactured items have been provided to the Service User like bandage, medicaments or any other items.
+
+&#x20;By following this flow, you ensure that these distributions are properly registered in the system, supporting both inventory accuracy and traceability of care-related materials.
 
 ## 🔄 Step-by-Step Flow&#x20;
 

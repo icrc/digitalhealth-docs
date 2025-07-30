@@ -42,7 +42,7 @@ Use the search bar at the top to find the correct delivery by their reference, b
 {% endtab %}
 {% endtabs %}
 
-### Create the Delivery from the Manufacturing Order
+### Validating the transfer order
 
 In both cases, the process follows the step as for any other stock move. To see how to process it refer to “[Manage a stock move](../stock-management/)”.
 
