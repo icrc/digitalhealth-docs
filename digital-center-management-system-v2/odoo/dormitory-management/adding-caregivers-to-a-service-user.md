@@ -31,11 +31,11 @@ You can view a list of all SU[^1]s here. Use the search bar at the top to find a
 The first step is to check whether the checkbox labeled **"Has caregiver"** is selected.\
 If it is not, click the **Edit** button at the top left of the screen to enter edit mode, then check the **"Has caregiver"** box.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 If this box is checked, you will see a tab labeled **"Caregiver(s)"**. From there, you can view all caregivers associated with the Service User (SU) or create a new one.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 When creating a caregiver, you must fill in mandatory fields such as **name**, **family name**, and **gender**. The other fields are optional but help to better track and identify the caregiver. You can click on "Save\&Close" or "Save\&new" if you have to create multiple caregiver.&#x20;
 

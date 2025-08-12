@@ -78,27 +78,4 @@ graph LR
 
 
 
-
-
-8. Activating the Admission:
-   * Once the admission is planned, click the "Activate" button at the top of the main admission record.
-   * Also, select the small checkbox on the corresponding SU Companion Line for each caregiver.
-
-<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
-
-* Plan Start and End dates can be entered as current, past or future.\
-  Depending on those dates different behaviour of button will be:
-*
-  * Both dates are in past: the SU admission will be activated, admitted and discharged with planned dates.\
-    Admission will end in state Discharged
-  * Start date is in past, release date is in future: the SU will be admitted, the bed shown as occupied,\
-    Admission will be in state Admitted
-  * Both dates are in future: The selected bed will be shown as Planned (or reserved) for SU,\
-    Admission will be in state Planned
-
-8. Status Update:
-   * After activation, the status of the admission record will change to "Plan" for both the main admission and the caregiver(s).
-
-This process ensures that both the SU and their caregiver(s) are properly admitted with accurate tracking of dates and status.
-
 [^1]: Service provider
