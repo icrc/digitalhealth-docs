@@ -1,5 +1,5 @@
 ---
-description: New service and follow up/repair
+description: New service and follow up/repair (worflow in details)
 ---
 
 # Workflow User Journey
@@ -65,7 +65,8 @@ Appointment for follow up visit
 
     D --> E["Initial outcome and goal setting + Basic service plan + clinical consent"]
     E --> E1["Plan Service"]
-    E1 --> F["Financial capacity assessment + socio-economic assessment (completed with financing decision if financial capacity is not approved)"]
+    E1 --> F["Financial capacity assessment + socio-economic assessment"]
+    E2 --> F["Financing decision if financial capacity is not approved"]
     F --> G["Any Services"]
 
     %% Subgraph for services (no label), all connect directly to Final Assessment

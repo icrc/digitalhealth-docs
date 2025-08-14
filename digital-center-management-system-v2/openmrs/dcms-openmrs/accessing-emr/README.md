@@ -36,7 +36,7 @@ You will be taken to a first page where you need to select the location (name of
 \
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Landing page (Main Menu) <a href="#hlk89272469" id="hlk89272469"></a>
 

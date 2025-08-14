@@ -1,5 +1,11 @@
 # Glossary
 
+* **IDTIA**= Interdisciplinary Team Initial Assessment&#x20;
+* **EOS**= Episode of Service
+*
+
+
+
 #### 🔧 MRP / Manufacturing Terminology
 
 * **MRP (Manufacturing Resource Planning)**: A system used to plan and manage manufacturing processes including stock, production, and delivery.

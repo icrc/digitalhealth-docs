@@ -48,7 +48,7 @@ Click on the icon at the top of the widget
 
 2. &#x20;Click _‘Save Form’_.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _Remark: You can access the same function through the HSU header_
@@ -64,7 +64,13 @@ _Remark: You can access the same function through the HSU header_
 
 ## &#x20;Visit Dashboard&#x20;
 
+1. you can select the actual visit or a past visit.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+2. You see what was edited in different encounter.
 
 
 
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 

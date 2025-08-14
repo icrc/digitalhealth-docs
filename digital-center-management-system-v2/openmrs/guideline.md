@@ -146,7 +146,7 @@ After registering a new HSU, the user (receptionist) will be taken to the ‘Enr
 
 The program enrollment dashboard displays in the section “Programs” all the health programs in which the HSU is registered.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Programs dashboard (for enrollment)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Programs dashboard (for enrollment)</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Programs dashboard – this HSU is only enrolled in PRP program</p></figcaption></figure>
 

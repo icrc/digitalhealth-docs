@@ -44,7 +44,7 @@ Once the admission is planned, click the "Activate" button at the top of the mai
 
 Also, select the small checkbox on the corresponding SU Companion Line for each caregiver.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (285).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
