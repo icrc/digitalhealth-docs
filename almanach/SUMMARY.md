@@ -4,21 +4,23 @@
 
 ## Getting Started
 
-* [System requirements](getting-started/system-requirements.md)
-* [Installation / Access](getting-started/installation-access.md)
 * [First Time Login](getting-started/first-time-login.md)
-* [User Roles and Permissions](getting-started/user-roles-and-permissions.md)
+* [Setting up Context Parameters](getting-started/setting-up-context-parameters.md)
+* [Installation / Access](getting-started/installation-access.md)
 
 ## Navigation and Interface Overview
 
-* [Main interface](navigation-and-interface-overview/main-interface.md)
+* [Main Interface](navigation-and-interface-overview/main-interface.md)
 * [Main functional areas](navigation-and-interface-overview/main-functional-areas.md)
 
 ## Core Functionalities
 
 * [Creating a New Record / Entry](core-functionalities/creating-a-new-record-entry.md)
-* [Performing Core Actions](core-functionalities/performing-core-actions.md)
-* [Advanced Functionalities](core-functionalities/advanced-functionalities.md)
+* [Pausing a Consultation for a Test](core-functionalities/pausing-a-consultation-for-a-test.md)
+* [Saving a Consultation](core-functionalities/saving-a-consultation.md)
+* [Changing Form and Application Language](core-functionalities/changing-form-and-application-language.md)
+* [Advanced Functionalities](core-functionalities/advanced-functionalities/README.md)
+  * [User Roles and Permissions](core-functionalities/advanced-functionalities/user-roles-and-permissions.md)
 
 ## Tips and Best Practices
 
