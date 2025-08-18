@@ -10,6 +10,6 @@ This documentation is split in multiple part :&#x20;
 6. Troubleshooting and FAQ
 7. Appendices
 8. Production release&#x20;
-   1. Odoo
-   2. OpenMRS
+   1. OpenMRS
+   2. Odoo
    3. Superset

@@ -4,7 +4,7 @@ description: >-
   essentials questions.
 ---
 
-# Forms (including updates and connection to ODOO)
+# Forms (and connection to ODOO)
 
 ### Initial decision after registration&#x20;
 
@@ -37,3 +37,20 @@ If you select other options from the drop down list; the HSU was already registe
 <figure><img src="../../../.gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure>
 
 ### Initial Assessment&#x20;
+
+Condition sections based on ICD 10
+
+Recently added;&#x20;
+
+* Cerebrovascular accident&#x20;
+* Neuro developmental & growth disorder (R62)
+* Other soft tissue disorder (M70-M79)= calcaneal spur, metatarsalgia, myalgia, plantar fascitiies.
+
+<figure><img src="../../../.gitbook/assets/image (286).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (288).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (289).png" alt=""><figcaption></figcaption></figure>
+
