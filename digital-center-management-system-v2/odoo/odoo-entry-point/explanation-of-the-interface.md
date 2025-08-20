@@ -12,7 +12,7 @@
 
 * Displays all installed **apps** (modules) as icons (e.g., Sales, CRM, Inventory, Accounting).
 * Click on an app to enter its specific workspace.
-* You can also search for a specific information
+* You can also search for specific information
 
 <figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
 

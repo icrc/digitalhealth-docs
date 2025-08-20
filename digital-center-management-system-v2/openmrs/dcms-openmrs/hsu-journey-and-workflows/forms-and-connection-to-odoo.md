@@ -6,7 +6,7 @@ description: >-
 
 # Forms (and connection to ODOO)
 
-### Initial decision after registration&#x20;
+### 1. Initial decision after registration&#x20;
 
 * [x] Outreach question
 
@@ -54,3 +54,26 @@ Recently added;&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (289).png" alt=""><figcaption></figcaption></figure>
 
+### 2. Initial assessment outcome and goal setting&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (298).png" alt=""><figcaption></figcaption></figure>
+
+If you select plan of service then go to Basic service plan to prescribe the services
+
+if you select referral go to referral form
+
+{% hint style="info" %}
+if you select refer to additional examinations, you can still save and validate (the HSU does a x ray or test per example) and come back you can still edit and validate.&#x20;
+{% endhint %}
+
+If you select not eligible for services, it will close the episode of service after validation
+
+if you select service is not available, it means the product or the service is not available and it will close the episode of service.
+
+
+
+### 3. Basic service plan
+
+
+
+<figure><img src="../../../.gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>

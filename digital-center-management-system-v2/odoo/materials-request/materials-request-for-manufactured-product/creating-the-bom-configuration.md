@@ -4,7 +4,7 @@ To configure a BoM configuration, start by selecting a Service User (SU). To do 
 
 <figure><img src="../../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Within the form, locate and click on the "Mrp Configuration" button. In this button there is a count of all MRP configuration already created for the Service User. When clicking the button it will display all existing configurations already created for this patient.
+Within the form, locate and click on the "MRP Configuration" button. In this button there is a count of all MRP configuration already created for the Service User. When clicking the button it will display all existing configurations already created for this service user.
 
 Click on "Create" to initiate a new configuration.(top left of the screen)
 
@@ -32,4 +32,4 @@ If there is a pop-up message, it may indicate one of the following issues:
 
 Description automatically generated](file:///C:/Users/A079902/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg)
 
-Note : To resolve this issue please refer to the Section Troubleshouting
+Note : To help you resolve any issue please refer to the Section [Troubleshooting](broken-reference)

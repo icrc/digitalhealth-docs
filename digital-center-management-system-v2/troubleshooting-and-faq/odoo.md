@@ -82,6 +82,16 @@ You have two options: either change the BoM's color selection to an available op
 
 </details>
 
+<details>
+
+<summary>The product variant is not existing</summary>
+
+It can be that a specific variant has been archived by mistake so the BoM configuration can't find it.&#x20;
+
+Go to [archiving-product.md](../odoo/product-management/archiving-product.md "mention") to know how to tackle the problem.
+
+</details>
+
 ## Admin issues&#x20;
 
 <details>

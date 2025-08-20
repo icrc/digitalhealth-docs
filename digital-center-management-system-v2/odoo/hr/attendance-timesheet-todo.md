@@ -1,2 +1,6 @@
-# Attendance
+---
+hidden: true
+---
+
+# Attendance / Timesheet (TODO)
 

@@ -58,4 +58,6 @@ TODO Mermaid graph
 
 After finalizing the manufacturing order, the next step is to deliver the prosthesis to the Service User for the stock manager and for the P\&O to wait for this stock allocation for processing the Manufacturing order.
 
+[Click here to access this action ](delivering-product-to-the-su.md)
+
 [^1]: Service provider

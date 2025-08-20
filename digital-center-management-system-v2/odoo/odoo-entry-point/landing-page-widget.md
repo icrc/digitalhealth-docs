@@ -1,6 +1,6 @@
 # Landing Page Widget
 
-When the User will be connected to Odoo he will be able to see some widget :
+When the User will be connected to Odoo,they will be able to see some widgets :
 
 The shown widget will be based on the Role of the User
 

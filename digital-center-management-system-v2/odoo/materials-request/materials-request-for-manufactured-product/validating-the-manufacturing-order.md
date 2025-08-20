@@ -80,7 +80,7 @@ TODO Mermaid graph
 
 After finalizing the manufacturing order, the next step is to deliver the prosthesis to the Service User.
 
-
+[Click here to access this action ](../delivering-product-to-the-su.md)
 
 
 

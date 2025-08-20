@@ -18,7 +18,7 @@ Once you have verified the components to be consumed and defined the operations 
 
 <figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
-This action initiates the creation of a Work Order that includes all the necessary components for consumption and will open in on a pop-up. The Work Order starts in a draft status.
+This action initiates the creation of a Work Order that includes all the necessary components for consumption and will open in a pop-up. The Work Order starts in a draft status.
 
 {% hint style="info" %}
 Even if you close the pop-up without saving the MRP order had been created
@@ -28,7 +28,7 @@ Even if you close the pop-up without saving the MRP order had been created
 
 {% tabs %}
 {% tab title="From the BoM Configuration" %}
-After the direct creation, you should still be on the BoM configuration, you can found within the form the direct link to the manufacturing order.
+After the direct creation, you should still be on the BoM configuration, you can find within the form the direct link to the manufacturing order.
 
 <figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -40,7 +40,7 @@ On the home page, go to the icon "Service User Management".
 
 <figure><img src="../../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
 
-You can view a list of all SU[^1]s here. Use the search bar at the top to find a patient by their name or SU[^1] ID. Please ensure to select the correct option.
+You can view a list of all SU[^1]s here. Use the search bar at the top to find a service user by their name or SU[^1] ID. Please ensure to select the correct option.
 
 <figure><img src="../../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
 
@@ -64,7 +64,7 @@ You can view a list of all Manufacturing Orders here. Use the search bar at the 
 
 ### Confirm an MRP order
 
-It's important to note that depending on your security role, you may not have the authorization to confirm the MRP order. Typically, only physiotherapist, orthotist or authorized personnel can confirm this MRP order, ensuring that the manufacturing process proceeds accurately and according to plan.
+It's important to note that depending on your security role, you may not have the authorization to confirm the MRP order. Typically, only physiotherapists, orthotist or authorized personnel can confirm this MRP order, ensuring that the manufacturing process proceeds accurately and according to plan.
 
 _Technically: If the user does not have the role (group\_mrp\_manager), they will not see the "Confirm" button and will be unable to proceed with any actions related to confirming the Manufacturing Resource Planning (MRP). Only users with this specific role will have the "Confirm" button enabled._
 

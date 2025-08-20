@@ -1,12 +1,5 @@
 # Glossary
 
-#### **Openmrs**&#x20;
-
-* **IDTIA**= Interdisciplinary Team Initial Assessment&#x20;
-* **EOS**= Episode of Service
-* **HSU**= Health Service User&#x20;
-* **AT**= Assistive technology
-
 #### 🔧 MRP / Manufacturing Terminology
 
 * **MRP (Manufacturing Resource Planning)**: A system used to plan and manage manufacturing processes including stock, production, and delivery.
