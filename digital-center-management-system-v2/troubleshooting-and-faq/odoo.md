@@ -1,7 +1,7 @@
 ---
 description: >-
   This page provides quick solutions to common Odoo issues related to
-  manufacturing, BoM setup, stock transfers, and user access.
+  manufacturing, BoM setup, stock transfers, user access ...
 ---
 
 # Odoo
