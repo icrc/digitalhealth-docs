@@ -6,7 +6,7 @@
 
 ## **🧭** Context&#x20;
 
-
+Once the repair process is completed, the next step is to ensure the repaired item is returned to the Service User. This stage focuses on creating and validating the delivery order so the item can be officially handed back. Documenting this step ensures traceability, confirms that the repair cycle is properly closed, and provides the Service User with the repaired product in a structured and transparent way.
 
 ## 🔄 Step-by-Step Flow&#x20;
 

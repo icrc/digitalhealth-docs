@@ -1,7 +1,7 @@
 # Get the product to repair
 
 {% hint style="info" %}
-## Roles recommended :  ??
+## Roles recommended :  P\&O, Benchworker
 {% endhint %}
 
 ## **🧭** Context&#x20;

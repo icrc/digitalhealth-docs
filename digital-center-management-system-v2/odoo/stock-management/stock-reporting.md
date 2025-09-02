@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Stock reporting
 
 TODO :&#x20;
@@ -9,3 +13,4 @@ TODO :&#x20;
 \- Stock-out
 
 \- Closing balance, all with respective quantities and values.
+
