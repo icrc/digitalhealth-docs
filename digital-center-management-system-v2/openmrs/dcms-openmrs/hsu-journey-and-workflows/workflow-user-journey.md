@@ -257,4 +257,39 @@ flowchart TB
 
 
 
-### D. Workflow Follow up/ repair to New Service&#x20;
+### SIMPLIFIED WORKFLOW FOR WALKING AND ADL
+
+#### Initial decision after registration
+
+<figure><img src="../../../.gitbook/assets/image (300).png" alt=""><figcaption></figcaption></figure>
+
+If you need to deliver only one walking aid and/or ADL;
+
+<figure><img src="../../../.gitbook/assets/image (302).png" alt=""><figcaption></figcaption></figure>
+
+if you select new service, two options are display;
+
+<figure><img src="../../../.gitbook/assets/image (303).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (304).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (305).png" alt=""><figcaption></figcaption></figure>
+
+
+
+{% hint style="info" %}
+As you need to enter the conditions of the HSU who will receive the walking aid only, the initial assessment must bee done.
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/image (307).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../.gitbook/assets/image (309).png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../.gitbook/assets/image (308).png" alt=""><figcaption></figcaption></figure>
+
