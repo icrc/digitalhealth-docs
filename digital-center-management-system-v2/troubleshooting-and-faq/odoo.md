@@ -76,7 +76,7 @@ Multiple reason possible :
 
 To solve this problem, first close the message and click on "ReConfigure". In a scenario where, for instance, the Foot Sach 2.0 in "Beige" is not available
 
-<img src="../.gitbook/assets/image (12) (1).png" alt="Attributes for the foot SACH 2.0" data-size="original">
+<img src="../.gitbook/assets/image (12) (1) (1).png" alt="Attributes for the foot SACH 2.0" data-size="original">
 
 You have two options: either change the BoM's color selection to an available option or update the product variant to include the "Beige" color if it's applicable.
 

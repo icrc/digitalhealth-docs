@@ -175,7 +175,7 @@ Click _‘Save Form’_
 \
 
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>: Editing the registration form via the Registration Summary</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>: Editing the registration form via the Registration Summary</p></figcaption></figure>
 
 #### Edit sections – HSU header
 
@@ -191,11 +191,11 @@ Make the necessary changes using the left side list and click on “save form
 
 To access the PRP dashboard, click on ‘_PRP Dashboard’_ in the ‘_General Actions’_ toolbox.
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>General Actions – PRP Dashboard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>General Actions – PRP Dashboard</p></figcaption></figure>
 
 The ‘_PRP Dashboard’_ displays the information collected during the current Episode of Service and also information from past services/past visits. The information displayed in the ‘_PRP Dashboard’_ is available only to PRP staff having access to clinical information.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>PRP Dashboard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>PRP Dashboard</p></figcaption></figure>
 
 ## Visits
 
@@ -211,13 +211,13 @@ The ‘_PRP Dashboard’_ displays the information collected during the current 
 
 In the PRP workflow, the first form to be documented is  the one called: “Initial decision after registration”.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Starting a new visit on the same day on which it took place</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Starting a new visit on the same day on which it took place</p></figcaption></figure>
 
 #### Ending a visit
 
 After you have completed all the forms related to this visit and the Episode of Service is considered to be closed, click on ‘_End visit’_ on the right-hand side of the clinical dashboard / PRP dashboard.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Ending an active visit</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Ending an active visit</p></figcaption></figure>
 
 ### Adding a past visit
 

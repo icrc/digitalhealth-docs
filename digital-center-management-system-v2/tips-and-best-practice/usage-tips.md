@@ -20,7 +20,7 @@ For smaller screen select Normal
 
 <summary>Odoo - Keyboard Shortcuts</summary>
 
-<img src="../.gitbook/assets/image (6) (1) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt="" data-size="original">
 
 </details>
 

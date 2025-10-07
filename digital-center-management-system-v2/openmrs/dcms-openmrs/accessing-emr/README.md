@@ -27,7 +27,7 @@ Once you have clicked on the link to access the system, you will be taken to the
 \
 
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### &#x20;Select login location
 

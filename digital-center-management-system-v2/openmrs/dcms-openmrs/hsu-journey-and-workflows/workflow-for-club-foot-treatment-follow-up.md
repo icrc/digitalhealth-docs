@@ -5,7 +5,7 @@ description: >-
   without the Ponseti method.
 ---
 
-# Workflow for Club Foot treatment
+# Workflow for Club Foot treatment (Follow up)
 
 {% hint style="warning" %}
 In this scenario; the HSU will only receive the Foot Abduction Brace, as the serial casting (or Ponseti) will be performed in a medical setting (with sometimes a tenotomy).
@@ -167,6 +167,48 @@ flowchart TD
     J --> N
     L --> N
 ```
+
+### WORKFLOW CLUB FOOT (FULL DELIVERY)
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+After Financing decision
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+You can per example, proceed to the casting as first step of the treatment.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+after 3 PoP casting sessions, you will see the graph of your HSU progress and then you can refer for a tenotomy if necessary like below.
+
+Each PoP session you will open a new form to obtain the progress measurement.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+You open, and re do the pirani score and refer for a tenotomy.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
 
 
 

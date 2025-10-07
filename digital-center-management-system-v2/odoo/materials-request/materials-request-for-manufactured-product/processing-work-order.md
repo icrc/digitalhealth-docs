@@ -24,7 +24,7 @@ You can view a list of all SU[^1]s here. Use the search bar at the top to find a
 
 Inside the SU form, you will find two buttons: "[**MRP**](#user-content-fn-2)[^2] **Production**" and "[**MRP**](#user-content-fn-2)[^2] **Workorder**". The first opens the full production order, while the second opens only the specific workorder to be processed.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 {% endtab %}
@@ -32,11 +32,11 @@ Inside the SU form, you will find two buttons: "[**MRP**](#user-content-fn-2)[^2
 {% tab title="Via the Manufacturing application" %}
 On the home page, go to the icon "Manufacturing".
 
-<figure><img src="../../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can view a list of all Manufacturing Orders here. Use the search bar at the top to find the correct Manufacturing by their reference, by their patient name, SU[^1] ID ... Please ensure to select the correct option.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

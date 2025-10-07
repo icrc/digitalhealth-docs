@@ -32,7 +32,7 @@ Here, you can add or remove values as required.
 
 Finally, click on "Start BoM Configuration". Two tabs will appear: "Components" and "Operations". These tabs allow you to define the components and operations necessary for manufacturing the product.
 
-<figure><img src="../../../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Let’s first begin by creating a new work order line in the Operations tab, When selecting the operation, if you want to create a new one, you can write the name of the new operation and click on "Create and Edit". This will open the form for further details.
 

@@ -39,7 +39,7 @@ If this box is checked, you will see a tab labeled **"Caregiver(s)"**. From ther
 
 When creating a caregiver, you must fill in mandatory fields such as **name**, **family name**, and **gender**. The other fields are optional but help to better track and identify the caregiver. You can click on "Save\&Close" or "Save\&new" if you have to create multiple caregiver.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## What's next?&#x20;
 

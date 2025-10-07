@@ -30,7 +30,7 @@ You can view a list of all SU[^1]s here. Use the search bar at the top to find a
 
 Inside the SU form, you'll find a button labeled "**MRP Production**". Clicking it will open all manufacturing orders associated with that specific Service User.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 {% endtab %}
@@ -38,11 +38,11 @@ Inside the SU form, you'll find a button labeled "**MRP Production**". Clicking 
 {% tab title="Via the Manufacturing application" %}
 On the home page, go to the icon "Manufacturing".
 
-<figure><img src="../../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can view a list of all Manufacturing Orders here. Use the search bar at the top to find the correct Manufacturing by their reference, by their patient name, SU[^1] ID ... Please ensure to select the correct option.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
