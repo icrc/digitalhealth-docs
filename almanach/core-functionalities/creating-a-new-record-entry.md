@@ -1,8 +1,8 @@
 # Creating a New Record / Entry
 
-This documentation outlines the steps to start a new consultation data entry form for "IMCI ICRC Global Child" within the Community Health Toolkit (CHT) by accessing available forms from the home screen.
+This section outlines the steps to start a new consultation data entry form for "ALMANACH Global Child" within the Community Health Toolkit (CHT) by accessing available forms from the home screen.
 
-### Steps to start a new consultation in Global Alamanch
+### Steps to start a new consultation in Global ALMANACH
 
 1.  Access the CHT Home Screen:
 

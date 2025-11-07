@@ -4,11 +4,11 @@ There are three main areas in the CHT application,&#x20;
 
 * The health facility section
 * The tasks section
-* The Reports section&#x20;
+* The reports section&#x20;
 
 ### The health facility section&#x20;
 
-The health facility section is the area that allows your to start a new consultation and see a summery of main consultations.&#x20;
+The health facility section is the area that allows you to start a new consultation and see a summery of main consultations.&#x20;
 
 You can read the health facility section which is outlined in the [main-interface.md](main-interface.md "mention") section of the documentation.
 
