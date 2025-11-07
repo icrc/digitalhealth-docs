@@ -10,7 +10,7 @@
 ## Navigation and Interface Overview
 
 * [Main Interface](navigation-and-interface-overview/main-interface.md)
-* [Main functional areas](navigation-and-interface-overview/main-functional-areas.md)
+* [Main areas of the app](navigation-and-interface-overview/main-areas-of-the-app.md)
 
 ## Core Functionalities
 
