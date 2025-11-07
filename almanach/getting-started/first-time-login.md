@@ -26,10 +26,10 @@ Upon successful login to the CHT application, you may be prompted to complete th
 
 ### Troubleshooting
 
-* **Incorrect Credentials or forgot password:** If you are not using SSO and receive an "Invalid Username or Password" or "Forgot Password?" error, double-check your entries for typos, correct capitalization, and ensure you are using the most current credentials. If the issue persists, contact the support team via your ICRC focal point, or using this email address :&#x20;
-* **Connectivity Issues:** Ensure you have a stable internet connection.
+* **Incorrect Credentials or forgot password:** If you are not using SSO and receive an "Invalid Username or Password" or "Forgot Password?" error, double-check your entries for typos, correct capitalization, and ensure you are using the most current credentials. If the issue persists, contact the support team via your ICRC focal point, or using this email address with "ALMANACH" in the subject field: [servicedesk@icrc.org](mailto:servicedesk@icrc.org)
+* **Connectivity Issues:** Ensure you have a stable internet connection the first time you log in.
 
-If you continue to experience issues logging in, please contact technical support with details of the problem and any error messages you received.
+If you continue to experience issues logging in, please contact your focal point or technical support on with details of the problem and any error messages you received.
 
 {% hint style="info" %}
 Read more about logging in to the CHT application in official documentation [https://docs.communityhealthtoolkit.org/building/login/](https://docs.communityhealthtoolkit.org/building/login/)
