@@ -14,7 +14,7 @@
 
 ## Core Functionalities
 
-* [Creating a New Record / Entry](core-functionalities/creating-a-new-record-entry.md)
+* [Start a new consultation](core-functionalities/start-a-new-consultation.md)
 * [Pausing a Consultation for a Test](core-functionalities/pausing-a-consultation-for-a-test.md)
 * [Saving a Consultation](core-functionalities/saving-a-consultation.md)
 * [Changing Form and Application Language](core-functionalities/changing-form-and-application-language.md)
