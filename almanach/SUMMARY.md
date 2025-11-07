@@ -6,7 +6,6 @@
 
 * [First Time Login](getting-started/first-time-login.md)
 * [Setting up Context Parameters](getting-started/setting-up-context-parameters.md)
-* [Installation / Access](getting-started/installation-access.md)
 
 ## Navigation and Interface Overview
 
