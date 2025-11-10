@@ -15,6 +15,8 @@ ICRC has published many scientific articles on the effectiveness of ALMANACH in 
 
 Users feel confident using the application, enjoy the features of the app, for example the drug dosage calculator, and they report that caretakers in the community are requesting the use of ALMANACH and are understanding that antibiotics are not necessary for all sick children.
 
+<figure><img src=".gitbook/assets/shared image (10).jpg" alt=""><figcaption></figcaption></figure>
+
 
 
 ## Purpose of the guide

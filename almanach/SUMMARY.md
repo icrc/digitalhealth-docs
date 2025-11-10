@@ -24,11 +24,6 @@
 
 * [Usage tips](tips-and-best-practices/usage-tips.md)
 
-## Troubleshooting and FAQ
-
-* [Common Issues](troubleshooting-and-faq/common-issues.md)
-* [FAQ](troubleshooting-and-faq/faq.md)
-
 ## Glossary
 
 * [Key terms](glossary/key-terms.md)

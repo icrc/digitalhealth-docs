@@ -1,6 +1,10 @@
+---
+description: This section is for supervisors and administrators to change user permissions.
+---
+
 # User Roles and Permissions
 
-Your user-roles permissions are assigned by a supervisor. If you think your user-roles and permissions are not matching your daily role please contact support team to change your permissions.
+ALMANACH user-roles and permissions are assigned by a supervisor. If you think your user-roles and permissions are not matching your daily role please contact support team to change your permissions.
 
 ### Changing user permissions
 
