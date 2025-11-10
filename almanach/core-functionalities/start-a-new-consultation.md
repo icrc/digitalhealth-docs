@@ -4,7 +4,7 @@ description: How to start a new ALMANACH consultation in the app
 
 # Start a new consultation
 
-This section outlines the steps to start a new consultation data entry form for "ALMANACH Global Child" within CHT by accessing available forms from the home screen.
+This section outlines the steps to start a new consultation for "ALMANACH Global Child" within CHT by accessing available forms from the home screen.
 
 ### Steps to start a new consultation in Global ALMANACH
 
