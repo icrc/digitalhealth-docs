@@ -25,6 +25,7 @@ This guide will help users to understand how to navigate and troubleshoot the AL
 
 ALMANACH has a number of features:
 
+* Based on WHO clinical protocols for the integrated management of childhood illness
 * Works fully offline
 * Supports a complex clinical algorithm that adapts to user inputs
 * Is available in multiple languages

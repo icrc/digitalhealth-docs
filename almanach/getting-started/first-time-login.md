@@ -12,7 +12,10 @@ This document outlines the steps required to log in to the Community Health Tool
 ### Login Steps
 
 1. **Navigate to the Login Page:** Open your web browser or launch the CHT application. You will be directed to the login screen.
-2. **Log in with SSO:** Click on the button near the bottom of the page that says "Sign in with SSO". This is "Single Sign On" - a secure way to log in, even if you are not connected to the internet.
+2. **Select your language:** Tap on the language of your choice (currently ALMANACH is available in French or English)
+3. **Log in with SSO:** Click on the button near the bottom of the page that says "Sign in with SSO". This is "Single Sign On" - a secure way to log in, even if you are not connected to the internet.
+
+<figure><img src="../.gitbook/assets/shared image (21).jfif" alt="" width="188"><figcaption></figcaption></figure>
 
 
 

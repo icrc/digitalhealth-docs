@@ -1,7 +1,8 @@
 # Usage tips
 
-Offer recommendations for optimizing workflow, common pitfalls, or shortcuts.&#x20;
+**Pausing the consultation:**
 
-_Example:_&#x20;
+When pausing the consultation, make the case recognizable to yourself by adding a hint. This means that when you come back to the task tab after the malaria test, for example, you will find the case easily again.
 
-"For a smoother teleconsultation experience, ensure the patient data is updated before the call to avoid delays."
+<figure><img src="../.gitbook/assets/shared image (22).jfif" alt="" width="188"><figcaption></figcaption></figure>
+
