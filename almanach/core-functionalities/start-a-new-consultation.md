@@ -31,4 +31,5 @@ This section outlines the steps to start a new consultation for "ALMANACH Global
 
     * Action: Click on the module you'd like to start.
     * _Expected Outcome:_ Upon selection, the CHT system will load and display a new, blank consultation data entry form. This form will be ready for the user to input data in the "registration" section of the consultation. The consultation will follow WHO structured clinical protocols.&#x20;
+    * Work your way through the consultation, completing a full examination and entering data as you are requested.
 
