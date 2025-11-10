@@ -17,7 +17,7 @@
 * [Start a new consultation](core-functionalities/start-a-new-consultation.md)
 * [Pausing a consultation for a test](core-functionalities/pausing-a-consultation-for-a-test.md)
 * [Saving a Consultation](core-functionalities/saving-a-consultation.md)
-* [Changing Form and Application Language](core-functionalities/changing-form-and-application-language.md)
+* [Changing the language in ALMANACH](core-functionalities/changing-the-language-in-almanach.md)
 * [User Roles and Permissions](core-functionalities/advanced-functionalities/user-roles-and-permissions.md)
 
 ## Tips and Best Practices
