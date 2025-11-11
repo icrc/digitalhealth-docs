@@ -1,8 +1,4 @@
----
-description: What is ALMANACH and why are we using it?
----
-
-# Introduction
+# ALMANACH User Guide
 
 ## Overview
 

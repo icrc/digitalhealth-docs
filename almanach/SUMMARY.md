@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [ALMANACH User Guide](README.md)
 
 ## Getting Started
 
