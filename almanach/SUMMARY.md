@@ -9,7 +9,7 @@
 
 ## Navigation and Interface Overview
 
-* [Main Interface](navigation-and-interface-overview/main-interface.md)
+* [Landing page](navigation-and-interface-overview/landing-page.md)
 * [Main areas of the app](navigation-and-interface-overview/main-areas-of-the-app.md)
 
 ## Core Functionalities

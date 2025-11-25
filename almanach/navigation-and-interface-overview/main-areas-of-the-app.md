@@ -12,7 +12,7 @@ The People section is the area that allows you to see the health facility inform
 
 **It is from the people section that you start a new consultation** and see a summery of main consultations.&#x20;
 
-You can read the People section which is outlined in the [main-interface.md](main-interface.md "mention") section of the documentation.
+You can read the People section which is outlined in the [landing-page.md](landing-page.md "mention") section of the documentation.
 
 ### The tasks section
 
