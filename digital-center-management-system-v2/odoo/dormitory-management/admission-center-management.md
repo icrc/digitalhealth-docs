@@ -60,8 +60,7 @@ Fields
 
 Menu access : OeHospital -> Management -> CenterManagement -> Bed\
 Fields:\
-\
-
+<br>
 
 *
   * Code

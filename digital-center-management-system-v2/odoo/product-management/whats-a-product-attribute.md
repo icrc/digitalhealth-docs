@@ -4,8 +4,7 @@ Product attribute help us to define multiple product variants with product codes
 Product can be configured by using multiple attributes, and allowing specified attributes values for that product.
 
 To access the list of available product attributes, (stock manager) go to :\
-**Inventory -> Configuration -> Products -> Attributes**\
-
+**Inventory -> Configuration -> Products -> Attributes**<br>
 
 <figure><img src="../../.gitbook/assets/image (93).png" alt="" width="560"><figcaption></figcaption></figure>
 
@@ -23,8 +22,7 @@ Important - this option canot be changed once the first product is configured wi
 
 * 5\. Attribute values - configure all possible values -\
   \- note: when configuring one product, you can use all or just selected attribute values\
-  ![](<../../.gitbook/assets/image (94).png>)\
-
+  ![](<../../.gitbook/assets/image (94).png>)<br>
   * 1\. attribute VALUE name must be unique
   * 2\. the part of code added to product code for this value
   * 3\. Is custom value - if checked, every time will be required to enter custom value

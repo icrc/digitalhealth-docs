@@ -172,8 +172,7 @@ Make the necessary modifications to the form.
 
 Click _‘Save Form’_
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>: Editing the registration form via the Registration Summary</p></figcaption></figure>
 

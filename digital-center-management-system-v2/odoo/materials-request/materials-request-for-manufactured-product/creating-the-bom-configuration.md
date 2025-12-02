@@ -32,4 +32,4 @@ If there is a pop-up message, it may indicate one of the following issues:
 
 Description automatically generated](file:///C:/Users/A079902/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg)
 
-Note : To help you resolve any issue please refer to the Section [Troubleshooting](broken-reference)
+Note : To help you resolve any issue please refer to the Section [Troubleshooting](/broken/pages/uKnvtvl4P5TwUUj78KD7)

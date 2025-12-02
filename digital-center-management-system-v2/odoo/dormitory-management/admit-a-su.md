@@ -48,8 +48,7 @@ Also, select the small checkbox on the corresponding SU Companion Line for each 
 
 <figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
-Admission start and end dates can be set to past, present, or future times, which will determine how the admission buttons behave.\
-
+Admission start and end dates can be set to past, present, or future times, which will determine how the admission buttons behave.<br>
 
 Depending on those dates different behaviour of button will be:
 

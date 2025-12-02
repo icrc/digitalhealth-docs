@@ -24,8 +24,7 @@ Once you have clicked on the link to access the system, you will be taken to the
 2. Enter your password.
 3. Click _‘Log In’_.
 
-\
-
+<br>
 
 <figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -33,8 +32,7 @@ Once you have clicked on the link to access the system, you will be taken to the
 
 You will be taken to a first page where you need to select the location (name of the center where you are working) then click on “Done”
 
-\
-
+<br>
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

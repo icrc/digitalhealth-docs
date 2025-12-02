@@ -2,8 +2,7 @@
 
 Simple product is created without variants. In that case one Product (product.template) corresponds to one Variant ( product.product)\
 Example of such products are : Lady stockings, Plaster of paris - powder, etc...\
-For such products, we need to define only a few things:\
-
+For such products, we need to define only a few things:<br>
 
 <figure><img src="../../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
