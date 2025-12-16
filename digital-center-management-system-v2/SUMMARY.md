@@ -27,6 +27,10 @@
 * [MODULE APPOINTMENT](openmrs/module-appointment/README.md)
   * [PROFESSIONAL DASHBOARD](openmrs/module-appointment/professional-dashboard.md)
 
+***
+
+* [LIGHT VERSION](light-version.md)
+
 ## 🙆‍♂️ Odoo&#x20;
 
 * [Odoo Entry Point](odoo/odoo-entry-point/README.md)
