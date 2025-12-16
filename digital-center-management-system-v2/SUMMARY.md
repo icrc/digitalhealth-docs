@@ -26,6 +26,7 @@
 * [GUIDELINE](openmrs/guideline.md)
 * [MODULE APPOINTMENT](openmrs/module-appointment/README.md)
   * [PROFESSIONAL DASHBOARD](openmrs/module-appointment/professional-dashboard.md)
+* [VIDEOS](openmrs/videos.md)
 
 ***
 
