@@ -4,7 +4,7 @@ description: 'The terms used to describe the different users in TeleConnect:'
 
 # Key terms
 
-**Beneficiary/Service User:** These terms are interchangable and mean the individual that is being assisted through an ICRC or national society-supported service, be that health or protection.
+**Beneficiary/Service User/Patient:** These terms are interchangeable and mean the individual that is being assisted through an ICRC or national society-supported service, be that health or protection.
 
 **Scheduler:** This is the user who schedules calls, typically with service users but it can be with a colleague.
 
