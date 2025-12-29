@@ -4,7 +4,7 @@ description: >-
   essentials questions.
 ---
 
-# Forms (and connection to ODOO)
+# Forms
 
 ### 1. Initial decision after registration&#x20;
 
@@ -77,3 +77,6 @@ if you select service is not available, it means the product or the service is n
 
 
 <figure><img src="../../../.gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>
+
+### FINANCIAL SERVICES&#x20;
+
