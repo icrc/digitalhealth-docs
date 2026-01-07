@@ -2,11 +2,15 @@
 description: How to use our mobile device management service and strategies.
 ---
 
-# \[WIP] Mobile Device Management for the field: the Applivery guide
+# \[WIP] Guide to Mobile Device Management for the field
+
+This guide explains the core concepts, decisions, and strategies behind our MDM (Mobile Device Management) setup, and how Applivery is used to reliably deploy, update, and control mobile applications across a device fleet.
 
 Applivery is the Mobile Device Management (MDM) platform we use to manage mobile devices deployed in the field.
 
-This guide explains the core concepts, decisions, and strategies behind our MDM setup, and how Applivery is used to reliably deploy, update, and control mobile applications across a device fleet.
+> You may be familiar with other Mobile Device Management solutions used at ICRC (such as Workspace ONE, as of early 2026).
+>
+> We use a separate service — Applivery — because our operational model requires the ability to **transfer ownership and responsibility of managed device fleets to local partners** once an engagement or project comes to an end, something not possible with our internal solution.
 
 ## Why Mobile Device Management?
 
@@ -161,3 +165,98 @@ You now have:
 * And one or more private ICRC applications,
 * Ready to be assigned to devices during enrollment.
 
+### 3. Enrolling Devices
+
+Device enrollment is the process that links a physical device to Applivery, applies a policy, and makes the device manageable.
+
+#### Step 1 — Start an enrollment
+
+1. From the top menu, go to: **Device Management → Devices**
+2. Click **Enroll Device** (or **Enroll Multiple Devices** from the button submenu).
+
+#### Step 2 — Configure the enrollment
+
+In the enrollment modal:
+
+**Enrollment type**
+
+* Choose one:
+  * **Fully Managed**
+  * **Work Profile (BYOD)**
+  * If **Fully Managed** is selected, leave the option below as default.
+
+**Employee**
+
+* Select an **Employee** from the list.
+* This is primarily for organisational and communication purposes. Ideally, this should be:
+  * The field contact responsible for overseeing deployment with local helpers.
+  * If no suitable Employee exists yet, you may assign the enrollment to yourself.
+
+> The selected Employee will receive system emails related to the enrollment\
+> (e.g. deployment instructions or enrollment codes).
+
+**Policy**
+
+* Click **Add policy**.
+* Select the policy you created or selected previously.
+
+**Additional options**
+
+1. Click **More options** to reveal additional fields.
+2. Fill in:
+
+* **Tags**\
+  Add tags according to your organisational or project needs.
+*   **Display name**\
+    Use a clear, meaningful naming convention:
+
+    ```
+    <Project> <Enrollment Type> <ID>
+    ```
+
+    Example:
+
+    ```
+    Somalia BYOD Device 01
+    ```
+* Check **Send instruction email to employee**.
+
+3. Click **Create enrollment**.
+
+#### Step 3 — Confirm enrollment instructions
+
+You will be shown the screen: **Enrollment instructions for Android \<enrollment type>.**
+
+* You do **not** need to change anything on this screen.
+* Review the instructions for your own understanding.
+* Click **Confirm Enrollment**.
+
+The enrollment status will now show as **Pending**.
+
+Use the back arrow at the top of the screen to return to the Devices list (if you are not redirected automatically).
+
+#### Step 4 — Share enrollment instructions
+
+Back on the **Devices** screen:
+
+* The enrollment appears as an entry in the Devices table.
+* Clicking it allows you to view the instructions again.
+
+⚠️ **Important**
+
+* The person performing the enrollment on the physical device needs the **QR code** from these instructions. **Consider the QR code shown as uniquer, per enrollment/device.**
+* Even if the assigned Employee receives the instructions by email, we **strongly recommend** sharing them directly yourself (e.g. via email or secure messaging).
+
+#### Step 5 — Complete enrollment on the device
+
+* Once the enrollment is completed on the physical device:
+  * The enrollment entry automatically becomes a **Device** entry.
+  * Device-specific information (model, OS, identifiers) appears.
+* This confirms the enrollment was successful.
+
+#### Operational guidance
+
+* Prepare **one enrollment per device**.
+* Share the corresponding instructions individually for each device.
+* **Do not reuse enrollment instructions across devices — it show one QR code → specific per-device.**
+* If your field contact is responsible for the enrollment of devices, we suggest you do an first couple of enrollment with them directly (via videoconference).
