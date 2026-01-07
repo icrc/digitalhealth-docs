@@ -258,5 +258,5 @@ Back on the **Devices** screen:
 
 * Prepare **one enrollment per device**.
 * Share the corresponding instructions individually for each device.
-* **Do not reuse enrollment instructions across devices — it show one QR code → specific per-device.**
+* **Do not reuse enrollment instructions across devices — it shows one QR code → specific per-device.**
 * If your field contact is responsible for the enrollment of devices, we suggest you do an first couple of enrollment with them directly (via videoconference).
