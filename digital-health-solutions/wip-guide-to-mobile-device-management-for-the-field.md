@@ -183,7 +183,7 @@ In the enrollment modal:
 * Choose one:
   * **Fully Managed**
   * **Work Profile (BYOD)**
-  * If **Fully Managed** is selected, leave the option below as default.
+  * If **Fully Managed** is selected, leave the option below the enrollment type dropdown as default.
 
 **Employee**
 
