@@ -260,3 +260,61 @@ Back on the **Devices** screen:
 * Share the corresponding instructions individually for each device.
 * **Do not reuse enrollment instructions across devices — it shows one QR code → specific per-device.**
 * If your field contact is responsible for the enrollment of devices, we suggest you do an first couple of enrollment with them directly (via videoconference).
+
+### 4. Updating policies
+
+Any change made to a policy — whether it concerns device configuration or applications — only takes effect once the policy is explicitly saved.
+
+This applies to:
+
+* Adding, removing, or updating applications
+* Changing Fully Managed device settings
+* Modifying restrictions or configuration options
+
+#### Important rule
+
+> **A policy is not updated until the “Save Policy” button is clicked. It's easy to miss: it is on the  upper-left side of the screen.**
+
+If changes are not saved, they will **not** be propagated to devices.
+
+#### How policy updates are applied
+
+Once the policy is saved:
+
+* The policy version is incremented.
+* All devices currently equipped with this policy automatically receive the update.
+* Updates are applied silently in the background.
+
+#### How to verify that devices received the update
+
+1. Go to: **Device Management → Devices**
+2. In the Devices table:
+   * Check the **Last update** column. It should show a very recent timestamp.
+3. In the **Policies** column:
+   * Hover over the policy name in the device row.&#x20;
+   * A cogwheel icon is displayed with a number next to it.&#x20;
+   * This number corresponds to the **policy version currently running on the device**.
+   * Verify that this version number matches your most recent policy update.
+
+#### Troubleshooting delayed or missing updates
+
+If a device does not reflect the policy update:
+
+1. Ensure the device is:
+   * Powered on
+   * Connected to the internet (Wi-Fi or mobile data)
+   * Left online long enough for the update to be applied
+2. If the update still does not appear:
+   * Contact the field focal point.
+   * Walk them through the following steps:
+     1. Plug the device into a power source.
+     2. Verify active internet connectivity.
+     3. Perform a **simple device restart.**
+
+In most cases, policy updates are applied shortly after connectivity is restored.
+
+#### Operational guidance
+
+* Always save the policy after making changes.
+* Always verify policy version propagation on at least one device.
+* Avoid making multiple successive changes without validation in between.
