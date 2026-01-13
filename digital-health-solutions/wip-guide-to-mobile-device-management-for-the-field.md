@@ -155,7 +155,7 @@ Repeat this process for **each public app** you want bundled into the policy.
 
 ***
 
-### Result
+#### Result
 
 You now have:
 
