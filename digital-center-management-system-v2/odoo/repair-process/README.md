@@ -49,7 +49,7 @@ flowchart TD
     G0 --> G1
 
     n1@{ shape: diam}
- click A href "https://icrc.gitbook.io/dcms/odoo/repair-process/get-the-product-to-repair"
+ click A href "https://icrc.gitbook.io/dcms/odoo/repair-process/get-the-product-to-repair" _blank
 
 ```
 
