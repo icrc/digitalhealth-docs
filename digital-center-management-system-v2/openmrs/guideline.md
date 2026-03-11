@@ -6,7 +6,7 @@ description: DCMS - Receptionist
 
 <div align="left"><figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption><p>Receptionist </p></figcaption></figure></div>
 
-The Receptionist plays an important role in the HIS journey. It is the first person to be in contact with the HSU at the point of care. The privileges allocated to the Receptionist is to enable the opening of the Episode of Service and to initiate one of the workflows (new service and follow up).&#x20;
+The Receptionist plays an important role in the HIS journey. It is the first person to be in contact with the HSU at the point of care. The privileges allocated to the Receptionist are to enable the opening of the Episode of Service and to initiate one of the workflows (new service and follow up).&#x20;
 
 {% hint style="warning" %}
 Health Service User **(HSU)** is the term used to describe users of the services offered by health programs.
@@ -39,7 +39,7 @@ Next, you will arrive at the demographic page, a universal registration form for
 
 ### Identifiable HSU
 
-For the HUS whose information is not anonymized complete sections in the figure below, as this information is required. To finish, click _‘Confirm’_ in the left-hand side bar.
+For the HSU whose information is not anonymized complete sections in the figure below, as this information is required. To finish, click _‘Confirm’_ in the left-hand side bar.
 
 #### Anonymous HSU
 
@@ -59,7 +59,7 @@ Gender is a mandatory field, regardless of whether or not the HSU wishes to disc
 {% endhint %}
 
 {% hint style="warning" %}
-Unknown’ is selected when a HSU wishes to remain completely anonymous or when the practitioner is not able to ask the question to verify gender.
+'Unknown’ is selected when a HSU wishes to remain completely anonymous or when the practitioner is not able to ask the question to verify gender.
 {% endhint %}
 
 * HSU birth date
@@ -272,7 +272,7 @@ Click on the _‘Show details’_ option to display a summary of the information
 
 #### Editing an encounter (one form)
 
-The possibility to edit a form depend if it was validated or not before saving it: If the form is saved without checking the box “Validated by”, it is still editable but does not impact the workflow process. It is in draft
+The possibility to edit a form depends if it was validated or not before saving it: If the form is saved without checking the box “Validated by”, it is still editable but does not impact the workflow process. It is in draft
 
 Click on the  icon next to the form you wish to edit.
 

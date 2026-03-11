@@ -20,11 +20,11 @@
   * [HSU Journey and Workflows](openmrs/dcms-openmrs/hsu-journey-and-workflows/README.md)
     * [Workflow User Journey](openmrs/dcms-openmrs/hsu-journey-and-workflows/workflow-user-journey.md)
     * [Workflow CLUB FOOT (new service)](openmrs/dcms-openmrs/hsu-journey-and-workflows/workflow-club-foot-new-service.md)
-    * [Workflow CLUB FOOT (Follow up)](openmrs/dcms-openmrs/hsu-journey-and-workflows/workflow-club-foot-follow-up.md)
+    * [Workflow CLUB FOOT (Follow up)](openmrs/dcms-openmrs/hsu-journey-and-workflows/workflow-for-club-foot-treatment-1.md)
     * [Forms](openmrs/dcms-openmrs/hsu-journey-and-workflows/forms.md)
   * [DASHBOARDS](openmrs/dcms-openmrs/dashboards.md)
 * [GUIDELINE](openmrs/guideline.md)
-* [MODULE APPOINTMENT](openmrs/module-appointment/README.md)
+* [MODULE APPOINTMENT](module-appointment/README.md)
   * [PROFESSIONAL DASHBOARD](openmrs/module-appointment/professional-dashboard.md)
 * [VIDEOS](openmrs/videos.md)
 

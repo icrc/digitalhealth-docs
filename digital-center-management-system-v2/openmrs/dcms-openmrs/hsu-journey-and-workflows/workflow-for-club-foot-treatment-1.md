@@ -1,11 +1,11 @@
 ---
 description: >-
-  Example of scenario for a user coming for a foot abduction brace that need
+  Example of scenario for a user coming for a foot abduction brace who needs
   follow up (Adjustment or Renewal). This phase is for PRC delivering FAB
-  without the Ponseti method.
+  without using the Ponseti method.
 ---
 
-# Workflow for Club Foot treatment (Follow up)
+# Workflow CLUB FOOT (Follow up)
 
 {% hint style="warning" %}
 In this scenario; the HSU will only receive the Foot Abduction Brace, as the serial casting (or Ponseti) will be performed in a medical setting (with sometimes a tenotomy).
@@ -24,7 +24,7 @@ For a new HSU who will need a Foot Abduction Brace;
 4. **Initial Assessment**
 5. **Condition Selection:**
    * _Congenital malformation and deformations of the musculoskeletal system (Q65–Q79)_
-   * → **Talipe Equinovarus**
+   * → **Talipes Equinovarus**
 6. **Initial Outcome and Goal Setting**
 
 <mark style="color:orange;">Plan Service: HSU Eligible</mark>
@@ -39,7 +39,7 @@ For a new HSU who will need a Foot Abduction Brace;
 10. **Services**
 
 * Complete the relevant form (in our scenario we select the first one in bold).
-  * **Club foot treatment record, assessment & cast follow up** _You can complete multiple forms to enable the monitoring of the Pirani score ._
+  * **Club foot treatment record, assessment & cast follow up** _You can complete multiple forms to enable the monitoring of the Pirani score._
   * Club foot treatment record tenotomy decision&#x20;
   * Club foot treatment record post tenotomy follow up
   * Club foot post tenotomy functional outcomes
@@ -80,7 +80,7 @@ flowchart TD
     style S stroke:#FFD600
 ```
 
-The HSU comes back for the follow up visit, and will have different options through this workflow "follow up": See below the options.
+The HSU comes back for the follow up visit, and will have different options through this workflow "follow up": See the options below.
 
 **For this specific clinical scenario, we can streamline the process by allowing a Foot Abduction Brace renewal exception in the workflow to facilitate the work of the clinician.**&#x20;
 

@@ -38,4 +38,6 @@ They will be trained on the applications usage after the decommission of the PMS
 
 
 
+{% file src=".gitbook/assets/DMCS ToGo-20251127_112833-Meeting Recording (1).mp4" %}
+
 ## Key Features

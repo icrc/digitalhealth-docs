@@ -26,7 +26,7 @@ The program enrolment dashboard displays in the section “Programs” all the h
 
 
 
-#### View existing programmes
+#### View existing programs
 
 To access the programs dashboard, click on ‘_Programs Dashboard’_ in the ‘_General Actions’_ toolbox.
 
