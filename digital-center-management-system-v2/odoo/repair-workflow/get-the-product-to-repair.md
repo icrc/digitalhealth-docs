@@ -78,7 +78,7 @@ Once the correct lot number has been selected, click the **"Validate"** button. 
 ```mermaid
 graph TD
     A["Start: Click 'Receive for Repair'"] --> B["Select correct SU in 'Receive From' and 'Owner'"]
-    B --> C["Ensutre that 'Destination Location' is 'WH/Repair'"]
+    B --> C["Ensure that 'Destination Location' is 'WH/Repair'"]
     C --> D["Go to 'Operations' tab"]
     D --> E["Add the product to repair (e.g. prosthesis)"]
     E --> H[Click Save]

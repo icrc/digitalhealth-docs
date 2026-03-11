@@ -1,6 +1,11 @@
-# Materials request for Manufactured product
+---
+description: >-
+  In this section, we will explain the flow of the Manufacturing Resource
+  Planning (MRP) process in Odoo, specifically for handling service user
+  requests for medical devices such as prostheses, orthotic
+---
 
-In this section, we will explain the flow of the Manufacturing Resource Planning (MRP) process in Odoo, specifically for handling service user requests for medical devices such as prostheses, orthotics, crutches, wheelchairs, walking aids or other materials.
+# Manufacturing & Delivery
 
 ## Prerequisite
 
@@ -10,21 +15,27 @@ The process begins when a service user requests a specific device. This triggers
 
 {% stepper %}
 {% step %}
-### Identify the service user
+### [Identify the service user](../service-user-management.md)
 
 Locate the service user in the "Service User Management" menu.
 {% endstep %}
 
 {% step %}
-### [Create the Bill of Materials (BoM)](creating-the-bom-configuration.md)
+### [Create the Bill of Materials Configuration(BoM Config)](1.-create-the-bom-configuration.md)
 
 Create a BoM configuration to define the product attributes (e.g., side, size, color).
 {% endstep %}
 
 {% step %}
-### [Validate the Bill of Materials (BoM)](managing-mrp-order.md)
+### [Create the MRP Order](2.-create-the-mrp-order.md)
 
 Confirm the configuration. In some cases, a superior’s validation is required to proceed with the manufacturing order.
+{% endstep %}
+
+{% step %}
+### [Allocate Stock](3.-allocate-stock.md)
+
+
 {% endstep %}
 
 {% step %}
