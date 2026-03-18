@@ -10,6 +10,24 @@
 
 ## 🔄 Step-by-Step Flow&#x20;
 
+**Request for Quotation (RFQ)** is the first step in the manual purchase process, typically initiated by the Stock Manager (the other one being the automatic replenishment). The process is initiated in the **Purchase** application in Odoo:
+
+<figure><img src="../../.gitbook/assets/20260317_Odoo_1.png" alt=""><figcaption></figcaption></figure>
+
+By entering the **Purchase** application, you will be able to see the existing RFQs, as well as create a new one:
+
+<figure><img src="../../.gitbook/assets/20260317_Odoo_2.png" alt=""><figcaption><p>List of existing RFQs</p></figcaption></figure>
+
+***
+
+On the following screen, you will have the option to select any vendor from the dropdown list **(1)**, as well as adding one or more products that are to be purchased **(2)**. You can adjust the unit price of any added product **(3)** for the particular vendor by clicking on the value in the respective line and typing the desired price.
+
+In addition, you can click on the currency abbreviation **(4)**, and select the currency for the particular vendor.
+
+<figure><img src="../../.gitbook/assets/20260317_Odoo_3.png" alt=""><figcaption><p>RFQ setup page</p></figcaption></figure>
+
+Once everything is set up, you can proceed to confirming the purchase order. Please note that until the purchase order is confirmed, it is still considered as a draft proposal and it still does not constitute and commitment on the side of the purchaser.
+
 ### Step 1: Access the Purchase Module
 
 Open the main dashboard and select the Purchase icon. You will see the list of existing RFQs and Purchase Orders.
