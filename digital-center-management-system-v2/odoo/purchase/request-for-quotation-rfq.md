@@ -10,7 +10,7 @@
 
 ## 🔄 Step-by-Step Flow&#x20;
 
-**Request for Quotation (RFQ)** is the first step in the manual purchase process, typically initiated by the Stock Manager (the other one being the automatic replenishment). The process is initiated in the **Purchase** application in Odoo:
+**Request for Quotation (RFS)** is the first step in the manual purchase process, typically initiated by the Stock Manager (the other one being the automatic replenishment). The process is initiated in the **Purchase** application in Odoo:
 
 <figure><img src="../../.gitbook/assets/20260317_Odoo_1.png" alt=""><figcaption></figcaption></figure>
 
