@@ -15,6 +15,12 @@ Roles in Odoo: **Storekeeper**. See Roles and Privileges for full access details
 3. Process the stock move — AutoFill and Validate, or update line by line
 4. Handle backorders if needed — create a backorder or select No Backorder
 
+#### Purchase
+
+1. Access the pending materials request — via SU form or Inventory app
+
+
+
 #### Optional
 
 * Process a recasting component request
