@@ -12,7 +12,7 @@ These tasks require broad administrative access. Always test configuration chang
 
 1. Understand products and variants — key concepts before creating anything
 2. Manage product categories — structure your product catalog correctly
-3. Create a new product — including attributes and variants
+3. [Create a new product](../product-management/how-to-create-new-product/) — including attributes and variants
 4. Understand product attributes — required for correct BoM configuration
 5. Archive a product — safely remove outdated products
 
