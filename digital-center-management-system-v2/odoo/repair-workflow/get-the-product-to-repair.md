@@ -16,25 +16,25 @@ To begin the repair process, the first essential step is to receive the product 
 {% tab title="Via the SU management" %}
 On the home page, go to the icon "Service User Management".
 
-<figure><img src="../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (418).png" alt=""><figcaption></figcaption></figure>
 
 You can view a list of all SU[^1]s here. Use the search bar at the top to find a patient by their name or SU[^1] ID. Please ensure to select the correct option.
 
-<figure><img src="../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (419).png" alt=""><figcaption></figcaption></figure>
 
 Inside the Service User (SU) form, you’ll find a button labeled **"Receive items for Repair"**. Clicking this button will trigger the creation of a stock move, allowing the system to register the product to repair.
 
-<figure><img src="../../.gitbook/assets/image (269).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (420).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Via the Repair application" %}
 On the home page, go to the icon "Repairs".
 
-<figure><img src="../../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (421).png" alt=""><figcaption></figcaption></figure>
 
 At the top of the screen, you'll find a button labeled **"Receive for Repair"**. Clicking this button will create a stock move, allowing the system to register the product being returned for repair.
 
-<figure><img src="../../.gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (422).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -42,13 +42,13 @@ At the top of the screen, you'll find a button labeled **"Receive for Repair"**.
 
 Begin by ensuring that the correct SU has been selected in both the **"Receive From"** and **"Owner"** fields. This ensures that the product being returned is properly linked to the right Service User.
 
-<figure><img src="../../.gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (423).png" alt=""><figcaption></figcaption></figure>
 
 Make sure the **Destination Location** is set to **"WH/Repair"**, which indicates that the product will be received in the workshop for repair.
 
 In the **"Operations"** tab, add a new line with the product that needs to be repaired (e.g., a prosthesis).
 
-<figure><img src="../../.gitbook/assets/image (273).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (424).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Do not include items that will be used during the repair (such as bandages or replacement feet). Only select the item that is being repaired.
@@ -57,7 +57,7 @@ Do not include items that will be used during the repair (such as bandages or re
 After confirming the product and attributes are correct, click **Save**.\
 A new button labeled **"Mark as To Do"** will appear. Click this button to progress the repair intake.
 
-<figure><img src="../../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (425).png" alt=""><figcaption></figcaption></figure>
 
 A new tab named **"Detailed Operations"** will now be visible.
 
@@ -67,9 +67,7 @@ Open this tab, Then click on the button "Edit" and then select the correct **Lot
 If the prosthesis was not previously recorded in the system, you can create a **new serial number** at this step.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (275).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/image (426).png" alt=""><figcaption></figcaption></figure>
 
 Once the correct lot number has been selected, click the **"Validate"** button. This will confirm the receipt of the item and update stock accordingly.
 
