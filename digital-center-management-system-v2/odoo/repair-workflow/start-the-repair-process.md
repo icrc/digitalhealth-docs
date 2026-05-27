@@ -19,15 +19,15 @@ If you're **already in an existing Repair Order**, you can skip this part and mo
 {% tab title="Via the SU management" %}
 On the home page, go to the icon "Service User Management".
 
-<figure><img src="../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (436).png" alt=""><figcaption></figcaption></figure>
 
 You can view a list of all SU[^1]s here. Use the search bar at the top to find a patient by their name or SU[^1] ID. Please ensure to select the correct option.
 
-<figure><img src="../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (437).png" alt=""><figcaption></figcaption></figure>
 
 Inside the Service User (SU) form, you’ll find a tab labeled **"Repair orders"**. Opening this tab will show the list of all the repair order link to this specific SU.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (439).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Via the Repair application" %}
@@ -47,7 +47,7 @@ You can view a list of all Repair order here. Use the search bar at the top to f
 
 To start the repair process in Odoo, click on "Start Repair". If an error pop-up appears, refer to \[[this guide](/broken/pages/uKnvtvl4P5TwUUj78KD7)].
 
-<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (443).png" alt=""><figcaption></figcaption></figure>
 
 If the configuration is correct, all components in the list should be in the "Waiting Another Move" state, indicating that a transfer is in progress to replenish the repair stock.&#x20;
 
@@ -57,7 +57,7 @@ The next step involves the storekeeper, who needs to go to "Resupply Repair" in 
 
 ### Validate the resupply order
 
-<figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (441).png" alt=""><figcaption></figcaption></figure>
 
 Once the transfer is validated, returning to the Repair Order will show that all components are now in the "Available" state, with their reserved quantities updated.
 
@@ -67,7 +67,7 @@ Once the transfer is validated, returning to the Repair Order will show that all
 
 When the repair is complete, simply click on "End Repair". The repair process is now finalized, and the stock has been updated accordingly in Odoo.
 
-<figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (442).png" alt=""><figcaption></figcaption></figure>
 
 
 
