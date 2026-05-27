@@ -16,25 +16,25 @@ This step takes place **after the product has been received for repair** and pro
 {% tab title="Via the SU management" %}
 On the home page, go to the icon "Service User Management".
 
-<figure><img src="../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (428).png" alt=""><figcaption></figcaption></figure>
 
 You can view a list of all SU[^1]s here. Use the search bar at the top to find a patient by their name or SU[^1] ID. Please ensure to select the correct option.
 
-<figure><img src="../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (429).png" alt=""><figcaption></figcaption></figure>
 
 Inside the Service User (SU) form, you’ll find a button labeled **"New repair order"**. Clicking this button will trigger the creation of a repair order, allowing the system to know the product to repair.
 
-<figure><img src="../../.gitbook/assets/image (276).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (430).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Via the Repair application" %}
 On the home page, go to the icon "Repairs".
 
-<figure><img src="../../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (434).png" alt=""><figcaption></figcaption></figure>
 
-You can view the list of existing repair orders from the **Repair Orders** menu. To initiate a new repair process, simply click on the **"Create"** button.
+You can view the list of existing repair orders from the **Repair Orders** menu. To initiate a new repair process, simply click on the **"New"** button.
 
-<figure><img src="../../.gitbook/assets/image (277).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (435).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Via the previous step" %}
@@ -44,7 +44,7 @@ You can view the list of existing repair orders from the **Repair Orders** menu.
 
 If you have selected a Service User where the product to repair was not been received correctly, a pop-up will appear warning that no items belong to this SU. In this case, return to the previous step, “[Get the product to repair.](get-the-product-to-repair.md)”
 
-<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (431).png" alt=""><figcaption></figcaption></figure>
 
 Otherwise, after selecting the partner, the system will automatically identify the product received for repair, and you will be directed to the repair order form.
 
@@ -58,7 +58,7 @@ Here, you can add new entries by clicking on **"Add a line"**. When adding a lin
 Only include items that will be used during the repair (such as bandages or replacement feet). Do not select the item that is being repaired.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (432).png" alt=""><figcaption></figcaption></figure>
 
 If "Removed" is selected, you can modify the destination location to either return the product to stock or move it to the scrap location.
 
@@ -72,7 +72,7 @@ This tab is only relevant if the center is using the **Invoicing** module.
 
 Once everything is set up, the next step is to confirm the repair by clicking on "Confirm Repair".
 
-<figure><img src="../../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (433).png" alt=""><figcaption></figcaption></figure>
 
 ### 🗺️ Visual Overview&#x20;
 
