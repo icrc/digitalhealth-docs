@@ -45,7 +45,7 @@ You can view a list of all Repair order here. Use the search bar at the top to f
 
 ### Start the repair order
 
-To start the repair process in Odoo, click on "Start Repair". If an error pop-up appears, refer to \[[this guide](/broken/pages/uKnvtvl4P5TwUUj78KD7)].
+To start the repair process in Odoo, click on "Start Repair". If an error pop-up appears, refer to \[[this guide](https://app.gitbook.com/s/nTWGcVv7ikvz7HIC0Dby/troubleshooting-and-faq)].
 
 <figure><img src="../../.gitbook/assets/image (443).png" alt=""><figcaption></figcaption></figure>
 

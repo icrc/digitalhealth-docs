@@ -90,7 +90,7 @@
   * [Receiving Purchased Products](odoo/purchase/receiving-purchased-products.md)
   * [Configuration](odoo/purchase/configuration/README.md)
     * [Configure Vendors](odoo/purchase/configuration/configure-vendors.md)
-    * [Define product vendor](odoo/purchase/configuration/define-product-vendor.md)
+    * [Configure a Product for Purchase](odoo/purchase/configuration/configure-a-product-for-purchase.md)
 * [HR](odoo/hr/README.md)
   * [Setting up the HR](odoo/hr/setting-up-the-hr.md)
   * [Manage employee](odoo/hr/manage-employee.md)
