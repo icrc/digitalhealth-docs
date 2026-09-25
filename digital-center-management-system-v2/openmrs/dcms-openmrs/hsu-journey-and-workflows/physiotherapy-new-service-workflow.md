@@ -30,7 +30,7 @@ Once the Physiotherapy Assessment, Outcome and Treatment Plan have been validate
 
 The physiotherapist should record the relevant information for each session, including the required treatment details shown in the form.
 
-The number of Treatment Session Records depends on the patient's treatment plan and the number of sessions required for the selected physiotherapy category.
+The number of Physiotherapy Treatment Session Record depends on the patient's treatment plan and the number of sessions required for the selected physiotherapy category.
 
 <figure><img src="../../../.gitbook/assets/image (444).png" alt=""><figcaption></figcaption></figure>
 
