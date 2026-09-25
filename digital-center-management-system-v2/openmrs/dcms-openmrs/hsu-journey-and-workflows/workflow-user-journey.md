@@ -296,7 +296,7 @@ flowchart TB
     %% Main flow
     A["Register the HSU or find the HSU file coming to the PRC"] --> 
     B["Start the visit (Open the Episode of service)"] --> 
-    C["Initial decision after registration and decision to send for New Service (ADL/Walking aid))"] --> 
+    C["Initial decision after registration and decision to send for New Service (ADL/Walking aid)"] --> 
     D["Initial Assessment (interdisciplinary team)"] --> 
     E["Walking Aid and ADL Product Card"] -->
 F["Final assessment Outcome and goal setting (Automatic closure of service)"]      
