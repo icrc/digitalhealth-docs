@@ -216,7 +216,7 @@ Decision: Follow up/repair or New Interdisciplinary assessment or end the follow
 {% endstep %}
 
 {% step %}
-### Financial capacity assessment
+### Financial capacity assessment - Follow Up
 
 If not approved complete the socioeconomic already recorded&#x20;
 
@@ -259,7 +259,52 @@ flowchart TB
 
 ```
 
+### Simplified Workflow only for Walking Aid and ADL
 
+{% stepper %}
+{% step %}
+### Register the HSU or find the HSU file coming to the PRC&#x20;
+
+
+{% endstep %}
+
+{% step %}
+### Start the visit (Open the Episode of service)
+
+Initial decision after registration and decision to send for New Service (ADL/Walking aid)
+{% endstep %}
+
+{% step %}
+### Initial Assessment (interdisciplinary team)
+{% endstep %}
+
+{% step %}
+### Walking Aid and ADL Product Card
+{% endstep %}
+
+{% step %}
+### Final assessment Outcome and goal setting (Automatic closure of service)
+
+Appointment for follow up visit
+{% endstep %}
+{% endstepper %}
+
+###
+
+```mermaid
+flowchart TB
+    %% Main flow
+    A["Register the HSU or find the HSU file coming to the PRC"] --> 
+    B["Start the visit (Open the Episode of service)"] --> 
+    C["Initial decision after registration and decision to send for New Service (ADL/Walking aid))"] --> 
+    D["Initial Assessment (interdisciplinary team)"] --> 
+    E["Walking Aid and ADL Product Card"] -->
+F["Final assessment Outcome and goal setting (Automatic closure of service)"]      
+   
+
+    %% Styling
+    classDef default fill:#f0f0f0,stroke:#333,stroke-width:1.5px;
+```
 
 ### SIMPLIFIED WORKFLOW FOR WALKING AND ADL
 
