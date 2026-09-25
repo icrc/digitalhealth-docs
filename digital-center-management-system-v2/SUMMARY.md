@@ -21,6 +21,7 @@
     * [Workflow User Journey](openmrs/dcms-openmrs/hsu-journey-and-workflows/workflow-user-journey.md)
     * [Workflow CLUB FOOT (new service)](openmrs/dcms-openmrs/hsu-journey-and-workflows/workflow-club-foot-new-service.md)
     * [Workflow CLUB FOOT (Follow up)](openmrs/dcms-openmrs/hsu-journey-and-workflows/workflow-for-club-foot-treatment-1.md)
+    * [Physiotherapy New Service Workflow](openmrs/dcms-openmrs/hsu-journey-and-workflows/physiotherapy-new-service-workflow.md)
     * [Forms](openmrs/dcms-openmrs/hsu-journey-and-workflows/forms.md)
   * [DASHBOARDS](openmrs/dcms-openmrs/dashboards.md)
 * [GUIDELINE](openmrs/guideline.md)

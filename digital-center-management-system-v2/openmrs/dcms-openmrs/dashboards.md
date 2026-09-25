@@ -48,7 +48,7 @@ Click on the icon at the top of the widget
 
 2. &#x20;Click _‘Save Form’_.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 _Remark: You can access the same function through the HSU header_

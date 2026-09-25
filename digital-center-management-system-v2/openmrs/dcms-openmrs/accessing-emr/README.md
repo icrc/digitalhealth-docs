@@ -24,13 +24,13 @@ Once you have clicked on the link to access the system, you will be taken to the
 2. Enter your password.
 3. Click _‘Sign In’_.
 
-![](<../../../.gitbook/assets/image (1).png>)<br>
+![](<../../../.gitbook/assets/image (1) (1).png>)<br>
 
 ### &#x20;Select login location
 
 You will be taken to a first page where you need to select the location (name of the center where you are working) then click on “Done”
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Landing page (Main Menu) <a href="#hlk89272469" id="hlk89272469"></a>
 
