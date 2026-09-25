@@ -18,6 +18,8 @@ The selected category determines the type of physiotherapy service to be provide
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+Once the form has been validated, proceed to the next step: Physiotherapy Treatment Session Record.
+
 ### 2. Physiotherapy Treatment Session Record
 
 Once the assessment and treatment plan have been established, the physiotherapist records each treatment session using the Physiotherapy Treatment Session Record.
@@ -32,7 +34,7 @@ The number of Treatment Session Records depends on the patient's treatment plan 
 
 <figure><img src="../../../.gitbook/assets/image (444).png" alt=""><figcaption></figcaption></figure>
 
-Once all required treatment sessions have been completed, proceed to the **Physiotherapy Outcome and Treatment Conclusion**.
+Once all required treatment sessions have been completed and validated, proceed to the Physiotherapy Outcome and Treatment Conclusion.
 
 ### 3. Physiotherapy Outcome and Treatment Conclusion
 
