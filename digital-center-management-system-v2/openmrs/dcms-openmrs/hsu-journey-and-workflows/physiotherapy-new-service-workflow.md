@@ -1,6 +1,6 @@
 # Physiotherapy New Service Workflow
 
-When completing the New Service workflow, the physiotherapy cycle consists of three main steps:
+When completing the New Service workflow, there are three main steps to complete the physiotherapy service:
 
 1. Physiotherapy Assessment, Outcome and Treatment Plan
 2. Physiotherapy Treatment Session Record
@@ -10,11 +10,11 @@ When completing the New Service workflow, the physiotherapy cycle consists of th
 
 The first step is to complete the Physiotherapy Assessment, Outcome and Treatment Plan.
 
-This form is used to define the physiotherapy assessment and treatment plan and to determine the type of physiotherapy category.
+This form is used to define the physiotherapy assessment and treatment plan and to select the appropriate physiotherapy category.
 
 The physiotherapist must determine whether the service is Individual (Pre fitting, Post fitting or Non AT Related) or Group.
 
-The selected type determines the physiotherapy cycle that will be carried out.
+The selected category determines the type of physiotherapy service to be provided.
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
@@ -24,9 +24,9 @@ Once the assessment and treatment plan have been established, the physiotherapis
 
 A **separate Treatment Session Record must be completed for each session**.
 
-The physiotherapist should record the relevant information for the session, including the required treatment details shown in the form.
+The physiotherapist should record the relevant information for each session, including the required treatment details shown in the form.
 
-The number of Treatment Session Records depends on the patient's treatment plan and the number of sessions required to complete the physiotherapy cycle.
+The number of Treatment Session Records depends on the patient's treatment plan and the number of sessions required for the selected physiotherapy category.
 
 <figure><img src="../../../.gitbook/assets/image (444).png" alt=""><figcaption></figcaption></figure>
 
@@ -36,9 +36,9 @@ Once all required treatment sessions have been completed, proceed to the **Physi
 
 After completing all required treatment sessions, complete the Physiotherapy Outcome and Treatment Conclusion.
 
-This form is used to record the outcome and conclusion of the completed physiotherapy cycle.
+This form is used to record the outcome and conclusion of the physiotherapy service.
 
-The physiotherapist first identifies the cycle that has been completed, for example:
+The physiotherapist first identifies the category that has been completed, for example:
 
 * **Pre fitting**
 * **Post fitting**
@@ -46,15 +46,15 @@ The physiotherapist first identifies the cycle that has been completed, for exam
 
 <figure><img src="../../../.gitbook/assets/image (446).png" alt=""><figcaption></figcaption></figure>
 
-Based on the outcome of the completed cycle, the physiotherapist determines the next step:
+Based on the outcome of the completed physiotherapy service, the physiotherapist determines the next step:
 
 * <mark style="color:blue;">Continue physiotherapy services</mark>
 
-If another physiotherapy cycle is required, the next cycle can be initiated.
+If another physiotherapy category is required, the physiotherapist can start the process again by selecting the appropriate category.
 
-For example, after completing a Pre fitting cycle, the physiotherapist may determine that Post fitting physiotherapy sessions are required.
+For example, after completing the Pre fitting category, the physiotherapist may determine that Post fitting physiotherapy sessions are required.
 
-In this case, the physiotherapist starts a new cycle by completing the Physiotherapy Assessment, Outcome and Treatment Plan.
+In this case, the physiotherapist completes the Physiotherapy Assessment, Outcome and Treatment Plan again and selects Post fitting as the physiotherapy category.
 
 * <mark style="color:blue;">End physiotherapy services</mark>
 
