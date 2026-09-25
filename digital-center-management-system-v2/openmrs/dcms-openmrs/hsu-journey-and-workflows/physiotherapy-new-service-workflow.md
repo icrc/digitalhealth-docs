@@ -22,7 +22,9 @@ The selected category determines the type of physiotherapy service to be provide
 
 Once the assessment and treatment plan have been established, the physiotherapist records each treatment session using the Physiotherapy Treatment Session Record.
 
-A **separate Treatment Session Record must be completed for each session**.
+{% hint style="info" %}
+**A separate Treatment Session Record must be completed for each session**.
+{% endhint %}
 
 The physiotherapist should record the relevant information for each session, including the required treatment details shown in the form.
 
