@@ -6,7 +6,7 @@ description: New service and follow up/repair (worflow in details)
 
 Register the HSU or find the HSU file coming to the PRC
 
-### a. Workflow new service&#x20;
+### a. Workflow New Service&#x20;
 
 {% stepper %}
 {% step %}
@@ -25,7 +25,7 @@ Register the HSU or find the HSU file coming to the PRC
 {% step %}
 ### Financial capacity assessment
 
-<mark style="color:green;">(if not approved) Socioeconomic assessment+ Financing decision</mark>
+<mark style="color:green;">(if not approved) Socioeconomic assessment + Financing decision</mark>
 {% endstep %}
 
 {% step %}
@@ -64,9 +64,13 @@ Appointment for follow up visit
     D -.-> D2["Optional Assessment"]
 
     D --> E["Initial outcome and goal setting + Basic service plan + clinical consent"]
+    
     E --> E1["Plan Service"]
-    E1 --> F["Financial capacity assessment + socio-economic assessment"]
-    E2 --> F["Financing decision if financial capacity is not approved"]
+    E --> E2["Financial capacity assessment + socio-economic assessment"]
+
+    E1 --> F["Financing decision if financial capacity is not approved"]
+    E2 --> F
+
     F --> G["Any Services"]
 
     %% Subgraph for services (no label), all connect directly to Final Assessment

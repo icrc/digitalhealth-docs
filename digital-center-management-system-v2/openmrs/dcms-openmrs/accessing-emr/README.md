@@ -22,19 +22,15 @@ Once you have clicked on the link to access the system, you will be taken to the
 
 1. Enter your username. e.g. sban@komprc.dcmsaccess.org
 2. Enter your password.
-3. Click _‘Log In’_.
+3. Click _‘Sign In’_.
 
-<br>
-
-<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../../../.gitbook/assets/image (1).png>)<br>
 
 ### &#x20;Select login location
 
 You will be taken to a first page where you need to select the location (name of the center where you are working) then click on “Done”
 
-<br>
-
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Landing page (Main Menu) <a href="#hlk89272469" id="hlk89272469"></a>
 
@@ -42,12 +38,4 @@ Once you have selected a location, you will be taken to the main landing page. T
 
 Figure 3: Landing page – log in as a DCMS Admin (large privilege access)
 
-## &#x20;
-
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-## &#x20;
-
-## &#x20;
-
-## &#x20;
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

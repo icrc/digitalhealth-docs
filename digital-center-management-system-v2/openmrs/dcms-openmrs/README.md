@@ -34,3 +34,4 @@ Then click on the button and select the language you need.
 
 <figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>My account</p></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

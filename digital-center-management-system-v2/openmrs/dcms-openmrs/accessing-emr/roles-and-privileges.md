@@ -1,6 +1,6 @@
 ---
 description: >-
-  Based on your profil in the centre and you role, you will be reeiving
+  Based on your profile in the center and your role, you will be receiving
   privileges that allows you to enter the data in the DCMS:
 ---
 
@@ -14,11 +14,11 @@ Before deploying the system, each role and its privileges will be thoroughly dis
 
 As you could see in the previous page with the different pictures, you can access different dashboard based on your profile.
 
-* [Receptionist](../../../odoo/manufacturing-and-delivery/3-5.-request-components-for-recasting-optional-step.md)
+* <mark style="color:blue;">Receptionist</mark>
 
 The receptionist plays a crucial role as the first point of contact for the HSU. Their responsibilities include registering the HSU, locating the HSU file, initiating the visit, ensuring the clinical consent form is signed, and scheduling an appointment.&#x20;
 
-* Interdisciplinary team
+* <mark style="color:blue;">Interdisciplinary team</mark>
 
 The interdisciplinary team, comprising heads of orthotics-prosthetics, physiotherapy departments, and physicians, meets to evaluate HSU needs, oversee service delivery, and quality.
 
