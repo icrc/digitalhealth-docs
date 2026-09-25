@@ -42,9 +42,9 @@ This form is used to record the outcome and conclusion of the physiotherapy serv
 
 The physiotherapist first identifies the category that has been completed, for example:
 
-* **Pre fitting**
-* **Post fitting**
-* **Non AT Related**
+* Pre fitting
+* Post fitting
+* Non AT Related
 
 <figure><img src="../../../.gitbook/assets/image (446).png" alt=""><figcaption></figcaption></figure>
 
