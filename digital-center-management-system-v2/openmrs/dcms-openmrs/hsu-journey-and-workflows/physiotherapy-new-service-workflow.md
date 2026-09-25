@@ -22,7 +22,7 @@ Once the form has been validated, proceed to the next step: Physiotherapy Treatm
 
 ### 2. Physiotherapy Treatment Session Record
 
-Once the assessment and treatment plan have been established, the physiotherapist records each treatment session using the Physiotherapy Treatment Session Record.
+Once the Physiotherapy Assessment, Outcome and Treatment Plan have been validated, the physiotherapist records each treatment session using the Physiotherapy Treatment Session Record.
 
 {% hint style="info" %}
 **A separate Physiotherapy Treatment Session Record must be completed for each session**.
